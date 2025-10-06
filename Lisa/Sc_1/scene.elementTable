@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elements source="Harmony Premium (HarmonyPremium.exe) version 24.0.1 build 23019 2024-07-20 09:57:32" version="2401" build="23019">
+ <element id="5" elementName="fon2" elementFolder="fon2" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="6" elementName="L" elementFolder="L" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="7" elementName="builder" elementFolder="builder" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="9" elementName="bee_2" elementFolder="bee_2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="10" elementName="scout" elementFolder="scout" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="12" elementName="22" elementFolder="22" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="14" elementName="29" elementFolder="29" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+</elements>
