@@ -1,0 +1,34 @@
+# Toon Boom Harmony/Storyboard Pro .gitignore
+
+# Backup files
+*.sbbkp
+*.bak
+
+# Cache and temporary files
+cache/
+temp/
+frames/
+renders/
+
+# Toon Boom specific generated files/folders
+*.xstage
+*.xstage.lock
+*.xstage.bak
+*.xstage.bkp
+*.sbd
+*.sbd.lock
+*.sbd.bak
+*.sbd.bkp
+*.tb_lock
+*.tb_backup
+
+# User-specific settings or local configurations
+local_settings/
+preferences/
+
+# Log files
+*.log
+
+# Thumbnails and preview files
+.thumbnails/
+preview/
