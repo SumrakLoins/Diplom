@@ -10,3 +10,4 @@ Gradient "New 0"                    0x0cce55ca42f0a889 Linear
        100.0 137  82 255 255 }
 Solid    "New 0"                    0x0cce9f23af3038cf 255 189   6 255
 Solid    "New 1"                    0x0cce9f23af3064ed 255 255 221 255
+Solid    "New 0"                    0x0cd1ed08ec7134e9   0   0  43 160
