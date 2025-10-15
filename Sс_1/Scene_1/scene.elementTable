@@ -61,6 +61,5 @@
  <element id="87" elementName="20_T" elementFolder="20_T" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="88" elementName="24" elementFolder="24" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="89" elementName="Drawing_2" elementFolder="Drawing_2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="90" elementName="13" elementFolder="13.90" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="91" elementName="Drawing_3" elementFolder="Drawing_3" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="90" elementName="15" elementFolder="15.90" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
