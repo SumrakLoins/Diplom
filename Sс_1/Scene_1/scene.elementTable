@@ -41,7 +41,7 @@
  <element id="64" elementName="15" elementFolder="15" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="65" elementName="30" elementFolder="30" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="66" elementName="48" elementFolder="48" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="67" elementName="12" elementFolder="12.67" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="67" elementName="12_1" elementFolder="12_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="68" elementName="29" elementFolder="29" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="69" elementName="33" elementFolder="33" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="70" elementName="56" elementFolder="56" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
@@ -69,4 +69,5 @@
  <element id="95" elementName="18" elementFolder="18.95" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="96" elementName="Drawing_5" elementFolder="Drawing_5" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="97" elementName="26" elementFolder="26.97" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="98" elementName="12_1" elementFolder="12_1.98" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
