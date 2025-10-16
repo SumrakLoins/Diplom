@@ -506,6 +506,38 @@
     <dwg name="4"/>
     <dwg name="3"/>
     <dwg name="1"/>
+    <dwg name="5"/>
+    <dwg name="24"/>
+    <dwg name="23"/>
+    <dwg name="25"/>
+    <dwg name="26"/>
+    <dwg name="27"/>
+    <dwg name="28"/>
+    <dwg name="29"/>
+    <dwg name="30"/>
+    <dwg name="31"/>
+    <dwg name="32"/>
+    <dwg name="33"/>
+    <dwg name="34"/>
+    <dwg name="35"/>
+    <dwg name="36"/>
+    <dwg name="37"/>
+    <dwg name="38"/>
+    <dwg name="39"/>
+    <dwg name="40"/>
+    <dwg name="41"/>
+    <dwg name="42"/>
+    <dwg name="43"/>
+    <dwg name="44"/>
+    <dwg name="45"/>
+    <dwg name="46"/>
+    <dwg name="47"/>
+    <dwg name="48"/>
+    <dwg name="49"/>
+    <dwg name="50"/>
+    <dwg name="51"/>
+    <dwg name="52"/>
+    <dwg name="53"/>
    </drawings>
   </element>
   <element id="64" elementName="15" elementFolder="15" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -923,6 +955,10 @@
     <dwg name="20"/>
     <dwg name="21"/>
     <dwg name="22"/>
+    <dwg name="23"/>
+    <dwg name="24"/>
+    <dwg name="25"/>
+    <dwg name="26"/>
    </drawings>
   </element>
   <element id="94" elementName="Drawing_4" elementFolder="Drawing_4" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -1003,7 +1039,7 @@
        <pt val="-33.541586897067852,0.13888855857999244,0" lockedInTime="1"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0CD3CEB9321012AF" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0CD42777555010E0" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -1059,7 +1095,7 @@
        <pt val="0.52083307644182852,-24.20351527129214,-7.0833298396087976" lockedInTime="282"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0CD3CEB9321012B1" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0CD42777555010E2" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -1295,7 +1331,7 @@
       <lipSync showSoundForm="0"/>
      </soundSequence>
     </column>
-    <column type="0" name="Shadow" display="false" displayOrder="0" width="100" anonymous="true" id="39">
+    <column type="0" name="Shadow" displayOrder="0" width="100" anonymous="true" id="39">
      <elementSeq exposures="1-249,255-281" val="1" id="39"/>
     </column>
     <column type="3" name="ATV-0CAAD155EDA008BFEC780583" displayOrder="0" width="100" anonymous="true">
@@ -1358,7 +1394,7 @@
        <pt val="0,0,0" lockedInTime="180"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0CD3CEB9321012B6" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0CD42777555010E7" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -1553,8 +1589,39 @@
      <elementSeq exposures="1-4,17-20,21-24,37-40,41-44,57-60,61-64,77-80,81-84,97-100,101-104,117-120,121-124" val="2" id="63"/>
      <elementSeq exposures="5-8,13-16,25-28,33-36,45-48,53-56,65-68,73-76,85-88,93-96,105-108,113-116,125-128" val="4" id="63"/>
      <elementSeq exposures="9-12,29-32,49-52,69-72,89-92,109-112" val="3" id="63"/>
+     <elementSeq exposures="129" val="5" id="63"/>
+     <elementSeq exposures="130" val="24" id="63"/>
+     <elementSeq exposures="131" val="23" id="63"/>
+     <elementSeq exposures="132" val="25" id="63"/>
+     <elementSeq exposures="133" val="27" id="63"/>
+     <elementSeq exposures="134" val="28" id="63"/>
+     <elementSeq exposures="135" val="26" id="63"/>
+     <elementSeq exposures="136" val="37" id="63"/>
+     <elementSeq exposures="137,167" val="29" id="63"/>
+     <elementSeq exposures="138" val="38" id="63"/>
+     <elementSeq exposures="139" val="30" id="63"/>
+     <elementSeq exposures="140" val="31" id="63"/>
+     <elementSeq exposures="141" val="32" id="63"/>
+     <elementSeq exposures="142" val="40" id="63"/>
+     <elementSeq exposures="143" val="39" id="63"/>
+     <elementSeq exposures="144" val="41" id="63"/>
+     <elementSeq exposures="145" val="33" id="63"/>
+     <elementSeq exposures="146" val="42" id="63"/>
+     <elementSeq exposures="147" val="43" id="63"/>
+     <elementSeq exposures="148,152" val="34" id="63"/>
+     <elementSeq exposures="149,151" val="36" id="63"/>
+     <elementSeq exposures="150,153" val="35" id="63"/>
+     <elementSeq exposures="154" val="48" id="63"/>
+     <elementSeq exposures="155" val="47" id="63"/>
+     <elementSeq exposures="156" val="49" id="63"/>
+     <elementSeq exposures="157,159,162" val="44" id="63"/>
+     <elementSeq exposures="158,160,161" val="45" id="63"/>
+     <elementSeq exposures="163" val="50" id="63"/>
+     <elementSeq exposures="164" val="53" id="63"/>
+     <elementSeq exposures="165" val="51" id="63"/>
+     <elementSeq exposures="166" val="52" id="63"/>
     </column>
-    <column type="0" name="15" color="#FFFFFFFF" display="false" displayOrder="0" width="100" anonymous="true" id="64">
+    <column type="0" name="15" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="64">
      <elementSeq exposures="1-6,25-30,49-54,73-78,97-102,121-126" val="1" id="64"/>
      <elementSeq exposures="7-11,31-35,55-59,79-83,103-107" val="4" id="64"/>
      <elementSeq exposures="12-19,36-43,60-67,84-91,108-115" val="3" id="64"/>
@@ -1865,7 +1932,7 @@
        <pt val="-10.989577912922488,-8.9583289147993739,0" lockedInTime="218"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0CD3CEB9321012B8" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0CD42777555010E9" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -1944,7 +2011,7 @@
        <pt val="12.759993706363538,-8.319995896312264,0" lockedInTime="207"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0CD3CEB9321012BA" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0CD42777555010EB" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -2064,7 +2131,7 @@
        <pt val="3.3870684352097711,13.82825596605859,0" lockedInTime="216"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0CD3CEB9321012BC" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0CD42777555010ED" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -2113,7 +2180,7 @@
        <pt val="3.1249984120848335,8.5555512081967215,0" lockedInTime="214"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0CD3CEB9321012BE" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0CD42777555010EF" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -2174,10 +2241,10 @@
      <elementSeq exposures="198-199,202-203" val="38" id="90"/>
      <elementSeq exposures="200-201,204-205" val="39" id="90"/>
     </column>
-    <column type="0" name="ATV-0C9AD365E486670B1903157E" display="false" displayOrder="0" width="100" anonymous="true" id="91">
+    <column type="0" name="ATV-0C9AD365E486670B1903157E" displayOrder="0" width="100" anonymous="true" id="91">
      <elementSeq exposures="127-160" val="1" id="91"/>
     </column>
-    <column type="0" name="ATV-0C7BD384C00AB6EB7261138B" color="#FFFFFFFF" display="false" displayOrder="0" width="100" anonymous="true" id="92">
+    <column type="0" name="ATV-0C7BD384C00AB6EB7261138B" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="92">
      <elementSeq exposures="1-6,25-30,49-54,73-78,97-102,121-126" val="1" id="92"/>
      <elementSeq exposures="7-11,31-35,55-59,79-83,103-107" val="4" id="92"/>
      <elementSeq exposures="12-19,36-43,60-67,84-91,108-115" val="3" id="92"/>
@@ -2206,12 +2273,16 @@
      <elementSeq exposures="196-197" val="30" id="92"/>
      <elementSeq exposures="198-199" val="31" id="92"/>
     </column>
-    <column type="0" name="ATV-0C10D3EFD1FD2E0482611BC7" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="93">
+    <column type="0" name="ATV-0C10D3EFD1FD2E0482611BC7" color="#FFFFFFFF" display="false" displayOrder="0" width="100" anonymous="true" id="93">
      <elementSeq exposures="1-4,17-20,21-24,37-40,41-44,57-60,61-64,77-80,81-84,97-100,101-104,117-120,121-124" val="2" id="93"/>
      <elementSeq exposures="5-8,13-16,25-28,33-36,45-48,53-56,65-68,73-76,85-88,93-96,105-108,113-116,125-128" val="4" id="93"/>
      <elementSeq exposures="9-12,29-32,49-52,69-72,89-92,109-112" val="3" id="93"/>
      <elementSeq exposures="129" val="5" id="93"/>
+     <elementSeq exposures="130" val="24" id="93"/>
+     <elementSeq exposures="131" val="23" id="93"/>
+     <elementSeq exposures="132" val="25" id="93"/>
      <elementSeq exposures="133" val="7" id="93"/>
+     <elementSeq exposures="135" val="26" id="93"/>
      <elementSeq exposures="137" val="6" id="93"/>
      <elementSeq exposures="139,141" val="9" id="93"/>
      <elementSeq exposures="145" val="8" id="93"/>
@@ -2219,14 +2290,14 @@
      <elementSeq exposures="150" val="12" id="93"/>
      <elementSeq exposures="152" val="18" id="93"/>
      <elementSeq exposures="153" val="19" id="93"/>
-     <elementSeq exposures="155" val="20" id="93"/>
-     <elementSeq exposures="156" val="22" id="93"/>
-     <elementSeq exposures="157" val="14" id="93"/>
-     <elementSeq exposures="158,159" val="15" id="93"/>
-     <elementSeq exposures="160" val="21" id="93"/>
-     <elementSeq exposures="168" val="16" id="93"/>
+     <elementSeq exposures="157" val="20" id="93"/>
+     <elementSeq exposures="158" val="22" id="93"/>
+     <elementSeq exposures="159" val="14" id="93"/>
+     <elementSeq exposures="160,161" val="15" id="93"/>
+     <elementSeq exposures="163" val="21" id="93"/>
+     <elementSeq exposures="167" val="16" id="93"/>
     </column>
-    <column type="0" name="ATV-0C6AD395D1012EEA82611D8B" displayOrder="0" width="100" anonymous="true" id="94">
+    <column type="0" name="ATV-0C6AD395D1012EEA82611D8B" display="false" displayOrder="0" width="100" anonymous="true" id="94">
      <elementSeq exposures="128-205" val="1" id="94"/>
     </column>
    </columns>
@@ -2239,7 +2310,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="-19,0,4" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="-19,0,5" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2258,13 +2329,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="61,178,8" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="61,178,9" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="-39,178,17" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="-39,178,18" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2301,7 +2372,7 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="23_1" pos="-250,162,6" publishUnderTab="23_1">
+     <module type="READ" name="23_1" pos="-250,162,7" publishUnderTab="23_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2413,7 +2484,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="fon2" pos="462,-157,16" publishUnderTab="fon2">
+     <module type="READ" name="fon2" pos="462,-157,17" publishUnderTab="fon2">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -2525,7 +2596,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="bee_2" pos="651,-157,13" publishUnderTab="bee_2">
+     <module type="READ" name="bee_2" pos="651,-157,14" publishUnderTab="bee_2">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -2637,7 +2708,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="bee_2-P" pos="633,-245,15" publishUnderTab="bee_2-P">
+     <module type="PEG" name="bee_2-P" pos="633,-245,16" publishUnderTab="bee_2-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2700,8 +2771,9 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Camera-P" pos="-174,-47,14" publishUnderTab="Camera-P">
+     <module type="PEG" name="Camera-P" pos="-174,-47,15" publishUnderTab="Camera-P">
       <options>
+       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -2763,7 +2835,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="CAMERA" name="Camera" pos="-188,15,12" publishUnderTab="Camera">
+     <module type="CAMERA" name="Camera" pos="-188,15,13" publishUnderTab="Camera">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -2793,7 +2865,7 @@
       </options>
       <attrs/>
       <nodeslist>
-       <module type="MULTIPORT_IN" name="Input" pos="146,-889,29">
+       <module type="MULTIPORT_IN" name="Input" pos="146,-889,32">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -2803,7 +2875,7 @@
          <port type="PEG" idx="1"/>
         </ports>
        </module>
-       <module type="MULTIPORT_OUT" name="Output" pos="0,100,52">
+       <module type="MULTIPORT_OUT" name="Output" pos="0,100,55">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -2812,7 +2884,7 @@
          <port type="IMAGE" idx="0"/>
         </ports>
        </module>
-       <module type="READ" name="20" pos="-841,-425,6" publishUnderTab="20">
+       <module type="READ" name="20" pos="-841,-425,8" publishUnderTab="20">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -2931,7 +3003,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="24" pos="-329,-642,26" publishUnderTab="24">
+       <module type="READ" name="24" pos="-329,-642,29" publishUnderTab="24">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -3055,7 +3127,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="32" pos="322,-735,54" publishUnderTab="32">
+       <module type="READ" name="32" pos="322,-735,57" publishUnderTab="32">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -3178,7 +3250,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="37" pos="594,-611,41" publishUnderTab="37">
+       <module type="READ" name="37" pos="594,-611,44" publishUnderTab="37">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -3297,7 +3369,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="38" pos="662,-580,37" publishUnderTab="38">
+       <module type="READ" name="38" pos="662,-580,40" publishUnderTab="38">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -3418,7 +3490,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="40" pos="798,-518,32" publishUnderTab="40">
+       <module type="READ" name="40" pos="798,-518,35" publishUnderTab="40">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -3537,7 +3609,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="45" pos="1002,-425,36" publishUnderTab="45">
+       <module type="READ" name="45" pos="1002,-425,39" publishUnderTab="45">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -3656,7 +3728,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="46" pos="1070,-394,34" publishUnderTab="46">
+       <module type="READ" name="46" pos="1070,-394,37" publishUnderTab="46">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -3777,7 +3849,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="50" pos="1342,-270,57" publishUnderTab="50">
+       <module type="READ" name="50" pos="1342,-270,60" publishUnderTab="50">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -3896,7 +3968,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="COMPOSITE" name="Composite" pos="-336,39,53" publishUnderTab="Composite">
+       <module type="COMPOSITE" name="Composite" pos="-336,39,56" publishUnderTab="Composite">
         <options>
          <collapsed val="false"/>
          <version val="1"/>
@@ -3915,7 +3987,7 @@
          <mergeVector val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="47" pos="1138,-363,50" publishUnderTab="46">
+       <module type="READ" name="47" pos="1138,-363,53" publishUnderTab="46">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -4034,7 +4106,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="59" pos="1818,-53,47" publishUnderTab="36">
+       <module type="READ" name="59" pos="1818,-53,50" publishUnderTab="36">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -4153,7 +4225,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="55" pos="1546,-177,61" publishUnderTab="55">
+       <module type="READ" name="55" pos="1546,-177,64" publishUnderTab="55">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -4272,7 +4344,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="49" pos="1274,-301,49" publishUnderTab="48">
+       <module type="READ" name="49" pos="1274,-301,52" publishUnderTab="48">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -4385,7 +4457,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="41" pos="866,-487,30" publishUnderTab="41">
+       <module type="READ" name="41" pos="866,-487,33" publishUnderTab="41">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -4504,7 +4576,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="39" pos="730,-549,28" publishUnderTab="39">
+       <module type="READ" name="39" pos="730,-549,31" publishUnderTab="39">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -4625,7 +4697,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="25" pos="-86,-735,23" publishUnderTab="22">
+       <module type="READ" name="25" pos="-86,-735,26" publishUnderTab="22">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -4752,7 +4824,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="36" pos="526,-642,48" publishUnderTab="59">
+       <module type="READ" name="36" pos="526,-642,51" publishUnderTab="59">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -4871,7 +4943,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="21" pos="-619,-518,60" publishUnderTab="55">
+       <module type="READ" name="21" pos="-619,-518,63" publishUnderTab="55">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -4995,7 +5067,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="22" pos="-551,-549,22" publishUnderTab="48">
+       <module type="READ" name="22" pos="-551,-549,25" publishUnderTab="48">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -5128,7 +5200,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="13" pos="-1531,-146,51" publishUnderTab="47">
+       <module type="READ" name="13" pos="-1531,-146,54" publishUnderTab="47">
         <options>
          <collapsed val="true"/>
          <frameMarker frame="114" length="0" type="1"/>
@@ -5246,7 +5318,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="34" pos="458,-673,35" publishUnderTab="46">
+       <module type="READ" name="34" pos="458,-673,38" publishUnderTab="46">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -5375,7 +5447,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="28" pos="50,-797,31" publishUnderTab="41">
+       <module type="READ" name="28" pos="50,-797,34" publishUnderTab="41">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -5499,7 +5571,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="26" pos="-18,-766,33" publishUnderTab="40">
+       <module type="READ" name="26" pos="-18,-766,36" publishUnderTab="40">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -5622,7 +5694,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="51" pos="1410,-239,39" publishUnderTab="38">
+       <module type="READ" name="51" pos="1410,-239,42" publishUnderTab="38">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -5743,7 +5815,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="14" pos="-1765,-53,42" publishUnderTab="37">
+       <module type="READ" name="14" pos="-1765,-53,45" publishUnderTab="37">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -5873,7 +5945,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="57" pos="1682,-115,44" publishUnderTab="33">
+       <module type="READ" name="57" pos="1682,-115,47" publishUnderTab="33">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -5994,7 +6066,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="18" pos="-909,-394,56" publishUnderTab="32">
+       <module type="READ" name="18" pos="-909,-394,59" publishUnderTab="32">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -6118,7 +6190,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="16" pos="-1143,-301,58" publishUnderTab="50">
+       <module type="READ" name="16" pos="-1143,-301,61" publishUnderTab="50">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -6247,7 +6319,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="31" pos="254,-766,45" publishUnderTab="57">
+       <module type="READ" name="31" pos="254,-766,48" publishUnderTab="57">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -6370,7 +6442,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="42" pos="934,-456,20" publishUnderTab="39_1">
+       <module type="READ" name="42" pos="934,-456,23" publishUnderTab="39_1">
         <options>
          <locked val="true"/>
          <collapsed val="false"/>
@@ -6491,9 +6563,8 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="17" pos="-977,-363,19" publishUnderTab="42">
+       <module type="READ" name="17" pos="-977,-363,22" publishUnderTab="42">
         <options>
-         <locked val="true"/>
          <collapsed val="false"/>
          <frameMarker frame="19" length="0" type="4"/>
          <frameMarker frame="39" length="0" type="4"/>
@@ -6610,7 +6681,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="15" pos="-1288,-239,18" publishUnderTab="29">
+       <module type="READ" name="15" pos="-1288,-239,20" publishUnderTab="29">
         <options>
          <disabled val="true"/>
          <collapsed val="false"/>
@@ -6729,7 +6800,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="30" pos="186,-797,17" publishUnderTab="15">
+       <module type="READ" name="30" pos="186,-797,19" publishUnderTab="15">
         <options>
          <locked val="true"/>
          <collapsed val="false"/>
@@ -6852,7 +6923,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="48" pos="1206,-332,24" publishUnderTab="24">
+       <module type="READ" name="48" pos="1206,-332,27" publishUnderTab="24">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -6973,7 +7044,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="12" pos="-1833,-22,16" publishUnderTab="45">
+       <module type="READ" name="12" pos="-1833,-22,18" publishUnderTab="45">
         <options>
          <collapsed val="true"/>
          <frameMarker frame="0" length="0" type="4"/>
@@ -7095,7 +7166,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="29" pos="118,-828,46" publishUnderTab="59">
+       <module type="READ" name="29" pos="118,-828,49" publishUnderTab="59">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -7219,7 +7290,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="33" pos="390,-704,38" publishUnderTab="38">
+       <module type="READ" name="33" pos="390,-704,41" publishUnderTab="38">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -7344,7 +7415,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="56" pos="1614,-146,40" publishUnderTab="37_1">
+       <module type="READ" name="56" pos="1614,-146,43" publishUnderTab="37_1">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -7463,7 +7534,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="58" pos="1750,-84,55" publishUnderTab="32">
+       <module type="READ" name="58" pos="1750,-84,58" publishUnderTab="32">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -7582,7 +7653,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="54" pos="1478,-208,21" publishUnderTab="42">
+       <module type="READ" name="54" pos="1478,-208,24" publishUnderTab="42">
         <options>
          <locked val="true"/>
          <collapsed val="false"/>
@@ -7703,7 +7774,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="60" pos="1886,-22,25" publishUnderTab="20_1">
+       <module type="READ" name="60" pos="1886,-22,28" publishUnderTab="20_1">
         <options>
          <locked val="true"/>
          <collapsed val="true"/>
@@ -7824,7 +7895,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="14_1" pos="-1703,-84,43" publishUnderTab="14">
+       <module type="READ" name="14_1" pos="-1703,-84,46" publishUnderTab="14">
         <options>
          <disabled val="true"/>
          <locked val="true"/>
@@ -7944,7 +8015,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="Drawing" pos="-1634,-115,14" publishUnderTab="Drawing">
+       <module type="READ" name="Drawing" pos="-1634,-115,16" publishUnderTab="Drawing">
         <options>
          <disabled val="true"/>
          <locked val="true"/>
@@ -8058,7 +8129,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="PEG" name="14-P" pos="-1733,-114,13" publishUnderTab="14-P">
+       <module type="PEG" name="14-P" pos="-1733,-114,15" publishUnderTab="14-P">
         <options>
          <locked val="true"/>
          <collapsed val="false"/>
@@ -8122,7 +8193,7 @@
          <addCompositeToGroup val="true"/>
         </attrs>
        </module>
-       <module type="READ" name="Drawing_1" pos="-1095,-332,12" publishUnderTab="Drawing_1">
+       <module type="READ" name="Drawing_1" pos="-1095,-332,14" publishUnderTab="Drawing_1">
         <options>
          <disabled val="true"/>
          <locked val="true"/>
@@ -8236,7 +8307,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="16_1" pos="-1226,-270,59" publishUnderTab="16">
+       <module type="READ" name="16_1" pos="-1226,-270,62" publishUnderTab="16">
         <options>
          <disabled val="true"/>
          <locked val="true"/>
@@ -8355,7 +8426,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="PEG" name="16-P" pos="-1111,-362,11" publishUnderTab="16-P">
+       <module type="PEG" name="16-P" pos="-1111,-362,13" publishUnderTab="16-P">
         <options>
          <locked val="true"/>
          <collapsed val="false"/>
@@ -8419,7 +8490,7 @@
          <addCompositeToGroup val="true"/>
         </attrs>
        </module>
-       <module type="READ" name="22_S" pos="-489,-580,7" publishUnderTab="22">
+       <module type="READ" name="22_S" pos="-489,-580,9" publishUnderTab="22">
         <options>
          <disabled val="true"/>
          <locked val="true"/>
@@ -8541,7 +8612,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="22_T" pos="-412,-611,10" publishUnderTab="Drawing_2">
+       <module type="READ" name="22_T" pos="-412,-611,12" publishUnderTab="Drawing_2">
         <options>
          <disabled val="true"/>
          <locked val="true"/>
@@ -8655,7 +8726,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="20_S" pos="-779,-456,8" publishUnderTab="20">
+       <module type="READ" name="20_S" pos="-779,-456,10" publishUnderTab="20">
         <options>
          <disabled val="true"/>
          <locked val="true"/>
@@ -8775,7 +8846,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="20_T" pos="-702,-487,9" publishUnderTab="Drawing_3">
+       <module type="READ" name="20_T" pos="-702,-487,11" publishUnderTab="Drawing_3">
         <options>
          <disabled val="true"/>
          <locked val="true"/>
@@ -8889,7 +8960,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="24_1" pos="-267,-673,27" publishUnderTab="24">
+       <module type="READ" name="24_1" pos="-267,-673,30" publishUnderTab="24">
         <options>
          <disabled val="true"/>
          <locked val="true"/>
@@ -9010,7 +9081,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="Drawing_2" pos="-204,-704,15" publishUnderTab="Drawing_2">
+       <module type="READ" name="Drawing_2" pos="-204,-704,17" publishUnderTab="Drawing_2">
         <options>
          <disabled val="true"/>
          <locked val="true"/>
@@ -9124,7 +9195,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="PEG" name="22-P" pos="-519,-610,4" publishUnderTab="22-P">
+       <module type="PEG" name="22-P" pos="-519,-610,6" publishUnderTab="22-P">
         <options>
          <locked val="true"/>
          <collapsed val="false"/>
@@ -9188,7 +9259,7 @@
          <addCompositeToGroup val="true"/>
         </attrs>
        </module>
-       <module type="PEG" name="24-P" pos="-297,-703,3" publishUnderTab="24-P">
+       <module type="PEG" name="24-P" pos="-297,-703,5" publishUnderTab="24-P">
         <options>
          <locked val="true"/>
          <collapsed val="false"/>
@@ -9252,7 +9323,7 @@
          <addCompositeToGroup val="true"/>
         </attrs>
        </module>
-       <module type="READ" name="13_1" pos="-1469,-177,2" publishUnderTab="13">
+       <module type="READ" name="13_1" pos="-1469,-177,4" publishUnderTab="13">
         <options>
          <disabled val="true"/>
          <collapsed val="true"/>
@@ -9375,7 +9446,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="Drawing_3" pos="-1406,-208,5" publishUnderTab="Drawing_3">
+       <module type="READ" name="Drawing_3" pos="-1406,-208,7" publishUnderTab="Drawing_3">
         <options>
          <disabled val="true"/>
          <locked val="true"/>
@@ -9489,7 +9560,7 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="15_1" pos="-1304,-191,1" publishUnderTab="15_1">
+       <module type="READ" name="15_1" pos="-1304,-191,3" publishUnderTab="15_1">
         <options>
          <disabled val="true"/>
          <collapsed val="false"/>
@@ -9612,8 +9683,9 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="17_1" pos="-977,-363,19" publishUnderTab="17">
+       <module type="READ" name="17_1" pos="-977,-363,1" publishUnderTab="17">
         <options>
+         <disabled val="true"/>
          <collapsed val="false"/>
          <frameMarker frame="19" length="0" type="4"/>
          <frameMarker frame="39" length="0" type="4"/>
@@ -9679,10 +9751,10 @@
          <drawing>
           <elementMode val="true"/>
           <element col="ATV-0C10D3EFD1FD2E0482611BC7">
-           <layer val=""/>
+           <layer/>
           </element>
           <customName>
-           <name val=""/>
+           <name/>
            <extension val="tga"/>
            <fieldChart val="12" defaultValue="12"/>
           </customName>
@@ -9707,7 +9779,7 @@
          <enableLineTexture val="true"/>
          <antialiasingQuality val="HIGH"/>
          <antialiasingExponent val="1" defaultValue="1"/>
-         <opacity val="100" defaultValue="100"/>
+         <opacity val="42" defaultValue="100"/>
          <textureFilter val="NEAREST_FILTERED"/>
          <adjustPencilThickness val="false"/>
          <normalLineArtThickness val="true"/>
@@ -9730,8 +9802,9 @@
          <tileVertical val="false"/>
         </attrs>
        </module>
-       <module type="READ" name="Drawing_4" pos="0,0,0" publishUnderTab="Drawing_4">
+       <module type="READ" name="Drawing_4" pos="0,0,2" publishUnderTab="Drawing_4">
         <options>
+         <disabled val="true"/>
          <collapsed val="false"/>
          <version val="1"/>
         </options>
@@ -9791,10 +9864,10 @@
          <drawing>
           <elementMode val="true"/>
           <element col="ATV-0C6AD395D1012EEA82611D8B">
-           <layer val=""/>
+           <layer/>
           </element>
           <customName>
-           <name val=""/>
+           <name/>
            <extension val="tga"/>
            <fieldChart val="12" defaultValue="12"/>
           </customName>
@@ -9963,7 +10036,7 @@
        <link out="Drawing_4" in="Composite" inport="41"/>
       </linkedlist>
      </group>
-     <module type="READ" name="S" pos="-117,-123,3" publishUnderTab="S">
+     <module type="READ" name="S" pos="-117,-123,4" publishUnderTab="S">
       <options>
        <disabled val="true"/>
        <collapsed val="true"/>
@@ -10080,7 +10153,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Drawing_1-P" pos="286,50,11" publishUnderTab="Drawing_1-P">
+     <module type="PEG" name="Drawing_1-P" pos="286,50,12" publishUnderTab="Drawing_1-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -10143,7 +10216,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Shadow" pos="292,4,9" publishUnderTab="Drawing_1">
+     <module type="READ" name="Shadow" pos="292,4,10" publishUnderTab="Drawing_1">
       <options>
        <disabled val="true"/>
        <collapsed val="false"/>
@@ -10256,7 +10329,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Drawing_1" pos="227,178,10" publishUnderTab="Drawing_1">
+     <module type="READ" name="Drawing_1" pos="227,178,11" publishUnderTab="Drawing_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -10368,7 +10441,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Drawing" pos="-16,-152,2" publishUnderTab="Drawing">
+     <module type="READ" name="Drawing" pos="-16,-152,3" publishUnderTab="Drawing">
       <options>
        <disabled val="true"/>
        <collapsed val="true"/>
@@ -10481,7 +10554,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="23" pos="-306,90,7" publishUnderTab="23">
+     <module type="READ" name="23" pos="-306,90,8" publishUnderTab="23">
       <options>
        <collapsed val="true"/>
        <nodeShowThumbnail val="true"/>
@@ -10597,7 +10670,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Bag" pos="-74,81,5" publishUnderTab="Bag">
+     <module type="READ" name="Bag" pos="-74,81,6" publishUnderTab="Bag">
       <options>
        <locked val="true"/>
        <collapsed val="false"/>
