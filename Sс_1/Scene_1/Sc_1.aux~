@@ -1,5 +1,5 @@
 <!DOCTYPE SceneVersion>
-<SceneVersion VersionName="Sc_1" Modified="2025-10-16 23:35:18" ID="1">
+<SceneVersion VersionName="Sc_1" Modified="2025-10-16 23:43:50" ID="1">
  <Element Folder="fon2" Name="fon2" ID="5">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
@@ -528,6 +528,8 @@
   <Drawing Key="" Name="15" Version="1"/>
   <Drawing Key="" Name="16" Version="1"/>
   <Drawing Key="" Name="17" Version="1"/>
+  <Drawing Key="" Name="18" Version="1"/>
+  <Drawing Key="" Name="19" Version="1"/>
  </Element>
  <Element Folder="29" Name="29" ID="68">
   <Drawing Key="" Name="1" Version="1"/>
