@@ -75,4 +75,6 @@
  <element id="103" elementName="21" elementFolder="21.103" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="104" elementName="31" elementFolder="31" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="105" elementName="29_1" elementFolder="29_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="106" elementName="Fly2" elementFolder="Fly2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="107" elementName="Fly" elementFolder="Fly" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
