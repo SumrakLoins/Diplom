@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project source="Harmony Premium (HarmonyPremium.exe) version 24.0.1 build 23019 2024-07-20 09:57:32" version="2401" build="23019" creator="harmony">
+<project source="Harmony Premium (HarmonyPremium.exe) version 22.0.3 build 21960 2023-09-13 23:55:53" version="2203" build="21960" creator="harmony">
  <elements>
   <element id="1" elementName="S" elementFolder="S" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
@@ -276,7 +276,6 @@
   <cameraInSymbols val="true"/>
   <scaleFactor val="1"/>
   <colorSpace val="sRGB"/>
-  <textureColorSpace val="sRGB"/>
   <convertPalettesColorSpace val="true"/>
  </options>
  <timelineMarkers/>
@@ -371,7 +370,7 @@
      <soundSequence startFrame="1" stopFrame="204" name="2.mp3" displayName="2.mp3" id="0cd5e0308246cef0" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="5" clippingTimeStop="126.08108520507812">
       <lipSync showSoundForm="0"/>
      </soundSequence>
-     <soundSequence startFrame="265" stopFrame="1514" name="2.mp3" displayName="2.mp3" id="0cd5e0308246cda2" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="22" clippingTimeStop="126.08108520507812">
+     <soundSequence startFrame="265" stopFrame="1514" name="2.mp3" id="0cd5e0308246cda2" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="22" clippingTimeStop="126.08108520507812">
       <lipSync showSoundForm="0"/>
      </soundSequence>
     </column>
@@ -518,15 +517,15 @@
        <drawingName val="frames/final-"/>
        <moviePath val="frames/output"/>
        <movieFormat val="com.toonboom.quicktime.legacy"/>
-       <movieAudio val=""/>
-       <movieVideo val=""/>
-       <movieVideoaudio val=""/>
+       <movieAudio/>
+       <movieVideo/>
+       <movieVideoaudio/>
        <leadingZeros val="3"/>
        <start val="1"/>
        <drawingType val="TGA"/>
        <enabling>
         <filter val="ALWAYS"/>
-        <filterName val=""/>
+        <filterName/>
         <filterResX val="720"/>
         <filterResY val="540"/>
        </enabling>
@@ -548,6 +547,7 @@
      <module type="READ" name="S" pos="-48,-50,13" publishUnderTab="Drawing">
       <options>
        <disabled val="true"/>
+       <locked val="true"/>
        <collapsed val="true"/>
        <version val="1"/>
       </options>
@@ -607,10 +607,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="S">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
@@ -719,10 +719,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="ATV-0CB5D54AF0D3864E39CD8DE9">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
@@ -831,10 +831,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="ATV-0CEFD510B67D0E8E4AD58B4D">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
@@ -944,10 +944,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="ATV-0C2BD5D4B6AA0EC14AD01E60">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
@@ -1056,10 +1056,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="ATV-0CA3D55CB6530E524AD32C8A">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
@@ -1168,10 +1168,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="ATV-0C53D5ACB62E0EF14AD5CADA">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
@@ -1281,10 +1281,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="ATV-0C94D56BB6F60EE94ADA427C">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
@@ -1394,10 +1394,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="ATV-0CABD554EED22001EDCF5223">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
@@ -1507,10 +1507,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="L_wing">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
