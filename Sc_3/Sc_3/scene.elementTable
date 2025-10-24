@@ -9,4 +9,10 @@
  <element id="7" elementName="L_Antenne" elementFolder="L_Antenne" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="8" elementName="L_wing" elementFolder="L_wing" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="9" elementName="final" elementFolder="final" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="10" elementName="Tolpa" elementFolder="Tolpa" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="11" elementName="Bee1" elementFolder="Bee1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="12" elementName="Bee2" elementFolder="Bee2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="13" elementName="Bee3" elementFolder="Bee3" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="14" elementName="Beefly_1" elementFolder="Beefly_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="15" elementName="Beefly_2" elementFolder="Beefly_2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
