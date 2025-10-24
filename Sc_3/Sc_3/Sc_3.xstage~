@@ -578,7 +578,7 @@
 // ...]]>
         </val>
        </scriptEditor>
-       <colorSpace val=""/>
+       <colorSpace/>
        <compositePartitioning val="NoCompositePartitioning"/>
        <zPartitionRange val="1" defaultValue="1"/>
        <cleanUpPartitionFolders val="true"/>
@@ -1710,10 +1710,10 @@
          <drawing>
           <elementMode val="true"/>
           <element col="Tolpa">
-           <layer val=""/>
+           <layer/>
           </element>
           <customName>
-           <name val=""/>
+           <name/>
            <extension val="tga"/>
            <fieldChart val="12" defaultValue="12"/>
           </customName>
@@ -1841,10 +1841,10 @@
          <drawing>
           <elementMode val="true"/>
           <element col="ATV-0CC9D63631098D62EE402435">
-           <layer val=""/>
+           <layer/>
           </element>
           <customName>
-           <name val=""/>
+           <name/>
            <extension val="tga"/>
            <fieldChart val="12" defaultValue="12"/>
           </customName>
@@ -1953,10 +1953,10 @@
          <drawing>
           <elementMode val="true"/>
           <element col="ATV-0C86D67931498D28EE4024ED">
-           <layer val=""/>
+           <layer/>
           </element>
           <customName>
-           <name val=""/>
+           <name/>
            <extension val="tga"/>
            <fieldChart val="12" defaultValue="12"/>
           </customName>
@@ -2065,10 +2065,10 @@
          <drawing>
           <elementMode val="true"/>
           <element col="ATV-0C27D6D831198D7EEE4026DF">
-           <layer val=""/>
+           <layer/>
           </element>
           <customName>
-           <name val=""/>
+           <name/>
            <extension val="tga"/>
            <fieldChart val="12" defaultValue="12"/>
           </customName>
@@ -2177,10 +2177,10 @@
          <drawing>
           <elementMode val="true"/>
           <element col="ATV-0C55D6AA31108DA7EE4209F1">
-           <layer val=""/>
+           <layer/>
           </element>
           <customName>
-           <name val=""/>
+           <name/>
            <extension val="tga"/>
            <fieldChart val="12" defaultValue="12"/>
           </customName>
@@ -2289,10 +2289,10 @@
          <drawing>
           <elementMode val="true"/>
           <element col="ATV-0CF2D60D316B8D66EE420AD0">
-           <layer val=""/>
+           <layer/>
           </element>
           <customName>
-           <name val=""/>
+           <name/>
            <extension val="tga"/>
            <fieldChart val="12" defaultValue="12"/>
           </customName>
@@ -2404,10 +2404,10 @@
          <drawing>
           <elementMode val="true"/>
           <element col="ATV-0C85D67A377C0473B0D0276B">
-           <layer val=""/>
+           <layer/>
           </element>
           <customName>
-           <name val=""/>
+           <name/>
            <extension val="tga"/>
            <fieldChart val="12" defaultValue="12"/>
           </customName>
