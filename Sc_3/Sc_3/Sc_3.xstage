@@ -278,7 +278,7 @@
  <scenes>
   <scene name="Top" id="0cd5b60e4ad01520" nbframes="264" startFrame="1" stopFrame="90">
    <columns>
-    <column type="0" name="S" display="false" displayOrder="4" width="100" anonymous="true" id="1">
+    <column type="0" name="S" displayOrder="4" width="100" anonymous="true" id="1">
      <elementSeq exposures="1-2" val="7" id="1"/>
      <elementSeq exposures="3" val="8" id="1"/>
      <elementSeq exposures="4" val="10" id="1"/>
@@ -322,7 +322,7 @@
     <column type="0" name="ATV-0CEFD510B67D0E8E4AD58B4D" displayOrder="16" width="100" anonymous="true" id="4">
      <elementSeq exposures="1-87" val="1" id="4"/>
     </column>
-    <column type="0" name="ATV-0C53D5ACB62E0EF14AD5CADA" display="false" displayOrder="13" width="100" anonymous="true" id="5">
+    <column type="0" name="ATV-0C53D5ACB62E0EF14AD5CADA" displayOrder="13" width="100" anonymous="true" id="5">
      <elementSeq exposures="1-87" val="1" id="5"/>
     </column>
     <column type="0" name="ATV-0C94D56BB6F60EE94ADA427C" displayOrder="3" width="100" anonymous="true" id="6">
@@ -441,12 +441,12 @@
      <elementSeq exposures="2" val="2" id="11"/>
     </column>
     <column type="0" name="ATV-0C86D67931498D28EE4024ED" displayOrder="8" width="100" anonymous="true" id="12">
-     <elementSeq exposures="1" val="2" id="12"/>
-     <elementSeq exposures="2" val="1" id="12"/>
+     <elementSeq exposures="1-3,7-9,13-15,19-21,25-27,31-33,37-39,43-45,49-51,55-57,61-63,67-69,73-75,79-81,85-87,91-93,97-99,103-105" val="2" id="12"/>
+     <elementSeq exposures="4-6,10-12,16-18,22-24,28-30,34-36,40-42,46-48,52-54,58-60,64-66,70-72,76-78,82-84,88-90,94-96,100-102,106-108" val="1" id="12"/>
     </column>
     <column type="0" name="ATV-0C27D6D831198D7EEE4026DF" displayOrder="7" width="100" anonymous="true" id="13">
-     <elementSeq exposures="1" val="1" id="13"/>
-     <elementSeq exposures="2" val="2" id="13"/>
+     <elementSeq exposures="1-3,7-9,13-15,19-21,25-27,31-33,37-39,43-45,49-51,55-57,61-63,67-69,73-75,79-81,85-87,91-93,97-99,103-105" val="1" id="13"/>
+     <elementSeq exposures="4-6,10-12,16-18,22-24,28-30,34-36,40-42,46-48,52-54,58-60,64-66,70-72,76-78,82-84,88-90,94-96,100-102,106-108" val="2" id="13"/>
     </column>
     <column type="0" name="ATV-0C55D6AA31108DA7EE4209F1" displayOrder="6" width="100" anonymous="true" id="14">
      <elementSeq exposures="1" val="1" id="14"/>
@@ -474,8 +474,9 @@
        <pt val="-0.33671660327973019,-2.2357531681628311,0" lockedInTime="66"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0CF3D60C448929EAD4B081CA" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0C2CD6D345DF60401F401672" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
+      <noFrames/>
       <points version="2">
        <pt constSeg="false" x="31" yLocal="0" y="0"/>
        <pt constSeg="false" x="66" yLocal="1" y="1"/>
@@ -484,12 +485,14 @@
     </column>
     <column type="3" name="ATV-0C51D6AE44C4296DD4B081CB" displayOrder="19" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="31,66" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-0C10D6EF447C2901D4B081CC" displayOrder="20" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="66" yLocal="0.10569091134819895" y="0.10569091134819895"/>
       <pt constSeg="false" x="31" yLocal="1" y="1"/>
@@ -497,6 +500,7 @@
     </column>
     <column type="3" name="ATV-0C33D6CC44B629AFD4B081CD" displayOrder="21" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="66" yLocal="0.10569091134819895" y="0.10569091134819895"/>
       <pt constSeg="false" x="31" yLocal="1" y="1"/>
@@ -504,6 +508,7 @@
     </column>
     <column type="3" name="ATV-0C27D6D844C329ECD4B081CE" displayOrder="22" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="31,66" yLocal="0" y="0"/>
      </points>
@@ -1094,6 +1099,7 @@
      </module>
      <group name="23" pos="9,0,2">
       <options>
+       <disabled val="true"/>
        <collapsed val="false"/>
        <subnodeCollapsed val="false"/>
        <showsPublished val="true"/>
@@ -1776,7 +1782,6 @@
        </module>
        <module type="READ" name="Bee1" pos="0,0,0" publishUnderTab="Bee1">
         <options>
-         <disabled val="true"/>
          <collapsed val="false"/>
          <version val="1"/>
         </options>
@@ -1889,8 +1894,25 @@
        </module>
        <module type="READ" name="Bee2" pos="0,0,0" publishUnderTab="Bee2">
         <options>
-         <disabled val="true"/>
          <collapsed val="false"/>
+         <frameMarker frame="3" length="0" type="5"/>
+         <frameMarker frame="9" length="0" type="5"/>
+         <frameMarker frame="15" length="0" type="5"/>
+         <frameMarker frame="21" length="0" type="5"/>
+         <frameMarker frame="27" length="0" type="5"/>
+         <frameMarker frame="33" length="0" type="5"/>
+         <frameMarker frame="39" length="0" type="5"/>
+         <frameMarker frame="45" length="0" type="5"/>
+         <frameMarker frame="51" length="0" type="5"/>
+         <frameMarker frame="57" length="0" type="5"/>
+         <frameMarker frame="63" length="0" type="5"/>
+         <frameMarker frame="69" length="0" type="5"/>
+         <frameMarker frame="75" length="0" type="5"/>
+         <frameMarker frame="81" length="0" type="5"/>
+         <frameMarker frame="87" length="0" type="5"/>
+         <frameMarker frame="93" length="0" type="5"/>
+         <frameMarker frame="99" length="0" type="5"/>
+         <frameMarker frame="105" length="0" type="5"/>
          <version val="1"/>
         </options>
         <attrs>
@@ -2002,8 +2024,25 @@
        </module>
        <module type="READ" name="Bee3" pos="0,0,0" publishUnderTab="Bee3">
         <options>
-         <disabled val="true"/>
          <collapsed val="false"/>
+         <frameMarker frame="3" length="0" type="3"/>
+         <frameMarker frame="9" length="0" type="3"/>
+         <frameMarker frame="15" length="0" type="3"/>
+         <frameMarker frame="21" length="0" type="3"/>
+         <frameMarker frame="27" length="0" type="3"/>
+         <frameMarker frame="33" length="0" type="3"/>
+         <frameMarker frame="39" length="0" type="3"/>
+         <frameMarker frame="45" length="0" type="3"/>
+         <frameMarker frame="51" length="0" type="3"/>
+         <frameMarker frame="57" length="0" type="3"/>
+         <frameMarker frame="63" length="0" type="3"/>
+         <frameMarker frame="69" length="0" type="3"/>
+         <frameMarker frame="75" length="0" type="3"/>
+         <frameMarker frame="81" length="0" type="3"/>
+         <frameMarker frame="87" length="0" type="3"/>
+         <frameMarker frame="93" length="0" type="3"/>
+         <frameMarker frame="99" length="0" type="3"/>
+         <frameMarker frame="105" length="0" type="3"/>
          <version val="1"/>
         </options>
         <attrs>
@@ -2115,7 +2154,6 @@
        </module>
        <module type="READ" name="Beefly_1" pos="0,0,0" publishUnderTab="Beefly_1">
         <options>
-         <disabled val="true"/>
          <collapsed val="false"/>
          <version val="1"/>
         </options>
@@ -2228,7 +2266,6 @@
        </module>
        <module type="READ" name="Beefly_2" pos="0,0,0" publishUnderTab="Beefly_2">
         <options>
-         <disabled val="true"/>
          <collapsed val="false"/>
          <version val="1"/>
         </options>
@@ -2533,7 +2570,7 @@
  </timeline>
  <metas>
   <meta type="checksumValidation" name="checksumValidation" creator="Harmony Premium" version="1.0">
-   <value data="D6000000000000000303F11FA28F46475376B913BF238043400D1ED9EFF30D4ABF5050DC4F749F0475230390215DBC6A54AB2F6D282E4246CAEC1497B5239F24AC6E940C46BB51448B8E4DEE5A8BC3F3EE8A8E1CD5F0AAFE3FCC3B714B55F45A09A4D3F3C63DB4474BA5B313019C16CA4DC20487C8FD9663B3B451DE3CE2C89FB33EF231E25D713449A7E17472CC90C5B72F90221C1461BA58FD2778C69468B8E99720677D08B727366D1D4AFD2693E8EC15386472C4B12ACB1A8E259E527115DD7A9B4AF947E930F252E61E8FED46F2105237FF643AA93FE9AF38083E4E6F0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426E7A4343415169674177494241674943424E49774451594A4B6F5A496876634E4151454642514177506A454C4D416B474131554542684D43513045780A447A414E42674E5642416754426C46315A574A6C597A45654D4277474131554541784D5662476C6A5A57357A5A58497564473976626D4A7662323075593239740A4D423458445445314D4467794E4445354D6A517A4E566F58445449314D4467794D6A45354D6A517A4E566F774D44454C4D416B474131554542684D43513045780A4954416642674E5642414D5447474E695A4755744D54646B4D43316B4E3245354C5451794D474D74595463344E5442634D4130474353714753496233445145420A41515541413073414D45674351514464524A686E46324F6853376C594A4A4B4A307A3352704B634639795166715572395A4F5A784363425341547252466163530A656C7A3730506B74656A5875635374547168316E6D3858336A6C6B43516D6D575843595641674D42414145774451594A4B6F5A496876634E41514546425141440A675945414651784235596F307A777679535A4B4677354E6D4B75662B71433075684D6D6D633936734A58386142726D7373757872442F73655A516D7A625532540A6C6C4844417530386C5673686C496D41413063315457356B7964506378546D76524C356D7767377935795341562F4D2F2F686F792F433542412F654665486F510A6264526A463951555636656C4D6270334A75327732726C6C4B4673474A4774387A707A567158356B517844513471303D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A40000000299B4A7E437627BF7F69E5A6BA4D6CC7879D23A817F499A6F2D59E81528C0E00D37371B132B82F9A6C415BB6D1F8184AC3CD28B505DF9B181181DF021C3A012D"/>
+   <value data="D6000000000000000303A14FF2DF16170326E943EF73D013105D4E89BFA35D1AEF00008C1F24CF54257353C0710DEC3A04FB7F3D787E12169ABC44C7E573CF74FC3EC45C16EB0114DBDE1DBE0ADB93A3BEDADE4C85A0FAAE6F9C6B211B05A40A59F483A3966DE4171BF5E34351CC469A1D9254D798ADC633E3E4018E6CB298CFE36EA261B20D216419F7B124229CC095E77FC0724C4431EA08AD772896C438E8B9C770372D58E777663D4D1AAD76C3B8BC4568342294E17A9B4ADE75CE0221458D2ACB1AA917B960A202B64EDFBD16A2400267AF346AF96FB9FF68586E1E6F0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426E7A4343415169674177494241674943424E49774451594A4B6F5A496876634E4151454642514177506A454C4D416B474131554542684D43513045780A447A414E42674E5642416754426C46315A574A6C597A45654D4277474131554541784D5662476C6A5A57357A5A58497564473976626D4A7662323075593239740A4D423458445445314D4467794E4445354D6A517A4E566F58445449314D4467794D6A45354D6A517A4E566F774D44454C4D416B474131554542684D43513045780A4954416642674E5642414D5447474E695A4755744D54646B4D43316B4E3245354C5451794D474D74595463344E5442634D4130474353714753496233445145420A41515541413073414D45674351514464524A686E46324F6853376C594A4A4B4A307A3352704B634639795166715572395A4F5A784363425341547252466163530A656C7A3730506B74656A5875635374547168316E6D3858336A6C6B43516D6D575843595641674D42414145774451594A4B6F5A496876634E41514546425141440A675945414651784235596F307A777679535A4B4677354E6D4B75662B71433075684D6D6D633936734A58386142726D7373757872442F73655A516D7A625532540A6C6C4844417530386C5673686C496D41413063315457356B7964506378546D76524C356D7767377935795341562F4D2F2F686F792F433542412F654665486F510A6264526A463951555636656C4D6270334A75327732726C6C4B4673474A4774387A707A567158356B517844513471303D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A400000003A9112BEFE259ACECBFDBABAB7D26B3E0139768DB47762507806705D323C05F7F9425FCF2B5B21DF77B358BF3EDDB8000B6C1BB8E6A77E304F131064A22FB65C"/>
   </meta>
  </metas>
 </project>
