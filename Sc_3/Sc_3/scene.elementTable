@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<elements source="Harmony Premium (HarmonyPremium.exe) version 22.0.3 build 21960 2023-09-13 23:55:53" version="2203" build="21960">
+<elements source="Harmony Premium (HarmonyPremium.exe) version 24.0.1 build 23019 2024-07-20 09:57:32" version="2401" build="23019">
  <element id="1" elementName="S" elementFolder="S" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="2" elementName="fon3sc" elementFolder="fon3sc" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
- <element id="3" elementName="Drawing" elementFolder="Drawing.3" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="4" elementName="5e0cf59c107d3f91d4d5d693236b3e23" elementFolder="5e0cf59c107d3f91d4d5d693236b3e23" pixmapFormat="11" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
  <element id="5" elementName="Drawing_1" elementFolder="Drawing_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="6" elementName="L_body" elementFolder="L_body" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
