@@ -282,7 +282,7 @@
  <scenes>
   <scene name="Top" id="0cd5b60e4ad01520" nbframes="264" startFrame="1" stopFrame="60">
    <columns>
-    <column type="0" name="S" display="false" displayOrder="13" width="100" anonymous="true" id="1">
+    <column type="0" name="S" displayOrder="13" width="100" anonymous="true" id="1">
      <elementSeq exposures="1-2" val="7" id="1"/>
      <elementSeq exposures="3" val="8" id="1"/>
      <elementSeq exposures="4" val="10" id="1"/>
@@ -367,7 +367,7 @@
      <heldSeq exposures="44"/>
     </column>
     <column type="1" name="2" displayOrder="10" width="100" anonymous="false" disabled="true" videoSync="true" soundLocked="false">
-     <soundSequence startFrame="1" stopFrame="204" name="2.mp3" displayName="2.mp3" id="0cd5e0308246cef0" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="5" clippingTimeStop="126.08108520507812">
+     <soundSequence startFrame="1" stopFrame="204" name="2.mp3" id="0cd5e0308246cef0" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="5" clippingTimeStop="126.08108520507812">
       <lipSync showSoundForm="0"/>
      </soundSequence>
      <soundSequence startFrame="265" stopFrame="1514" name="2.mp3" id="0cd5e0308246cda2" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="22" clippingTimeStop="126.08108520507812">
@@ -409,7 +409,7 @@
      <elementSeq exposures="41" val="47" id="7"/>
     </column>
     <column type="0" name="L_wing" display="false" displayOrder="9" width="100" anonymous="true" id="8">
-     <elementSeq exposures="2" val="10" id="8"/>
+     <elementSeq exposures="1-2" val="10" id="8"/>
      <elementSeq exposures="3" val="9" id="8"/>
      <elementSeq exposures="4-7" val="8" id="8"/>
      <elementSeq exposures="8" val="7" id="8"/>
@@ -443,7 +443,7 @@
     <column type="0" name="ATV-0CB5D54AF0D3864E39CD8DE9" displayOrder="16" width="100" anonymous="true" id="9">
      <elementSeq exposures="1-264" val="1" id="9"/>
     </column>
-    <column type="0" name="Tolpa" display="false" displayOrder="7" width="100" anonymous="true" id="10">
+    <column type="0" name="Tolpa" displayOrder="7" width="100" anonymous="true" id="10">
      <elementSeq exposures="1-60" val="1" id="10"/>
     </column>
     <column type="0" name="ATV-0CC9D63631098D62EE402435" display="false" displayOrder="5" width="100" anonymous="true" id="11">
@@ -458,11 +458,11 @@
      <elementSeq exposures="1" val="1" id="13"/>
      <elementSeq exposures="2" val="2" id="13"/>
     </column>
-    <column type="0" name="ATV-0C55D6AA31108DA7EE4209F1" display="false" displayOrder="2" width="100" anonymous="true" id="14">
+    <column type="0" name="ATV-0C55D6AA31108DA7EE4209F1" displayOrder="2" width="100" anonymous="true" id="14">
      <elementSeq exposures="1" val="1" id="14"/>
      <elementSeq exposures="2" val="2" id="14"/>
     </column>
-    <column type="0" name="ATV-0CF2D60D316B8D66EE420AD0" display="false" displayOrder="1" width="100" anonymous="true" id="15">
+    <column type="0" name="ATV-0CF2D60D316B8D66EE420AD0" displayOrder="1" width="100" anonymous="true" id="15">
      <elementSeq exposures="1" val="1" id="15"/>
      <elementSeq exposures="2" val="2" id="15"/>
     </column>
@@ -538,7 +538,7 @@
 // ...]]>
         </val>
        </scriptEditor>
-       <colorSpace val=""/>
+       <colorSpace/>
        <compositePartitioning val="NoCompositePartitioning"/>
        <zPartitionRange val="1" defaultValue="1"/>
        <cleanUpPartitionFolders val="true"/>
@@ -1647,10 +1647,10 @@
          <drawing>
           <elementMode val="true"/>
           <element col="Tolpa">
-           <layer val=""/>
+           <layer/>
           </element>
           <customName>
-           <name val=""/>
+           <name/>
            <extension val="tga"/>
            <fieldChart val="12" defaultValue="12"/>
           </customName>
@@ -1779,10 +1779,10 @@
          <drawing>
           <elementMode val="true"/>
           <element col="ATV-0CC9D63631098D62EE402435">
-           <layer val=""/>
+           <layer/>
           </element>
           <customName>
-           <name val=""/>
+           <name/>
            <extension val="tga"/>
            <fieldChart val="12" defaultValue="12"/>
           </customName>
@@ -1892,10 +1892,10 @@
          <drawing>
           <elementMode val="true"/>
           <element col="ATV-0C86D67931498D28EE4024ED">
-           <layer val=""/>
+           <layer/>
           </element>
           <customName>
-           <name val=""/>
+           <name/>
            <extension val="tga"/>
            <fieldChart val="12" defaultValue="12"/>
           </customName>
@@ -2005,10 +2005,10 @@
          <drawing>
           <elementMode val="true"/>
           <element col="ATV-0C27D6D831198D7EEE4026DF">
-           <layer val=""/>
+           <layer/>
           </element>
           <customName>
-           <name val=""/>
+           <name/>
            <extension val="tga"/>
            <fieldChart val="12" defaultValue="12"/>
           </customName>
@@ -2058,7 +2058,6 @@
        </module>
        <module type="READ" name="Beefly_1" pos="0,0,0" publishUnderTab="Beefly_1">
         <options>
-         <disabled val="true"/>
          <collapsed val="false"/>
          <version val="1"/>
         </options>
@@ -2118,10 +2117,10 @@
          <drawing>
           <elementMode val="true"/>
           <element col="ATV-0C55D6AA31108DA7EE4209F1">
-           <layer val=""/>
+           <layer/>
           </element>
           <customName>
-           <name val=""/>
+           <name/>
            <extension val="tga"/>
            <fieldChart val="12" defaultValue="12"/>
           </customName>
@@ -2171,7 +2170,6 @@
        </module>
        <module type="READ" name="Beefly_2" pos="0,0,0" publishUnderTab="Beefly_2">
         <options>
-         <disabled val="true"/>
          <collapsed val="false"/>
          <version val="1"/>
         </options>
@@ -2231,10 +2229,10 @@
          <drawing>
           <elementMode val="true"/>
           <element col="ATV-0CF2D60D316B8D66EE420AD0">
-           <layer val=""/>
+           <layer/>
           </element>
           <customName>
-           <name val=""/>
+           <name/>
            <extension val="tga"/>
            <fieldChart val="12" defaultValue="12"/>
           </customName>
@@ -2346,10 +2344,10 @@
          <drawing>
           <elementMode val="true"/>
           <element col="ATV-0C85D67A377C0473B0D0276B">
-           <layer val=""/>
+           <layer/>
           </element>
           <customName>
-           <name val=""/>
+           <name/>
            <extension val="tga"/>
            <fieldChart val="12" defaultValue="12"/>
           </customName>
@@ -2479,7 +2477,7 @@
  </timeline>
  <metas>
   <meta type="checksumValidation" name="checksumValidation" creator="Harmony Premium" version="1.0">
-   <value data="D60000000000000003039C72CFE22B2A3E1BD47ED24EED2E2D6073B4829E6027D23D3DB12219F269184E6EFD4C30D10739C6420045432F2BA78179FAD84EF249C103F9612BD63C29E6E3208337E6AE9E83E7E371B89DC79352A1561C2638993764C9BE9EAB50D92A26C8DE7E6CF17BA720AF69EAA590FB0EDED93CB3518FA5F2DE539F5C8F301C5924CA8C191FA1FDA8DA42FD4F71790CD735904A15ABF905D584FA4D0A1065DA4A5B007027904BFE85817855091FA9DC47A677E348F33F1C78B017F627942A845D9F3F8B73E2802B9F7D3F5A920957C45284C2556553236F0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426E7A4343415169674177494241674943424E49774451594A4B6F5A496876634E4151454642514177506A454C4D416B474131554542684D43513045780A447A414E42674E5642416754426C46315A574A6C597A45654D4277474131554541784D5662476C6A5A57357A5A58497564473976626D4A7662323075593239740A4D423458445445314D4467794E4445354D6A517A4E566F58445449314D4467794D6A45354D6A517A4E566F774D44454C4D416B474131554542684D43513045780A4954416642674E5642414D5447474E695A4755744D54646B4D43316B4E3245354C5451794D474D74595463344E5442634D4130474353714753496233445145420A41515541413073414D45674351514464524A686E46324F6853376C594A4A4B4A307A3352704B634639795166715572395A4F5A784363425341547252466163530A656C7A3730506B74656A5875635374547168316E6D3858336A6C6B43516D6D575843595641674D42414145774451594A4B6F5A496876634E41514546425141440A675945414651784235596F307A777679535A4B4677354E6D4B75662B71433075684D6D6D633936734A58386142726D7373757872442F73655A516D7A625532540A6C6C4844417530386C5673686C496D41413063315457356B7964506378546D76524C356D7767377935795341562F4D2F2F686F792F433542412F654665486F510A6264526A463951555636656C4D6270334A75327732726C6C4B4673474A4774387A707A567158356B517844513471303D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A400000003D9747963ADDDE9CCAEFC9E7E19E0DF5BE4CF0AB9DC6A11006B21B38DB7443ED8AA9EE6E70B75E10E770BA0F54DD3FB49D0B9A67BBBFBE96CC18259D6B946F1C"/>
+   <value data="D60000000000000003032EC07D5099988CA966CC60FC5F9C9FD2C106302CD295608F8F0390AB40DBAAFCDC4FFE8263B58B74F0B2F7F19D991533CB486AFC40FB73B14BD399648E9B5451923185541C2C315551C30A2F7521E013E4AE948A2B85D67B0C2C19E26B98947A6CCCDE43C915921DDB58172249BC6C6B8E01E33D17406CE12DEE3D82AEEB96783EABAD134F1A68F04FFDC3CBBE658722F8A7194BB7673648FFB8A2D768F8E9B2C29522F94C3733CAE7BBAD1B6EF514C551FA418DAECA02A54495269836EF2D8D39C15032992DCF8DE820BBE576E03670E7D7E1916F0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426E7A4343415169674177494241674943424E49774451594A4B6F5A496876634E4151454642514177506A454C4D416B474131554542684D43513045780A447A414E42674E5642416754426C46315A574A6C597A45654D4277474131554541784D5662476C6A5A57357A5A58497564473976626D4A7662323075593239740A4D423458445445314D4467794E4445354D6A517A4E566F58445449314D4467794D6A45354D6A517A4E566F774D44454C4D416B474131554542684D43513045780A4954416642674E5642414D5447474E695A4755744D54646B4D43316B4E3245354C5451794D474D74595463344E5442634D4130474353714753496233445145420A41515541413073414D45674351514464524A686E46324F6853376C594A4A4B4A307A3352704B634639795166715572395A4F5A784363425341547252466163530A656C7A3730506B74656A5875635374547168316E6D3858336A6C6B43516D6D575843595641674D42414145774451594A4B6F5A496876634E41514546425141440A675945414651784235596F307A777679535A4B4677354E6D4B75662B71433075684D6D6D633936734A58386142726D7373757872442F73655A516D7A625532540A6C6C4844417530386C5673686C496D41413063315457356B7964506378546D76524C356D7767377935795341562F4D2F2F686F792F433542412F654665486F510A6264526A463951555636656C4D6270334A75327732726C6C4B4673474A4774387A707A567158356B517844513471303D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A400000005B3BF43898121A80FC605A8C7C5ABA809F36F713793CB3E9236D2B3C77C8C959E9CDE4B64CA9A73B2B723135EB2BD2AF6F84A7FD879804A1DE080B46C735795B"/>
   </meta>
  </metas>
 </project>

@@ -282,7 +282,7 @@
  <scenes>
   <scene name="Top" id="0cd5b60e4ad01520" nbframes="264" startFrame="1" stopFrame="60">
    <columns>
-    <column type="0" name="S" display="false" displayOrder="13" width="100" anonymous="true" id="1">
+    <column type="0" name="S" displayOrder="13" width="100" anonymous="true" id="1">
      <elementSeq exposures="1-2" val="7" id="1"/>
      <elementSeq exposures="3" val="8" id="1"/>
      <elementSeq exposures="4" val="10" id="1"/>
@@ -367,7 +367,7 @@
      <heldSeq exposures="44"/>
     </column>
     <column type="1" name="2" displayOrder="10" width="100" anonymous="false" disabled="true" videoSync="true" soundLocked="false">
-     <soundSequence startFrame="1" stopFrame="204" name="2.mp3" displayName="2.mp3" id="0cd5e0308246cef0" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="5" clippingTimeStop="126.08108520507812">
+     <soundSequence startFrame="1" stopFrame="204" name="2.mp3" id="0cd5e0308246cef0" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="5" clippingTimeStop="126.08108520507812">
       <lipSync showSoundForm="0"/>
      </soundSequence>
      <soundSequence startFrame="265" stopFrame="1514" name="2.mp3" id="0cd5e0308246cda2" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="22" clippingTimeStop="126.08108520507812">
@@ -409,7 +409,7 @@
      <elementSeq exposures="41" val="47" id="7"/>
     </column>
     <column type="0" name="L_wing" display="false" displayOrder="9" width="100" anonymous="true" id="8">
-     <elementSeq exposures="2" val="10" id="8"/>
+     <elementSeq exposures="1-2" val="10" id="8"/>
      <elementSeq exposures="3" val="9" id="8"/>
      <elementSeq exposures="4-7" val="8" id="8"/>
      <elementSeq exposures="8" val="7" id="8"/>
@@ -443,7 +443,7 @@
     <column type="0" name="ATV-0CB5D54AF0D3864E39CD8DE9" displayOrder="16" width="100" anonymous="true" id="9">
      <elementSeq exposures="1-264" val="1" id="9"/>
     </column>
-    <column type="0" name="Tolpa" display="false" displayOrder="7" width="100" anonymous="true" id="10">
+    <column type="0" name="Tolpa" displayOrder="7" width="100" anonymous="true" id="10">
      <elementSeq exposures="1-60" val="1" id="10"/>
     </column>
     <column type="0" name="ATV-0CC9D63631098D62EE402435" display="false" displayOrder="5" width="100" anonymous="true" id="11">
@@ -458,11 +458,11 @@
      <elementSeq exposures="1" val="1" id="13"/>
      <elementSeq exposures="2" val="2" id="13"/>
     </column>
-    <column type="0" name="ATV-0C55D6AA31108DA7EE4209F1" display="false" displayOrder="2" width="100" anonymous="true" id="14">
+    <column type="0" name="ATV-0C55D6AA31108DA7EE4209F1" displayOrder="2" width="100" anonymous="true" id="14">
      <elementSeq exposures="1" val="1" id="14"/>
      <elementSeq exposures="2" val="2" id="14"/>
     </column>
-    <column type="0" name="ATV-0CF2D60D316B8D66EE420AD0" display="false" displayOrder="1" width="100" anonymous="true" id="15">
+    <column type="0" name="ATV-0CF2D60D316B8D66EE420AD0" displayOrder="1" width="100" anonymous="true" id="15">
      <elementSeq exposures="1" val="1" id="15"/>
      <elementSeq exposures="2" val="2" id="15"/>
     </column>
@@ -538,7 +538,7 @@
 // ...]]>
         </val>
        </scriptEditor>
-       <colorSpace val=""/>
+       <colorSpace/>
        <compositePartitioning val="NoCompositePartitioning"/>
        <zPartitionRange val="1" defaultValue="1"/>
        <cleanUpPartitionFolders val="true"/>
@@ -1647,10 +1647,10 @@
          <drawing>
           <elementMode val="true"/>
           <element col="Tolpa">
-           <layer val=""/>
+           <layer/>
           </element>
           <customName>
-           <name val=""/>
+           <name/>
            <extension val="tga"/>
            <fieldChart val="12" defaultValue="12"/>
           </customName>
@@ -1779,10 +1779,10 @@
          <drawing>
           <elementMode val="true"/>
           <element col="ATV-0CC9D63631098D62EE402435">
-           <layer val=""/>
+           <layer/>
           </element>
           <customName>
-           <name val=""/>
+           <name/>
            <extension val="tga"/>
            <fieldChart val="12" defaultValue="12"/>
           </customName>
@@ -1892,10 +1892,10 @@
          <drawing>
           <elementMode val="true"/>
           <element col="ATV-0C86D67931498D28EE4024ED">
-           <layer val=""/>
+           <layer/>
           </element>
           <customName>
-           <name val=""/>
+           <name/>
            <extension val="tga"/>
            <fieldChart val="12" defaultValue="12"/>
           </customName>
@@ -2005,10 +2005,10 @@
          <drawing>
           <elementMode val="true"/>
           <element col="ATV-0C27D6D831198D7EEE4026DF">
-           <layer val=""/>
+           <layer/>
           </element>
           <customName>
-           <name val=""/>
+           <name/>
            <extension val="tga"/>
            <fieldChart val="12" defaultValue="12"/>
           </customName>
@@ -2058,7 +2058,6 @@
        </module>
        <module type="READ" name="Beefly_1" pos="0,0,0" publishUnderTab="Beefly_1">
         <options>
-         <disabled val="true"/>
          <collapsed val="false"/>
          <version val="1"/>
         </options>
@@ -2118,10 +2117,10 @@
          <drawing>
           <elementMode val="true"/>
           <element col="ATV-0C55D6AA31108DA7EE4209F1">
-           <layer val=""/>
+           <layer/>
           </element>
           <customName>
-           <name val=""/>
+           <name/>
            <extension val="tga"/>
            <fieldChart val="12" defaultValue="12"/>
           </customName>
@@ -2171,7 +2170,6 @@
        </module>
        <module type="READ" name="Beefly_2" pos="0,0,0" publishUnderTab="Beefly_2">
         <options>
-         <disabled val="true"/>
          <collapsed val="false"/>
          <version val="1"/>
         </options>
@@ -2231,10 +2229,10 @@
          <drawing>
           <elementMode val="true"/>
           <element col="ATV-0CF2D60D316B8D66EE420AD0">
-           <layer val=""/>
+           <layer/>
           </element>
           <customName>
-           <name val=""/>
+           <name/>
            <extension val="tga"/>
            <fieldChart val="12" defaultValue="12"/>
           </customName>
@@ -2346,10 +2344,10 @@
          <drawing>
           <elementMode val="true"/>
           <element col="ATV-0C85D67A377C0473B0D0276B">
-           <layer val=""/>
+           <layer/>
           </element>
           <customName>
-           <name val=""/>
+           <name/>
            <extension val="tga"/>
            <fieldChart val="12" defaultValue="12"/>
           </customName>
