@@ -18,6 +18,7 @@
     <dwg name="3"/>
     <dwg name="4"/>
     <dwg name="5"/>
+    <dwg name="6"/>
    </drawings>
   </element>
   <element id="4" elementName="BodyBilderS" elementFolder="BodyBilderS" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -41,9 +42,18 @@
   </element>
   <element id="7" elementName="23" elementFolder="23" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
-    <dwg name="1"/>
-    <dwg name="2"/>
+    <dwg name="1" key="0"/>
+    <dwg name="2" key="0"/>
     <dwg name="3"/>
+    <dwg name="4" key="1"/>
+    <dwg name="5"/>
+    <dwg name="6"/>
+    <dwg name="7"/>
+   </drawings>
+  </element>
+  <element id="8" elementName="Tolpa" elementFolder="Tolpa" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
    </drawings>
   </element>
  </elements>
@@ -65,38 +75,58 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="0cd6f063568015dd" nbframes="79" startFrame="1" stopFrame="79">
+  <scene name="Top" id="0cd6f063568015dd" nbframes="124" startFrame="1" stopFrame="124">
    <columns>
-    <column type="0" name="Drawing" display="false" displayOrder="5" width="100" anonymous="true" id="1">
+    <column type="0" name="Drawing" displayOrder="6" width="100" anonymous="true" id="1">
      <elementSeq exposures="1-79" val="1" id="1"/>
     </column>
-    <column type="0" name="ATV-0CE3D61CF0E763E856801D7F" displayOrder="6" width="100" anonymous="true" id="2">
+    <column type="0" name="ATV-0CE3D61CF0E763E856801D7F" displayOrder="7" width="100" anonymous="true" id="2">
      <elementSeq exposures="1-79" val="1" id="2"/>
     </column>
     <column type="0" name="ATV-0CDBD624F04C63A15680293E" displayOrder="4" width="100" anonymous="true" id="3">
-     <elementSeq exposures="1-4,80-85" val="1" id="3"/>
-     <elementSeq exposures="5-11,20-27" val="2" id="3"/>
-     <elementSeq exposures="12-19,28-33" val="5" id="3"/>
-     <heldSeq exposures="37-45"/>
+     <elementSeq exposures="28-29" val="1" id="3"/>
+     <elementSeq exposures="30-31" val="6" id="3"/>
+     <elementSeq exposures="32-38,47-54" val="2" id="3"/>
+     <elementSeq exposures="39-46,55-60" val="5" id="3"/>
+     <heldSeq exposures="64-72"/>
     </column>
     <column type="0" name="BodyBilderS" displayOrder="3" width="100" anonymous="true" id="4">
-     <elementSeq exposures="1" val="1" id="4"/>
-     <elementSeq exposures="2-51" val="2" id="4"/>
-     <heldSeq exposures="53-60"/>
+     <elementSeq exposures="28" val="1" id="4"/>
+     <elementSeq exposures="29-78" val="2" id="4"/>
+     <heldSeq exposures="80-85"/>
     </column>
-    <column type="0" name="ATV-0C46D6B9F08F634856810991" displayOrder="7" width="100" anonymous="true" id="5">
+    <column type="0" name="ATV-0C46D6B9F08F634856810991" displayOrder="8" width="100" anonymous="true" id="5">
      <elementSeq exposures="1-79" val="1" id="5"/>
     </column>
     <column type="0" name="HandsBilderS" displayOrder="2" width="100" anonymous="true" id="6">
-     <elementSeq exposures="1" val="1" id="6"/>
-     <elementSeq exposures="2-8,9-16" val="2" id="6"/>
-     <elementSeq exposures="17-23,37-44" val="3" id="6"/>
-     <elementSeq exposures="24-36" val="4" id="6"/>
+     <elementSeq exposures="28" val="1" id="6"/>
+     <elementSeq exposures="29-35,36-43" val="2" id="6"/>
+     <elementSeq exposures="44-50,64-71" val="3" id="6"/>
+     <elementSeq exposures="51-63" val="4" id="6"/>
     </column>
     <column type="0" name="ATV-0C84D67BF05F63C45681F6DD" displayOrder="1" width="100" anonymous="true" id="7">
-     <elementSeq exposures="1-3" val="1" id="7"/>
-     <elementSeq exposures="4-25" val="2" id="7"/>
-     <elementSeq exposures="26-34" val="3" id="7"/>
+     <elementSeq exposures="28-29" val="1" id="7"/>
+     <elementSeq exposures="30" val="7" id="7"/>
+     <elementSeq exposures="31-32" val="6" id="7"/>
+     <elementSeq exposures="33" val="5" id="7"/>
+     <elementSeq exposures="34" val="4" id="7"/>
+     <elementSeq exposures="35-36" val="2" id="7"/>
+     <heldSeq exposures="38-40,45"/>
+     <elementSeq exposures="50" val="3" id="7"/>
+    </column>
+    <column type="0" name="ATV-0C0CD6F3C052E55571010389" displayOrder="5" width="100" anonymous="true" id="8">
+     <elementSeq exposures="28-96" val="1" id="8"/>
+    </column>
+    <column type="1" name="bilder" displayOrder="9" width="100" anonymous="false" disabled="false" videoSync="true" soundLocked="false">
+     <soundSequence startFrame="1" stopFrame="2" name="bilder.wav" displayName="bilder.wav" id="0cd6c0e57101b1fd" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="0" clippingTimeStop="3.1388661861419678">
+      <lipSync showSoundForm="0"/>
+     </soundSequence>
+     <soundSequence startFrame="3" stopFrame="26" name="bilder.wav" displayName="bilder.wav" id="0cd6c0e57101b6a9" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="0.5" clippingTimeStop="3.1388661861419678">
+      <lipSync showSoundForm="0"/>
+     </soundSequence>
+     <soundSequence startFrame="31" stopFrame="38" name="bilder.wav" displayName="bilder.wav" id="0cd6c0e57101b6a8" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="2.5" clippingTimeStop="3.1388661861419678">
+      <lipSync showSoundForm="0"/>
+     </soundSequence>
     </column>
    </columns>
    <options>
@@ -107,7 +137,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="0,0,7" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="-5,0,8" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -126,13 +156,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="50,50,8" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="50,50,9" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="-50,50,9" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="-50,50,10" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -165,7 +195,119 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Drawing" pos="-65,-50,10" publishUnderTab="Drawing">
+     <module type="READ" name="Tolpa" pos="0,0,1" publishUnderTab="Tolpa">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-0C0CD6F3C052E55571010389">
+         <layer val=""/>
+        </element>
+        <customName>
+         <name val=""/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <colorSpace val="sRGB"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="zoomIndependent"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+      </attrs>
+     </module>
+     <module type="READ" name="Drawing" pos="-65,-50,11" publishUnderTab="Drawing">
       <options>
        <disabled val="true"/>
        <collapsed val="false"/>
@@ -278,7 +420,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Fon4" pos="0,0,6" publishUnderTab="Fon4">
+     <module type="READ" name="Fon4" pos="0,0,7" publishUnderTab="Fon4">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -390,10 +532,10 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="beefon_S" pos="0,0,5" publishUnderTab="beefon_S">
+     <module type="READ" name="beefon_S" pos="0,0,6" publishUnderTab="beefon_S">
       <options>
        <collapsed val="false"/>
-       <frameMarker frame="4" length="0" type="2"/>
+       <frameMarker frame="38" length="0" type="2"/>
        <version val="1"/>
       </options>
       <attrs>
@@ -503,7 +645,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="BodyBilderS" pos="-2,0,4" publishUnderTab="Drawing_1">
+     <module type="READ" name="BodyBilderS" pos="-2,0,5" publishUnderTab="Drawing_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -615,10 +757,10 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="HandsBilderS" pos="-6,0,2" publishUnderTab="Drawing_1">
+     <module type="READ" name="HandsBilderS" pos="-6,0,3" publishUnderTab="Drawing_1">
       <options>
        <collapsed val="false"/>
-       <frameMarker frame="1" length="0" type="1"/>
+       <frameMarker frame="35" length="0" type="1"/>
        <version val="1"/>
       </options>
       <attrs>
@@ -728,7 +870,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Bilder" pos="0,0,3" publishUnderTab="Bilder">
+     <module type="READ" name="Bilder" pos="0,0,4" publishUnderTab="Bilder">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -840,7 +982,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="23" pos="0,0,1" publishUnderTab="23">
+     <module type="READ" name="23" pos="0,0,2" publishUnderTab="23">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -956,13 +1098,14 @@
     <linkedlist>
      <link out="Composite" in="Display"/>
      <link out="Composite" in="Write"/>
+     <link out="Tolpa" in="Composite" inport="3"/>
      <link out="Drawing" in="Composite" inport="2"/>
      <link out="Fon4" in="Composite" inport="1"/>
-     <link out="beefon_S" in="Composite" inport="3"/>
-     <link out="BodyBilderS" in="Composite" inport="4"/>
-     <link out="HandsBilderS" in="Composite" inport="5"/>
+     <link out="beefon_S" in="Composite" inport="4"/>
+     <link out="BodyBilderS" in="Composite" inport="5"/>
+     <link out="HandsBilderS" in="Composite" inport="6"/>
      <link out="Bilder" in="Composite" inport="0"/>
-     <link out="23" in="Composite" inport="6"/>
+     <link out="23" in="Composite" inport="7"/>
     </linkedlist>
    </rootgroup>
    <unconnectedComposite>
@@ -997,7 +1140,9 @@
      <alignmentGuideList selectedGuide="-1"/>
     </meta>
    </metas>
-   <timelineOrderer/>
+   <timelineOrderer>
+    <soundLayer soundName="bilder" index="0"/>
+   </timelineOrderer>
   </scene>
  </scenes>
  <symbols>
@@ -1010,7 +1155,7 @@
  </timeline>
  <metas>
   <meta type="checksumValidation" name="checksumValidation" creator="Harmony Premium" version="1.0">
-   <value data="D6000000000000000303EC02BF925B5A4E6BA40EA23E9D5E5D1003C4F2EE1057A24D4DC152698219683E1E8D3C40A17749B6327035335F5BD7F1098AA83E8239B17389115BA64C59969350F34796DEEEF3979301C8EDB7E322D1266C5648E94714B9CEEEDB20A95A56B8AE0E1C810BD750DF199AD5E08B7EAEA94CC321FFD582AE23EF2CFF406C2954BAFC696FD18DD8AA328D3F01097CA745E03A65DB8975A5F48A3D7A6015AA3A2B700057E03B8EF5F10825796FD9AC37D6079338834F6C08C0678657E45AF42DEF4FFB0392F05BEF0D4F2AE27927B422F4B2251523536F0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426E7A4343415169674177494241674943424E49774451594A4B6F5A496876634E4151454642514177506A454C4D416B474131554542684D43513045780A447A414E42674E5642416754426C46315A574A6C597A45654D4277474131554541784D5662476C6A5A57357A5A58497564473976626D4A7662323075593239740A4D423458445445314D4467794E4445354D6A517A4E566F58445449314D4467794D6A45354D6A517A4E566F774D44454C4D416B474131554542684D43513045780A4954416642674E5642414D5447474E695A4755744D54646B4D43316B4E3245354C5451794D474D74595463344E5442634D4130474353714753496233445145420A41515541413073414D45674351514464524A686E46324F6853376C594A4A4B4A307A3352704B634639795166715572395A4F5A784363425341547252466163530A656C7A3730506B74656A5875635374547168316E6D3858336A6C6B43516D6D575843595641674D42414145774451594A4B6F5A496876634E41514546425141440A675945414651784235596F307A777679535A4B4677354E6D4B75662B71433075684D6D6D633936734A58386142726D7373757872442F73655A516D7A625532540A6C6C4844417530386C5673686C496D41413063315457356B7964506378546D76524C356D7767377935795341562F4D2F2F686F792F433542412F654665486F510A6264526A463951555636656C4D6270334A75327732726C6C4B4673474A4774387A707A567158356B517844513471303D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A4000000066E252A369447FDB356F5A3CD3B6199F9033F74C317C297523583C7369B88A2F37D541E0D8E93F3A244ED9906124A6A842A4FDDA0F3C8E32277C15B1D881DA22"/>
+   <value data="D60000000000000003037B952805CCCDD9FC339935A90AC9CA879453657987C035DADA56C5FE158EFFA9891AABD736E0DE21A5E7A2A4C8CC40669E1D3FA915AE26E41E86CC31DBCE0104C764D0014979640004965F7A2074B546B1FBC1DF7ED0832E59794CB73ECDC12F39998B169C40C7488E0D42771CE9393EDB54B668421539B478BB68D7FBBEC32D6BFEF8461A4F3DA51AA8969EEB30D277ADF24C1EE232631DAAEDF7823DADBCE797C077AC1962669FB2EEF84E3BA0419004AF14D8FB9F57F011C073CD63BA78D86C940567CC789AD8BD75EEB023B56325B282B4C46F0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426E7A4343415169674177494241674943424E49774451594A4B6F5A496876634E4151454642514177506A454C4D416B474131554542684D43513045780A447A414E42674E5642416754426C46315A574A6C597A45654D4277474131554541784D5662476C6A5A57357A5A58497564473976626D4A7662323075593239740A4D423458445445314D4467794E4445354D6A517A4E566F58445449314D4467794D6A45354D6A517A4E566F774D44454C4D416B474131554542684D43513045780A4954416642674E5642414D5447474E695A4755744D54646B4D43316B4E3245354C5451794D474D74595463344E5442634D4130474353714753496233445145420A41515541413073414D45674351514464524A686E46324F6853376C594A4A4B4A307A3352704B634639795166715572395A4F5A784363425341547252466163530A656C7A3730506B74656A5875635374547168316E6D3858336A6C6B43516D6D575843595641674D42414145774451594A4B6F5A496876634E41514546425141440A675945414651784235596F307A777679535A4B4677354E6D4B75662B71433075684D6D6D633936734A58386142726D7373757872442F73655A516D7A625532540A6C6C4844417530386C5673686C496D41413063315457356B7964506378546D76524C356D7767377935795341562F4D2F2F686F792F433542412F654665486F510A6264526A463951555636656C4D6270334A75327732726C6C4B4673474A4774387A707A567158356B517844513471303D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A40000000AD5439375E76FE5E9B70D6C7E9A20D6B94CA55F63AA1E235ECE8EA2CFD078EAEC1011172223E87CAFAD558C53FFC33657EBEE66B3A42313B28B00E58EB0A0D4E"/>
   </meta>
  </metas>
 </project>
