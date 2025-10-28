@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<elements source="Harmony Premium (HarmonyPremium.exe) version 24.0.1 build 23019 2024-07-20 09:57:32" version="2401" build="23019">
+<elements source="Harmony Premium (HarmonyPremium.exe) version 22.0.3 build 21960 2023-09-13 23:55:53" version="2203" build="21960">
  <element id="1" elementName="S" elementFolder="S" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="2" elementName="fon3sc" elementFolder="fon3sc" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
  <element id="4" elementName="5e0cf59c107d3f91d4d5d693236b3e23" elementFolder="5e0cf59c107d3f91d4d5d693236b3e23" pixmapFormat="11" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
@@ -15,4 +15,7 @@
  <element id="15" elementName="Beefly_2" elementFolder="Beefly_2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="16" elementName="L_Tolpa" elementFolder="L_Tolpa" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="17" elementName="Bee1_L" elementFolder="Bee1_L" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="18" elementName="maska" elementFolder="maska.18" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="19" elementName="massska" elementFolder="massska" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="20" elementName="Name" elementFolder="Name" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
