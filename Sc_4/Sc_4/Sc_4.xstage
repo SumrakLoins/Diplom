@@ -125,6 +125,24 @@
     <dwg name="8"/>
     <dwg name="9"/>
     <dwg name="10"/>
+    <dwg name="11"/>
+    <dwg name="12"/>
+    <dwg name="13"/>
+    <dwg name="14"/>
+    <dwg name="15"/>
+    <dwg name="16"/>
+    <dwg name="17"/>
+    <dwg name="18"/>
+    <dwg name="19"/>
+    <dwg name="20"/>
+    <dwg name="21"/>
+    <dwg name="22"/>
+    <dwg name="23"/>
+    <dwg name="24"/>
+    <dwg name="25"/>
+    <dwg name="26"/>
+    <dwg name="27"/>
+    <dwg name="28"/>
    </drawings>
   </element>
  </elements>
@@ -152,7 +170,7 @@
      <elementSeq exposures="1-79" val="1" id="1"/>
      <heldSeq exposures="110-111"/>
     </column>
-    <column type="0" name="ATV-0CE3D61CF0E763E856801D7F" displayOrder="10" width="100" anonymous="true" id="2">
+    <column type="0" name="ATV-0CE3D61CF0E763E856801D7F" displayOrder="9" width="100" anonymous="true" id="2">
      <elementSeq exposures="1-79" val="1" id="2"/>
      <heldSeq exposures="110-111"/>
     </column>
@@ -163,7 +181,7 @@
      <elementSeq exposures="46-53,62-67" val="5" id="3"/>
      <heldSeq exposures="71-79"/>
     </column>
-    <column type="0" name="BodyBilderS" displayOrder="5" width="100" anonymous="true" id="4">
+    <column type="0" name="BodyBilderS" display="false" displayOrder="5" width="100" anonymous="true" id="4">
      <elementSeq exposures="1-5" val="3" id="4"/>
      <elementSeq exposures="6" val="4" id="4"/>
      <elementSeq exposures="7" val="5" id="4"/>
@@ -190,11 +208,11 @@
      <elementSeq exposures="40-91" val="2" id="4"/>
      <heldSeq exposures="93-94"/>
     </column>
-    <column type="0" name="ATV-0C46D6B9F08F634856810991" displayOrder="11" width="100" anonymous="true" id="5">
+    <column type="0" name="ATV-0C46D6B9F08F634856810991" displayOrder="10" width="100" anonymous="true" id="5">
      <elementSeq exposures="1-79" val="1" id="5"/>
      <heldSeq exposures="110-111"/>
     </column>
-    <column type="0" name="HandsBilderS" displayOrder="4" width="100" anonymous="true" id="6">
+    <column type="0" name="HandsBilderS" display="false" displayOrder="4" width="100" anonymous="true" id="6">
      <elementSeq exposures="1-33" val="1" id="6"/>
      <elementSeq exposures="34-35" val="5" id="6"/>
      <elementSeq exposures="36-37" val="6" id="6"/>
@@ -203,7 +221,7 @@
      <elementSeq exposures="48-51,64-67,80-83,96-99" val="4" id="6"/>
      <heldSeq exposures="106"/>
     </column>
-    <column type="0" name="ATV-0C84D67BF05F63C45681F6DD" displayOrder="2" width="100" anonymous="true" id="7">
+    <column type="0" name="ATV-0C84D67BF05F63C45681F6DD" display="false" displayOrder="2" width="100" anonymous="true" id="7">
      <elementSeq exposures="1-15" val="1" id="7"/>
      <elementSeq exposures="16-17,26-27" val="10" id="7"/>
      <elementSeq exposures="18-25" val="8" id="7"/>
@@ -221,8 +239,7 @@
     <column type="0" name="ATV-0C0CD6F3C052E55571010389" displayOrder="7" width="100" anonymous="true" id="8">
      <elementSeq exposures="1-103" val="1" id="8"/>
     </column>
-    <column type="1" name="bilder" displayOrder="9" width="100" anonymous="false" disabled="false" videoSync="true" soundLocked="false"/>
-    <column type="0" name="ATV-0C94D76B2CB197B0A1C05917" display="false" displayOrder="1" width="100" anonymous="true" id="9">
+    <column type="0" name="ATV-0C94D76B2CB197B0A1C05917" displayOrder="1" width="100" anonymous="true" id="9">
      <elementSeq exposures="1-15" val="1" id="9"/>
      <elementSeq exposures="16-17" val="2" id="9"/>
      <elementSeq exposures="18-25" val="3" id="9"/>
@@ -249,7 +266,34 @@
      <elementSeq exposures="12" val="8" id="10"/>
      <elementSeq exposures="13" val="9" id="10"/>
      <elementSeq exposures="14" val="10" id="10"/>
+     <elementSeq exposures="15" val="11" id="10"/>
+     <elementSeq exposures="16" val="12" id="10"/>
+     <elementSeq exposures="17" val="13" id="10"/>
+     <elementSeq exposures="18-19" val="14" id="10"/>
+     <elementSeq exposures="20-21" val="15" id="10"/>
+     <elementSeq exposures="22-23" val="16" id="10"/>
+     <elementSeq exposures="24-25" val="17" id="10"/>
+     <elementSeq exposures="26-27" val="18" id="10"/>
+     <elementSeq exposures="28" val="19" id="10"/>
+     <elementSeq exposures="29" val="20" id="10"/>
+     <elementSeq exposures="30-31" val="22" id="10"/>
+     <elementSeq exposures="32-33" val="23" id="10"/>
+     <elementSeq exposures="34-35" val="24" id="10"/>
+     <elementSeq exposures="36-37" val="25" id="10"/>
+     <elementSeq exposures="38-39" val="26" id="10"/>
+     <elementSeq exposures="40" val="27" id="10"/>
      <elementSeq exposures="57" val="1" id="10"/>
+    </column>
+    <column type="1" name="bilder_1" displayOrder="11" width="100" anonymous="false" disabled="false" videoSync="true" soundLocked="false">
+     <soundSequence startFrame="1" stopFrame="1" name="bilder.wav" displayName="bilder.wav" id="0cd74ecaa6311e86" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="0" clippingTimeStop="3.1388661861419678">
+      <lipSync showSoundForm="0"/>
+     </soundSequence>
+     <soundSequence startFrame="2" stopFrame="34" name="bilder.wav" displayName="bilder.wav" id="0cd74ecaa631202f" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="0.1666666716337204" clippingTimeStop="3.1388661861419678">
+      <lipSync showSoundForm="0"/>
+     </soundSequence>
+     <soundSequence startFrame="36" stopFrame="38" name="bilder.wav" displayName="bilder.wav" id="0cd74ecaa631202e" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="2.9166667461395264" clippingTimeStop="3.1388661861419678">
+      <lipSync showSoundForm="0"/>
+     </soundSequence>
     </column>
    </columns>
    <options>
@@ -771,6 +815,7 @@
      </module>
      <module type="READ" name="BodyBilderS" pos="-2,0,7" publishUnderTab="Drawing_1">
       <options>
+       <disabled val="true"/>
        <locked val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
@@ -884,6 +929,7 @@
      </module>
      <module type="READ" name="HandsBilderS" pos="-6,0,5" publishUnderTab="Drawing_1">
       <options>
+       <disabled val="true"/>
        <locked val="true"/>
        <collapsed val="false"/>
        <frameMarker frame="39" length="0" type="1"/>
@@ -1113,6 +1159,7 @@
      </module>
      <module type="READ" name="23" pos="0,0,4" publishUnderTab="23">
       <options>
+       <disabled val="true"/>
        <locked val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1498,7 +1545,7 @@
     </meta>
    </metas>
    <timelineOrderer>
-    <soundLayer soundName="bilder" index="0"/>
+    <soundLayer soundName="bilder_1" index="0"/>
    </timelineOrderer>
   </scene>
  </scenes>
@@ -1512,7 +1559,7 @@
  </timeline>
  <metas>
   <meta type="checksumValidation" name="checksumValidation" creator="Harmony Premium" version="1.0">
-   <value data="D6000000000000000303CA2499B47D7C684D82288418BB787B3625E2D4C83671846B6BE7744FA43F4E1838AB1A6687516F9014561315797DF1D72FAC8E18A41F9755AF377D806A7FB0B576D561B0F8C8D5B1B527EECB91C504F7004A706ECF61329FE8C8FD068F7C709E88283AA72DF176F93FBCF3C6AD58888F6AE507D9F3A48805C90AD9664A0F729CDA4F49F7ABFE8C14AB19272F5A8163C61C43FDAF5383D2AC1B5C46338C1C0D562671C61DA8D3D72E035F49FF8A11F021B51EA5694A2EE641A071C27CD20BC969DD25B4D67DC92B690CC45F019204D294033305756F0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426E7A4343415169674177494241674943424E49774451594A4B6F5A496876634E4151454642514177506A454C4D416B474131554542684D43513045780A447A414E42674E5642416754426C46315A574A6C597A45654D4277474131554541784D5662476C6A5A57357A5A58497564473976626D4A7662323075593239740A4D423458445445314D4467794E4445354D6A517A4E566F58445449314D4467794D6A45354D6A517A4E566F774D44454C4D416B474131554542684D43513045780A4954416642674E5642414D5447474E695A4755744D54646B4D43316B4E3245354C5451794D474D74595463344E5442634D4130474353714753496233445145420A41515541413073414D45674351514464524A686E46324F6853376C594A4A4B4A307A3352704B634639795166715572395A4F5A784363425341547252466163530A656C7A3730506B74656A5875635374547168316E6D3858336A6C6B43516D6D575843595641674D42414145774451594A4B6F5A496876634E41514546425141440A675945414651784235596F307A777679535A4B4677354E6D4B75662B71433075684D6D6D633936734A58386142726D7373757872442F73655A516D7A625532540A6C6C4844417530386C5673686C496D41413063315457356B7964506378546D76524C356D7767377935795341562F4D2F2F686F792F433542412F654665486F510A6264526A463951555636656C4D6270334A75327732726C6C4B4673474A4774387A707A567158356B517844513471303D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A400000005F2AFAE6DAC11C455C5997989BC826A7C3B011C53FE1CC1D3D91D8663CF453936F4C87F459EEF056CFBED5CF069E17022B647A97D3A6A254C38BB914091C6228"/>
+   <value data="D60000000000000003030FE15C71B8B9AD8847ED41DD7EBDBEF3E027110DF3B441AEAE22B18A61FA8BDDFD6EDFA34294AA55D193D6D0BCB83412EA694BDD61DA52906AF2B845AFBA7570B310A4753D0D107470E22B0E5400C132C58FB5AB0AA4F75A2D0D38C34AB9B55B4DEDFF62E834B33CFA793603689D4D4AAF20C21C36614DC00CCF1CA38FCAB7591F8A8C326E3B49D16EDCE2EA9F44A603D986386A96461769DE9983F649D9C893E3B403D86D1612EBC69A8C3A4FD435E470DB60AC8FEB238465B407B917CE0CAC18E07113B80CEEACC9019AC457C11751C6F6C0B06F0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426E7A4343415169674177494241674943424E49774451594A4B6F5A496876634E4151454642514177506A454C4D416B474131554542684D43513045780A447A414E42674E5642416754426C46315A574A6C597A45654D4277474131554541784D5662476C6A5A57357A5A58497564473976626D4A7662323075593239740A4D423458445445314D4467794E4445354D6A517A4E566F58445449314D4467794D6A45354D6A517A4E566F774D44454C4D416B474131554542684D43513045780A4954416642674E5642414D5447474E695A4755744D54646B4D43316B4E3245354C5451794D474D74595463344E5442634D4130474353714753496233445145420A41515541413073414D45674351514464524A686E46324F6853376C594A4A4B4A307A3352704B634639795166715572395A4F5A784363425341547252466163530A656C7A3730506B74656A5875635374547168316E6D3858336A6C6B43516D6D575843595641674D42414145774451594A4B6F5A496876634E41514546425141440A675945414651784235596F307A777679535A4B4677354E6D4B75662B71433075684D6D6D633936734A58386142726D7373757872442F73655A516D7A625532540A6C6C4844417530386C5673686C496D41413063315457356B7964506378546D76524C356D7767377935795341562F4D2F2F686F792F433542412F654665486F510A6264526A463951555636656C4D6270334A75327732726C6C4B4673474A4774387A707A567158356B517844513471303D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A4000000004D3B49E6DDDEC1099425686CAB518EBE1A7BBE82AF7E53CA2971D04733792048B76FF5D2806DDDFA333878FF929261BCB1BD9A41C90B406FCC8C562339E1862"/>
   </meta>
  </metas>
 </project>
