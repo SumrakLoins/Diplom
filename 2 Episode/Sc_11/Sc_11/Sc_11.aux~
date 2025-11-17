@@ -1,0 +1,33 @@
+<!DOCTYPE SceneVersion>
+<SceneVersion ID="1" VersionName="Sc_11" Modified="2025-11-18 01:10:30">
+ <Element ID="1" Folder="Drawing" Name="Drawing">
+  <Drawing Key="" Version="1" Name="1"/>
+  <Drawing Key="" Version="1" Name="2"/>
+  <Drawing Key="" Version="1" Name="3"/>
+ </Element>
+ <Element ID="2" Folder="fon11yarkisvet" Name="fon11yarkisvet">
+  <Drawing Key="" Version="1" Name="1"/>
+ </Element>
+ <Element ID="3" Folder="23S" Name="23S">
+  <Drawing Key="Key" Version="1" Name="1"/>
+  <Drawing Key="Key" Version="1" Name="2"/>
+  <Drawing Key="Key" Version="1" Name="3"/>
+  <Drawing Key="" Version="1" Name="4"/>
+  <Drawing Key="" Version="1" Name="5"/>
+  <Drawing Key="" Version="1" Name="6"/>
+  <Drawing Key="" Version="1" Name="7"/>
+  <Drawing Key="" Version="1" Name="8"/>
+  <Drawing Key="" Version="1" Name="9"/>
+ </Element>
+ <Element ID="4" Folder="23L" Name="23L">
+  <Drawing Key="" Version="1" Name="1"/>
+  <Drawing Key="" Version="1" Name="2"/>
+  <Drawing Key="" Version="1" Name="3"/>
+  <Drawing Key="" Version="1" Name="4"/>
+  <Drawing Key="" Version="1" Name="5"/>
+  <Drawing Key="" Version="1" Name="6"/>
+  <Drawing Key="" Version="1" Name="7"/>
+  <Drawing Key="" Version="1" Name="8"/>
+  <Drawing Key="" Version="1" Name="9"/>
+ </Element>
+</SceneVersion>
