@@ -1,0 +1,11 @@
+ToonBoomAnimationInc PaletteFile 2
+Solid    Default                    0x0cd57f6b9713acc9   0   0   0 255
+Solid    "New 0"                    0x0cd57f6b9713ae6a 250 180   7 255
+Solid    "New 1"                    0x0cd57f6b9713b1a7  62  44  58 255
+Solid    "New 5"                    0x0cd57f6b9713b934 164  43  41 255
+Solid    "New 8"                    0x0cd57f6b9713bf42 115 142  63 255
+Solid    "New 2"                    0x0cd57f6b9713b2a9 255 243 213 255
+Solid    "New 3"                    0x0cd57f6b9713b3ab 222 127  11 255
+Solid    "New 9"                    0x0cd57f6b9713c026 180 190  65 255
+Solid    "New 0"                    0x0cd547132ee01f97 213 197 156 255
+Solid    "New 7"                    0x0cd57f6b9713be5e 158 127  80 255
