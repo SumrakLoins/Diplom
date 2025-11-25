@@ -1,9 +1,9 @@
 <!DOCTYPE SceneVersion>
-<SceneVersion Modified="2025-11-24 18:13:40" ID="1" VersionName="Sc_15">
- <Element Name="Ref" Folder="Ref" ID="1">
+<SceneVersion ID="1" VersionName="Sc_15" Modified="2025-11-25 17:35:13">
+ <Element Name="Ref" ID="1" Folder="Ref">
   <Drawing Name="1" Key="" Version="1"/>
  </Element>
- <Element Name="23S" Folder="23S" ID="4">
+ <Element Name="23S" ID="4" Folder="23S">
   <Drawing Name="1" Key="Key" Version="1"/>
   <Drawing Name="2" Key="Key" Version="1"/>
   <Drawing Name="3" Key="Key" Version="1"/>
@@ -22,7 +22,7 @@
   <Drawing Name="16" Key="" Version="1"/>
   <Drawing Name="17" Key="" Version="1"/>
  </Element>
- <Element Name="23l" Folder="23l" ID="5">
+ <Element Name="23l" ID="5" Folder="23l">
   <Drawing Name="1" Key="" Version="1"/>
   <Drawing Name="2" Key="" Version="1"/>
   <Drawing Name="3" Key="" Version="1"/>
@@ -55,16 +55,16 @@
   <Drawing Name="30" Key="" Version="1"/>
   <Drawing Name="31" Key="" Version="1"/>
  </Element>
- <Element Name="fon15_2" Folder="fon15_2" ID="7">
+ <Element Name="fon15_2" ID="7" Folder="fon15_2">
   <Drawing Name="1" Key="" Version="1"/>
  </Element>
- <Element Name="fon15_3" Folder="fon15_3" ID="8">
+ <Element Name="fon15_3" ID="8" Folder="fon15_3">
   <Drawing Name="1" Key="" Version="1"/>
  </Element>
- <Element Name="fon15_1" Folder="fon15_1" ID="9">
+ <Element Name="fon15_1" ID="9" Folder="fon15_1">
   <Drawing Name="1" Key="" Version="1"/>
  </Element>
- <Element Name="Hook" Folder="Hook" ID="10">
+ <Element Name="Hook" ID="10" Folder="Hook">
   <Drawing Name="1" Key="" Version="1"/>
   <Drawing Name="2" Key="" Version="1"/>
   <Drawing Name="3" Key="" Version="1"/>
@@ -81,10 +81,10 @@
   <Drawing Name="14" Key="" Version="1"/>
   <Drawing Name="15" Key="" Version="1"/>
  </Element>
- <Element Name="hook" Folder="hook.11" ID="11">
+ <Element Name="hook" ID="11" Folder="hook.11">
   <Drawing Name="1" Key="" Version="1"/>
  </Element>
- <Element Name="rope" Folder="rope" ID="12">
+ <Element Name="rope" ID="12" Folder="rope">
   <Drawing Name="1" Key="" Version="1"/>
   <Drawing Name="2" Key="" Version="1"/>
   <Drawing Name="3" Key="" Version="1"/>
@@ -100,5 +100,28 @@
   <Drawing Name="13" Key="" Version="1"/>
   <Drawing Name="14" Key="" Version="1"/>
   <Drawing Name="15" Key="" Version="1"/>
+  <Drawing Name="16" Key="" Version="1"/>
+  <Drawing Name="17" Key="" Version="1"/>
+  <Drawing Name="18" Key="" Version="1"/>
+  <Drawing Name="19" Key="" Version="1"/>
+  <Drawing Name="20" Key="" Version="1"/>
+ </Element>
+ <Element Name="Hl" ID="13" Folder="Hl">
+  <Drawing Name="1" Key="" Version="1"/>
+  <Drawing Name="2" Key="" Version="1"/>
+  <Drawing Name="3" Key="" Version="1"/>
+  <Drawing Name="4" Key="" Version="1"/>
+  <Drawing Name="5" Key="" Version="1"/>
+  <Drawing Name="6" Key="" Version="1"/>
+  <Drawing Name="7" Key="" Version="1"/>
+ </Element>
+ <Element Name="Drawing" ID="14" Folder="Drawing">
+  <Drawing Name="1" Key="" Version="1"/>
+  <Drawing Name="2" Key="" Version="1"/>
+  <Drawing Name="3" Key="" Version="1"/>
+  <Drawing Name="4" Key="" Version="1"/>
+  <Drawing Name="5" Key="" Version="1"/>
+  <Drawing Name="6" Key="" Version="1"/>
+  <Drawing Name="7" Key="" Version="1"/>
  </Element>
 </SceneVersion>
