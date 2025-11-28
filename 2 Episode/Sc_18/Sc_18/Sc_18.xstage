@@ -1,0 +1,2279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project source="Harmony Premium (HarmonyPremium.exe) version 24.0.1 build 23019 2024-07-20 09:57:32" version="2401" build="23019" creator="harmony">
+ <elements>
+  <element id="1" elementName="Bees" elementFolder="Bees" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="2" elementName="fon18_dark" elementFolder="fon18_dark" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="3" elementName="bee1" elementFolder="bee1.3" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+    <dwg name="2"/>
+    <dwg name="3"/>
+   </drawings>
+  </element>
+  <element id="4" elementName="bee2" elementFolder="bee2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+    <dwg name="2"/>
+    <dwg name="3"/>
+   </drawings>
+  </element>
+  <element id="5" elementName="bee3" elementFolder="bee3" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+    <dwg name="2"/>
+   </drawings>
+  </element>
+  <element id="6" elementName="bee4" elementFolder="bee4" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+    <dwg name="2"/>
+    <dwg name="3"/>
+   </drawings>
+  </element>
+  <element id="7" elementName="bee5" elementFolder="bee5" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+    <dwg name="2"/>
+    <dwg name="3"/>
+   </drawings>
+  </element>
+  <element id="8" elementName="bee6" elementFolder="bee6" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+    <dwg name="2"/>
+   </drawings>
+  </element>
+  <element id="9" elementName="bee7" elementFolder="bee7" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+    <dwg name="2"/>
+   </drawings>
+  </element>
+ </elements>
+ <options>
+  <metrics unitAspectRatioX="4" unitAspectRatioY="3" numberOfUnitsX="24" numberOfUnitsY="24" numberOfUnitsZ="12"/>
+  <resolution name="HDTV_1080p24" size="1920,1080" fovFit="VerticalFitFov" fov="41.112090439166927" projection="PerspectiveProjection"/>
+  <framerate val="24"/>
+  <zdragging val="true"/>
+  <zOrderCompatibilityWith7_3 val="false"/>
+  <pixelPerModelUnitForVectorLayers val="0.28800000000000009"/>
+  <pixelPerModelUnitForBitmapLayers val="0.28800000000000009"/>
+  <canvasForBitmapLayers size="3840,2160"/>
+  <imageProcessingFormat val="rgbaFloat"/>
+  <cameraInSymbols val="true"/>
+  <scaleFactor val="1"/>
+  <colorSpace val="sRGB"/>
+  <textureColorSpace val="sRGB"/>
+  <convertPalettesColorSpace val="true"/>
+ </options>
+ <timelineMarkers/>
+ <scenes>
+  <scene name="Top" id="0cdf2459a8f01704" nbframes="60" startFrame="1" stopFrame="57">
+   <columns>
+    <column type="0" name="Bees" displayOrder="8" width="100" anonymous="true" id="1">
+     <elementSeq exposures="1-34" val="1" id="1"/>
+    </column>
+    <column type="0" name="ATV-0CA7DF5824A9599CA8F01F78" displayOrder="9" width="100" anonymous="true" id="2">
+     <elementSeq exposures="1-60" val="1" id="2"/>
+    </column>
+    <column type="0" name="ATV-0C3DDFC22444597BA8F0717A" displayOrder="7" width="100" anonymous="true" id="3">
+     <elementSeq exposures="1,3,5,7,9,11,13,15,17,19,21,23,25,27,29,31,33,35,37,39,41,43,45,47,49,51,53,55,57,59,61,63,65,67,69,71" val="1" id="3"/>
+     <elementSeq exposures="2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46,48,50,52,54,56,58,60,62,64,66,68,70,72" val="3" id="3"/>
+    </column>
+    <column type="0" name="ATV-0C74DF8B24B25907A8F11D3A" displayOrder="6" width="100" anonymous="true" id="4">
+     <elementSeq exposures="1-4" val="1" id="4"/>
+     <elementSeq exposures="5,7,9,11,13,15,17,19,21,23,25,27,29,31,33,35,37,39,41,43,45,47,49,51,53,55,57,59,61" val="2" id="4"/>
+     <elementSeq exposures="6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46,48,50,52,54,56,58,60,62" val="3" id="4"/>
+    </column>
+    <column type="0" name="ATV-0C31DFCE2448598BA8F2FCA5" displayOrder="5" width="100" anonymous="true" id="5">
+     <elementSeq exposures="1,3,5,7,9,11,13,15,17,19,21,23,25,27,29,31,33,35,37,39,41,43,45,47,49,51,53,55,57,59,61,63,65,67,69,71,73,75,77,79,81,83,85,87" val="1" id="5"/>
+     <elementSeq exposures="2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46,48,50,52,54,56,58,60,62,64,66,68,70,72,74,76,78,80,82,84,86,88" val="2" id="5"/>
+    </column>
+    <column type="0" name="ATV-0C3BDFC424395904A8F35CB3" displayOrder="4" width="100" anonymous="true" id="6">
+     <elementSeq exposures="1,3,5,7,9,11,13,15,17,19,21,23,25,27,29,31,33,35,37,39,41,43,45,47,49,51,53,55,57,59,61,63,65,67,69,71" val="1" id="6"/>
+     <elementSeq exposures="2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46,48,50,52,54,56,58,60,62,64,66,68,70,72" val="3" id="6"/>
+    </column>
+    <column type="0" name="ATV-0CE0DF1F243E5953A8F4139B" displayOrder="3" width="100" anonymous="true" id="7">
+     <elementSeq exposures="1" val="1" id="7"/>
+     <elementSeq exposures="2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46,48,50,52,54,56,58,60,62,64,66,68,70" val="2" id="7"/>
+     <elementSeq exposures="3,5,7,9,11,13,15,17,19,21,23,25,27,29,31,33,35,37,39,41,43,45,47,49,51,53,55,57,59,61,63,65,67,69,71" val="3" id="7"/>
+     <heldSeq exposures="76"/>
+    </column>
+    <column type="0" name="ATV-0CC1DF3E241859FFA8F4AD11" displayOrder="2" width="100" anonymous="true" id="8">
+     <elementSeq exposures="1,3,5,7,9,11,13,15,17,19,21,23,25,27,29,31,33,35,37,39,41,43,45,47,49,51,53,55,57,59" val="1" id="8"/>
+     <elementSeq exposures="2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46,48,50,52,54,56,58,60" val="2" id="8"/>
+    </column>
+    <column type="0" name="ATV-0C29DFD624D859EBA8F55D38" displayOrder="1" width="100" anonymous="true" id="9">
+     <elementSeq exposures="1,3,5,7,9,11,13,15,17,19,21,23,25,27,29,31,33,35,37,39,41,43,45,47,49,51,53,55,57,59,61,63,65,67,69" val="1" id="9"/>
+     <elementSeq exposures="2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46,48,50,52,54,56,58,60,62,64,66,68,70" val="2" id="9"/>
+    </column>
+    <column type="2" name="ATV-0C87DF7830F7906C26D05D90" anonymous="true" displayOrder="10">
+     <infoX width="100"/>
+     <infoY width="100"/>
+     <infoZ width="100"/>
+     <infoVelocity width="100"/>
+     <path3D useVeloX="true" useVeloY="true" useVeloZ="true" constantZ="false">
+      <points>
+       <pt val="0,0,0" lockedInTime="1"/>
+       <pt val="23.152801573845533,19.293701388597004,0" lockedInTime="52"/>
+      </points>
+     </path3D>
+     <velocity type="3" name="ATV-0CCEDF31306B90C826D05D91" displayOrder="0" width="100" anonymous="true">
+      <step val="1" start="1" stop="1"/>
+      <points version="2">
+       <pt constSeg="false" x="1" yLocal="0" y="0" rhx="0.34782608695652162" rhy="0.0078125000000000173" rx="18.739130434782602" ry="0.0078125000000000173"/>
+       <pt constSeg="false" x="52" yLocal="1" y="1"/>
+      </points>
+     </velocity>
+    </column>
+    <column type="3" name="ATV-0C19DFE6304C903D26D05D92" displayOrder="11" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="52" yLocal="-20.699759906244207" y="-20.699759906244207"/>
+      <pt constSeg="false" x="1" yLocal="0" y="0" rhx="17.739130434782602" rhy="-0.16171687426753323" rx="18.739130434782602" ry="-0.16171687426753323"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0C96DF6930DC90CB26D05D93" displayOrder="12" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="52" yLocal="0.99999999999999833" y="0.99999999999999833"/>
+      <pt constSeg="false" x="1" yLocal="1" y="1" rhx="17.739130434782602" rx="18.739130434782602"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0C3BDFC430A3900226D05D94" displayOrder="13" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="52" yLocal="0.99999999999999967" y="0.99999999999999967"/>
+      <pt constSeg="false" x="1" yLocal="1" y="1" rhx="17.739130434782602" rx="18.739130434782602"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0C2CDFD33081902826D05D95" displayOrder="14" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="0" y="0" rhx="17.739130434782602" rhy="5.4665783587654328e-16" rx="18.739130434782602" ry="5.4665783587654328e-16"/>
+      <pt constSeg="false" x="52" yLocal="6.9972202992197388e-14" y="6.9972202992197388e-14"/>
+     </points>
+    </column>
+    <column type="2" name="ATV-0C39DFC630F490D126D08766" anonymous="true" displayOrder="15">
+     <infoX width="100"/>
+     <infoY width="100"/>
+     <infoZ width="100"/>
+     <infoVelocity width="100"/>
+     <path3D useVeloX="true" useVeloY="true" useVeloZ="true" constantZ="false">
+      <points>
+       <pt val="0.11543403295244353,-0.20965591493370639,0" lockedInTime="8"/>
+       <pt val="14.257251963536374,14.624612053632077,0" lockedInTime="47"/>
+      </points>
+     </path3D>
+     <velocity type="3" name="ATV-0C63DF9C3033909226D08767" displayOrder="0" width="100" anonymous="true">
+      <step val="1" start="1" stop="1"/>
+      <points version="2">
+       <pt constSeg="false" x="8" yLocal="0" y="0" rhx="0.46376811594202905" rhy="0.10156249999999996" rx="26.086956521739133" ry="0.10156249999999996"/>
+       <pt constSeg="false" x="47" yLocal="1" y="1"/>
+      </points>
+     </velocity>
+    </column>
+    <column type="3" name="ATV-0C41DFBE30D990C426D08768" displayOrder="16" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="8" yLocal="0" y="0" rhx="18.086956521739133" rhy="0.36744850876009139" rx="26.086956521739133" ry="0.36744850876009139"/>
+      <pt constSeg="false" x="47" yLocal="3.6179545477916704" y="3.6179545477916704"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0C9DDF62300C90A326D08769" displayOrder="17" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="47" yLocal="0.99999999999999745" y="0.99999999999999745"/>
+      <pt constSeg="false" x="8" yLocal="1" y="1" rhx="18.086956521739133" rhy="-2.2204460492503131e-16" rx="26.086956521739133" ry="0.99999999999999978"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0C47DFB830A9903C26D0876A" displayOrder="18" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="47" yLocal="0.99999999999999967" y="0.99999999999999967"/>
+      <pt constSeg="false" x="8" yLocal="1" y="1" rhx="18.086956521739133" rx="26.086956521739133"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0CABDF543077908226D0876B" displayOrder="19" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="47" yLocal="-7.9513867036587951e-15" y="-7.9513867036587951e-15"/>
+      <pt constSeg="false" x="8" yLocal="0" y="0" rhx="18.086956521739133" rhy="-8.0756271209034607e-16" rx="26.086956521739133" ry="-8.0756271209034607e-16"/>
+     </points>
+    </column>
+    <column type="2" name="ATV-0C45DFBA30BC90F326D09521" anonymous="true" displayOrder="20">
+     <infoX width="100"/>
+     <infoY width="100"/>
+     <infoZ width="100"/>
+     <infoVelocity width="100"/>
+     <path3D useVeloX="true" useVeloY="true" useVeloZ="true" constantZ="false">
+      <points>
+       <pt val="0,0,0" lockedInTime="1"/>
+       <pt val="6.7377484246446482,5.1609222898608458,0" lockedInTime="22"/>
+      </points>
+     </path3D>
+     <velocity type="3" name="ATV-0C6FDF903033903226D09522" displayOrder="0" width="100" anonymous="true">
+      <step val="1" start="1" stop="1"/>
+      <points version="2">
+       <pt constSeg="false" x="1" yLocal="0" y="0" rhx="0.20289855072463783" rx="5.2608695652173942"/>
+       <pt constSeg="false" x="22" yLocal="1" y="1"/>
+      </points>
+     </velocity>
+    </column>
+    <column type="3" name="ATV-0C7ADF853012901D26D09523" displayOrder="21" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="0" y="0" rhx="4.2608695652173942" rx="5.2608695652173942"/>
+      <pt constSeg="false" x="22" yLocal="29.738795765931748" y="29.738795765931748"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0C12DFED307C900526D09524" displayOrder="22" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="22" yLocal="0.99999999999999944" y="0.99999999999999944"/>
+      <pt constSeg="false" x="1" yLocal="1" y="1" rhx="4.2608695652173942" rx="5.2608695652173942"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0C49DFB63081902026D09525" displayOrder="23" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="1" y="1" rhx="4.2608695652173942" rx="5.2608695652173942"/>
+      <pt constSeg="false" x="22" yLocal="1" y="1"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0C73DF8C30A0909526D09526" displayOrder="24" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="22" yLocal="-3.1805546814635168e-15" y="-3.1805546814635168e-15"/>
+      <pt constSeg="false" x="1" yLocal="0" y="0" rhx="4.2608695652173942" rx="5.2608695652173942"/>
+     </points>
+    </column>
+    <column type="2" name="ATV-0CF3DF0C301D904226D0CFCA" anonymous="true" displayOrder="25">
+     <infoX width="100"/>
+     <infoY width="100"/>
+     <infoZ width="100"/>
+     <infoVelocity width="100"/>
+     <path3D useVeloX="true" useVeloY="true" useVeloZ="true" constantZ="false">
+      <points>
+       <pt val="0,0,0" lockedInTime="2"/>
+       <pt val="10.79997407378189,10.177753345251238,0" lockedInTime="33"/>
+      </points>
+     </path3D>
+     <velocity type="3" name="ATV-0C84DF7B303690AF26D0CFCB" displayOrder="0" width="100" anonymous="true">
+      <step val="1" start="1" stop="1"/>
+      <points version="2">
+       <pt constSeg="false" x="2" yLocal="0" y="0" rhx="0.282608695652174" rhy="-0.0234375" rx="10.760869565217394" ry="-0.0234375"/>
+       <pt constSeg="false" x="33" yLocal="1" y="1"/>
+      </points>
+     </velocity>
+    </column>
+    <column type="3" name="ATV-0C08DFF7307F904426D0CFCC" displayOrder="26" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="2" yLocal="0" y="0" rhx="8.7608695652173942" rx="10.760869565217394"/>
+      <pt constSeg="false" x="33" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0C68DF9730D590CA26D0CFCD" displayOrder="27" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="2" yLocal="1" y="1" rhx="8.7608695652173942" rx="10.760869565217394"/>
+      <pt constSeg="false" x="33" yLocal="1" y="1"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0CDBDF2430E5909226D0CFCE" displayOrder="28" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="2" yLocal="1" y="1" rhx="8.7608695652173942" rx="10.760869565217394"/>
+      <pt constSeg="false" x="33" yLocal="1" y="1"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0CA9DF5630B9905026D0CFCF" displayOrder="29" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="2" yLocal="0" y="0" rhx="8.7608695652173942" rx="10.760869565217394"/>
+      <pt constSeg="false" x="33" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="2" name="ATV-0C27DFD8307F90A626D0D4C4" anonymous="true" displayOrder="30">
+     <infoX width="100"/>
+     <infoY width="100"/>
+     <infoZ width="100"/>
+     <infoVelocity width="100"/>
+     <path3D useVeloX="true" useVeloY="true" useVeloZ="true" constantZ="false">
+      <points>
+       <pt val="0,0,0" lockedInTime="4"/>
+       <pt val="19.080311339014443,9.8420371841982828,0" lockedInTime="35"/>
+      </points>
+     </path3D>
+     <velocity type="3" name="ATV-0C67DF9830D990E026D0D4C5" displayOrder="0" width="100" anonymous="true">
+      <step val="1" start="1" stop="1"/>
+      <points version="2">
+       <pt constSeg="false" x="4" yLocal="0" y="0" rhx="0.33333333333333343" rhy="-0.0078125" rx="14.333333333333336" ry="-0.0078125"/>
+       <pt constSeg="false" x="35" yLocal="1" y="1"/>
+      </points>
+     </velocity>
+    </column>
+    <column type="3" name="ATV-0CD9DF263052903926D0D4C6" displayOrder="31" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="4" yLocal="0" y="0" rhx="10.333333333333336" rx="14.333333333333336"/>
+      <pt constSeg="false" x="35" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0CC1DF3E30D190B426D0D4C7" displayOrder="32" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="4" yLocal="1" y="1" rhx="10.333333333333336" rx="14.333333333333336"/>
+      <pt constSeg="false" x="35" yLocal="1" y="1"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0C98DF6730EB902E26D0D4C8" displayOrder="33" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="4" yLocal="1" y="1" rhx="10.333333333333336" rx="14.333333333333336"/>
+      <pt constSeg="false" x="35" yLocal="1" y="1"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0CCADF35305C906926D0D4C9" displayOrder="34" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="4" yLocal="0" y="0" rhx="10.333333333333336" rx="14.333333333333336"/>
+      <pt constSeg="false" x="35" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="2" name="ATV-0C7EDF81303D901026D10854" anonymous="true" displayOrder="35">
+     <infoX width="100"/>
+     <infoY width="100"/>
+     <infoZ width="100"/>
+     <infoVelocity width="100"/>
+     <path3D useVeloX="true" useVeloY="true" useVeloZ="true" constantZ="false">
+      <points>
+       <pt val="0,0,0" lockedInTime="10"/>
+       <pt val="24.759940561744372,18.37261655569699,0" lockedInTime="45"/>
+      </points>
+     </path3D>
+     <velocity type="3" name="ATV-0C7FDF8030C9908026D10855" displayOrder="0" width="100" anonymous="true">
+      <step val="1" start="1" stop="1"/>
+      <points version="2">
+       <pt constSeg="false" x="10" yLocal="0" y="0" rhx="0.3115942028985505" rhy="0.0078124999999999853" rx="20.905797101449267" ry="0.0078124999999999853"/>
+       <pt constSeg="false" x="45" yLocal="1" y="1"/>
+      </points>
+     </velocity>
+    </column>
+    <column type="3" name="ATV-0CC2DF3D30F3903026D10856" displayOrder="36" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="45" yLocal="-45.687031720079261" y="-45.687031720079261"/>
+      <pt constSeg="false" x="10" yLocal="0" y="0" rhx="10.905797101449267" rhy="-0.35692993531311856" rx="20.905797101449267" ry="-0.35692993531311856"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0CDADF253026909926D10857" displayOrder="37" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="45" yLocal="0.99999999999999867" y="0.99999999999999867"/>
+      <pt constSeg="false" x="10" yLocal="1" y="1" rhx="10.905797101449267" rx="20.905797101449267"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0CCDDF32308B90DC26D10858" displayOrder="38" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="45" yLocal="0.99999999999999933" y="0.99999999999999933"/>
+      <pt constSeg="false" x="10" yLocal="1" y="1" rhx="10.905797101449267" rx="20.905797101449267"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0CD1DF2E30DC903B26D10859" displayOrder="39" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="45" yLocal="-4.1347210859025753e-14" y="-4.1347210859025753e-14"/>
+      <pt constSeg="false" x="10" yLocal="0" y="0" rhx="10.905797101449267" rhy="-3.230250848361381e-16" rx="20.905797101449267" ry="-3.230250848361381e-16"/>
+     </points>
+    </column>
+    <column type="2" name="ATV-0C6ADF95303390E826D13564" anonymous="true" displayOrder="40">
+     <infoX width="100"/>
+     <infoY width="100"/>
+     <infoZ width="100"/>
+     <infoVelocity width="100"/>
+     <path3D useVeloX="true" useVeloY="true" useVeloZ="true" constantZ="false">
+      <points>
+       <pt val="0,0,0" lockedInTime="13"/>
+       <pt val="36.211341643151208,30.91834019241848,0" lockedInTime="49"/>
+      </points>
+     </path3D>
+     <velocity type="3" name="ATV-0C3EDFC1304A908726D13565" displayOrder="0" width="100" anonymous="true">
+      <step val="1" start="1" stop="1"/>
+      <points version="2">
+       <pt constSeg="false" x="13" yLocal="0" y="0" rhx="0.21739130434782605" rhy="-0.03125" rx="20.826086956521738" ry="-0.03125"/>
+       <pt constSeg="false" x="49" yLocal="1" y="1"/>
+      </points>
+     </velocity>
+    </column>
+    <column type="3" name="ATV-0C30DFCF3022904F26D13566" displayOrder="41" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="13" yLocal="0" y="0" rhx="7.8260869565217384" rx="20.826086956521738"/>
+      <pt constSeg="false" x="49" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0C04DFFB3061905026D13567" displayOrder="42" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="13" yLocal="1" y="1" rhx="7.8260869565217384" rx="20.826086956521738"/>
+      <pt constSeg="false" x="49" yLocal="1" y="1"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0C83DF7C30C990F026D13568" displayOrder="43" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="13" yLocal="1" y="1" rhx="7.8260869565217384" rx="20.826086956521738"/>
+      <pt constSeg="false" x="49" yLocal="1" y="1"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0C7CDF8330E8903126D13569" displayOrder="44" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="13" yLocal="0" y="0" rhx="7.8260869565217384" rx="20.826086956521738"/>
+      <pt constSeg="false" x="49" yLocal="0" y="0"/>
+     </points>
+    </column>
+   </columns>
+   <options>
+    <defaultDisplay val="Display"/>
+   </options>
+   <rootgroup name="Top">
+    <options>
+     <collapsed val="false"/>
+    </options>
+    <nodeslist>
+     <module type="COMPOSITE" name="Composite" pos="-12,0,16" publishUnderTab="Composite">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <compositeMode val="compositeBitmap"/>
+       <flattenOutput val="true"/>
+       <flattenVector val="false"/>
+       <composite2d val="false"/>
+       <composite3d val="false"/>
+       <outputZ val="LEFTMOST"/>
+       <outputZInputPort val="1"/>
+       <applyFocus val="true"/>
+       <multiplier val="1" defaultValue="1"/>
+       <tvgPalette val="compositedPalette"/>
+       <mergeVector val="false"/>
+      </attrs>
+     </module>
+     <module type="DISPLAY" name="Display" pos="50,50,17" publishUnderTab="Display">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+     </module>
+     <module type="WRITE" name="Write" pos="-50,50,18" publishUnderTab="Write">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <exportToMovie val="false"/>
+       <drawingName val="frames/final-"/>
+       <moviePath val="frames/output"/>
+       <movieFormat val="com.toonboom.quicktime.legacy"/>
+       <movieAudio val=""/>
+       <movieVideo val=""/>
+       <movieVideoaudio val=""/>
+       <leadingZeros val="3"/>
+       <start val="1"/>
+       <drawingType val="TGA"/>
+       <enabling>
+        <filter val="ALWAYS"/>
+        <filterName val=""/>
+        <filterResX val="720"/>
+        <filterResY val="540"/>
+       </enabling>
+       <scriptMovie val="false"/>
+       <scriptEditor val="// Following code will be called at the end of Write Node rendering
+// operations to create a movie file from rendered images.
+
+// ..."/>
+       <colorSpace val=""/>
+       <compositePartitioning val="NoCompositePartitioning"/>
+       <zPartitionRange val="1" defaultValue="1"/>
+       <cleanUpPartitionFolders val="true"/>
+      </attrs>
+     </module>
+     <module type="READ" name="Bees" pos="-57,-50,19" publishUnderTab="Drawing">
+      <options>
+       <disabled val="true"/>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="Bees">
+         <layer val=""/>
+        </element>
+        <customName>
+         <name val=""/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <colorSpace val="sRGB"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="zoomIndependent"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+      </attrs>
+     </module>
+     <module type="READ" name="fon18_dark" pos="0,0,15" publishUnderTab="fon18_dark">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-0CA7DF5824A9599CA8F01F78">
+         <layer val=""/>
+        </element>
+        <customName>
+         <name val=""/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="BitmapDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <colorSpace val="sRGB"/>
+       <applyMatteToColor val="Y"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="zoomIndependent"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="ASIS"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+      </attrs>
+     </module>
+     <module type="PEG" name="bee1-P" pos="0,0,7" publishUnderTab="bee1-P">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <position>
+        <separate val="false"/>
+        <attr3dpath col="ATV-0C87DF7830F7906C26D05D90"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </position>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1" col="ATV-0C96DF6930DC90CB26D05D93"/>
+        <y val="1" defaultValue="1" col="ATV-0C3BDFC430A3900226D05D94"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0" col="ATV-0C19DFE6304C903D26D05D92"/>
+       </rotation>
+       <angle val="0" defaultValue="0" col="ATV-0C19DFE6304C903D26D05D92"/>
+       <skew val="0" defaultValue="0" col="ATV-0C2CDFD33081902826D05D95"/>
+       <pivot>
+        <x val="-6.7285552761260021" defaultValue="0"/>
+        <y val="-4.2432150390416403" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <groupAtNetworkBuilding val="false"/>
+       <addCompositeToGroup val="true"/>
+      </attrs>
+     </module>
+     <module type="READ" name="bee1" pos="0,0,14" publishUnderTab="bee1">
+      <options>
+       <collapsed val="false"/>
+       <frameMarker frame="0" length="0" type="2"/>
+       <frameMarker frame="2" length="0" type="2"/>
+       <frameMarker frame="4" length="0" type="2"/>
+       <frameMarker frame="6" length="0" type="2"/>
+       <frameMarker frame="8" length="0" type="2"/>
+       <frameMarker frame="10" length="0" type="2"/>
+       <frameMarker frame="12" length="0" type="2"/>
+       <frameMarker frame="14" length="0" type="2"/>
+       <frameMarker frame="16" length="0" type="2"/>
+       <frameMarker frame="18" length="0" type="2"/>
+       <frameMarker frame="20" length="0" type="2"/>
+       <frameMarker frame="22" length="0" type="2"/>
+       <frameMarker frame="24" length="0" type="2"/>
+       <frameMarker frame="26" length="0" type="2"/>
+       <frameMarker frame="28" length="0" type="2"/>
+       <frameMarker frame="30" length="0" type="2"/>
+       <frameMarker frame="32" length="0" type="2"/>
+       <frameMarker frame="34" length="0" type="2"/>
+       <frameMarker frame="36" length="0" type="2"/>
+       <frameMarker frame="38" length="0" type="2"/>
+       <frameMarker frame="40" length="0" type="2"/>
+       <frameMarker frame="42" length="0" type="2"/>
+       <frameMarker frame="44" length="0" type="2"/>
+       <frameMarker frame="46" length="0" type="2"/>
+       <frameMarker frame="48" length="0" type="2"/>
+       <frameMarker frame="50" length="0" type="2"/>
+       <frameMarker frame="52" length="0" type="2"/>
+       <frameMarker frame="54" length="0" type="2"/>
+       <frameMarker frame="56" length="0" type="2"/>
+       <frameMarker frame="58" length="0" type="2"/>
+       <frameMarker frame="60" length="0" type="2"/>
+       <frameMarker frame="62" length="0" type="2"/>
+       <frameMarker frame="64" length="0" type="2"/>
+       <frameMarker frame="66" length="0" type="2"/>
+       <frameMarker frame="68" length="0" type="2"/>
+       <frameMarker frame="70" length="0" type="2"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="-6.7456980921161449" defaultValue="0"/>
+        <y val="-4.1064946465293648" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-0C3DDFC22444597BA8F0717A">
+         <layer val=""/>
+        </element>
+        <customName>
+         <name val=""/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <colorSpace val="sRGB"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="zoomIndependent"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+      </attrs>
+     </module>
+     <module type="PEG" name="bee2-P" pos="0,0,6" publishUnderTab="bee2-P">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <position>
+        <separate val="false"/>
+        <attr3dpath col="ATV-0C39DFC630F490D126D08766"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </position>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1" col="ATV-0C9DDF62300C90A326D08769"/>
+        <y val="1" defaultValue="1" col="ATV-0C47DFB830A9903C26D0876A"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0" col="ATV-0C41DFBE30D990C426D08768"/>
+       </rotation>
+       <angle val="0" defaultValue="0" col="ATV-0C41DFBE30D990C426D08768"/>
+       <skew val="0" defaultValue="0" col="ATV-0CABDF543077908226D0876B"/>
+       <pivot>
+        <x val="3.5872460654351683" defaultValue="0"/>
+        <y val="-5.0994621695197297" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="-0.51543307272214234" defaultValue="0"/>
+        <y val="-0.75064208009297395" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <groupAtNetworkBuilding val="false"/>
+       <addCompositeToGroup val="true"/>
+      </attrs>
+     </module>
+     <module type="READ" name="bee2" pos="0,0,13" publishUnderTab="bee2">
+      <options>
+       <collapsed val="false"/>
+       <frameMarker frame="4" length="0" type="2"/>
+       <frameMarker frame="6" length="0" type="2"/>
+       <frameMarker frame="8" length="0" type="2"/>
+       <frameMarker frame="10" length="0" type="2"/>
+       <frameMarker frame="12" length="0" type="2"/>
+       <frameMarker frame="14" length="0" type="2"/>
+       <frameMarker frame="16" length="0" type="2"/>
+       <frameMarker frame="18" length="0" type="2"/>
+       <frameMarker frame="20" length="0" type="2"/>
+       <frameMarker frame="22" length="0" type="2"/>
+       <frameMarker frame="24" length="0" type="2"/>
+       <frameMarker frame="26" length="0" type="2"/>
+       <frameMarker frame="28" length="0" type="2"/>
+       <frameMarker frame="30" length="0" type="2"/>
+       <frameMarker frame="32" length="0" type="2"/>
+       <frameMarker frame="34" length="0" type="2"/>
+       <frameMarker frame="36" length="0" type="2"/>
+       <frameMarker frame="38" length="0" type="2"/>
+       <frameMarker frame="40" length="0" type="2"/>
+       <frameMarker frame="42" length="0" type="2"/>
+       <frameMarker frame="44" length="0" type="2"/>
+       <frameMarker frame="46" length="0" type="2"/>
+       <frameMarker frame="48" length="0" type="2"/>
+       <frameMarker frame="50" length="0" type="2"/>
+       <frameMarker frame="52" length="0" type="2"/>
+       <frameMarker frame="54" length="0" type="2"/>
+       <frameMarker frame="56" length="0" type="2"/>
+       <frameMarker frame="58" length="0" type="2"/>
+       <frameMarker frame="60" length="0" type="2"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-0C74DF8B24B25907A8F11D3A">
+         <layer val=""/>
+        </element>
+        <customName>
+         <name val=""/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <colorSpace val="sRGB"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="zoomIndependent"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+      </attrs>
+     </module>
+     <module type="PEG" name="bee3-P" pos="0,0,5" publishUnderTab="bee3-P">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <position>
+        <separate val="false"/>
+        <attr3dpath col="ATV-0C45DFBA30BC90F326D09521"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </position>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1" col="ATV-0C12DFED307C900526D09524"/>
+        <y val="1" defaultValue="1" col="ATV-0C49DFB63081902026D09525"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0" col="ATV-0C7ADF853012901D26D09523"/>
+       </rotation>
+       <angle val="0" defaultValue="0" col="ATV-0C7ADF853012901D26D09523"/>
+       <skew val="0" defaultValue="0" col="ATV-0C73DF8C30A0909526D09526"/>
+       <pivot>
+        <x val="12.698382214911078" defaultValue="0"/>
+        <y val="-2.3985833072609846" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <groupAtNetworkBuilding val="false"/>
+       <addCompositeToGroup val="true"/>
+      </attrs>
+     </module>
+     <module type="READ" name="bee3" pos="0,0,12" publishUnderTab="bee3">
+      <options>
+       <collapsed val="false"/>
+       <frameMarker frame="0" length="0" type="2"/>
+       <frameMarker frame="2" length="0" type="2"/>
+       <frameMarker frame="4" length="0" type="2"/>
+       <frameMarker frame="6" length="0" type="2"/>
+       <frameMarker frame="8" length="0" type="2"/>
+       <frameMarker frame="10" length="0" type="2"/>
+       <frameMarker frame="12" length="0" type="2"/>
+       <frameMarker frame="14" length="0" type="2"/>
+       <frameMarker frame="16" length="0" type="2"/>
+       <frameMarker frame="18" length="0" type="2"/>
+       <frameMarker frame="20" length="0" type="2"/>
+       <frameMarker frame="22" length="0" type="2"/>
+       <frameMarker frame="24" length="0" type="2"/>
+       <frameMarker frame="26" length="0" type="2"/>
+       <frameMarker frame="28" length="0" type="2"/>
+       <frameMarker frame="30" length="0" type="2"/>
+       <frameMarker frame="32" length="0" type="2"/>
+       <frameMarker frame="34" length="0" type="2"/>
+       <frameMarker frame="36" length="0" type="2"/>
+       <frameMarker frame="38" length="0" type="2"/>
+       <frameMarker frame="40" length="0" type="2"/>
+       <frameMarker frame="42" length="0" type="2"/>
+       <frameMarker frame="44" length="0" type="2"/>
+       <frameMarker frame="46" length="0" type="2"/>
+       <frameMarker frame="48" length="0" type="2"/>
+       <frameMarker frame="50" length="0" type="2"/>
+       <frameMarker frame="52" length="0" type="2"/>
+       <frameMarker frame="54" length="0" type="2"/>
+       <frameMarker frame="56" length="0" type="2"/>
+       <frameMarker frame="58" length="0" type="2"/>
+       <frameMarker frame="60" length="0" type="2"/>
+       <frameMarker frame="62" length="0" type="2"/>
+       <frameMarker frame="64" length="0" type="2"/>
+       <frameMarker frame="66" length="0" type="2"/>
+       <frameMarker frame="68" length="0" type="2"/>
+       <frameMarker frame="70" length="0" type="2"/>
+       <frameMarker frame="72" length="0" type="2"/>
+       <frameMarker frame="74" length="0" type="2"/>
+       <frameMarker frame="76" length="0" type="2"/>
+       <frameMarker frame="78" length="0" type="2"/>
+       <frameMarker frame="80" length="0" type="2"/>
+       <frameMarker frame="82" length="0" type="2"/>
+       <frameMarker frame="84" length="0" type="2"/>
+       <frameMarker frame="86" length="0" type="2"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-0C31DFCE2448598BA8F2FCA5">
+         <layer val=""/>
+        </element>
+        <customName>
+         <name val=""/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <colorSpace val="sRGB"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="zoomIndependent"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+      </attrs>
+     </module>
+     <module type="PEG" name="bee4-P" pos="0,0,4" publishUnderTab="bee4-P">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <position>
+        <separate val="false"/>
+        <attr3dpath col="ATV-0CF3DF0C301D904226D0CFCA"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </position>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1" col="ATV-0C68DF9730D590CA26D0CFCD"/>
+        <y val="1" defaultValue="1" col="ATV-0CDBDF2430E5909226D0CFCE"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0" col="ATV-0C08DFF7307F904426D0CFCC"/>
+       </rotation>
+       <angle val="0" defaultValue="0" col="ATV-0C08DFF7307F904426D0CFCC"/>
+       <skew val="0" defaultValue="0" col="ATV-0CA9DF5630B9905026D0CFCF"/>
+       <pivot>
+        <x val="8.3342657072015172" defaultValue="0"/>
+        <y val="-7.062259322747094" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <groupAtNetworkBuilding val="false"/>
+       <addCompositeToGroup val="true"/>
+      </attrs>
+     </module>
+     <module type="READ" name="bee4" pos="0,0,11" publishUnderTab="bee4">
+      <options>
+       <collapsed val="false"/>
+       <frameMarker frame="0" length="0" type="2"/>
+       <frameMarker frame="2" length="0" type="2"/>
+       <frameMarker frame="4" length="0" type="2"/>
+       <frameMarker frame="6" length="0" type="2"/>
+       <frameMarker frame="8" length="0" type="2"/>
+       <frameMarker frame="10" length="0" type="2"/>
+       <frameMarker frame="12" length="0" type="2"/>
+       <frameMarker frame="14" length="0" type="2"/>
+       <frameMarker frame="16" length="0" type="2"/>
+       <frameMarker frame="18" length="0" type="2"/>
+       <frameMarker frame="20" length="0" type="2"/>
+       <frameMarker frame="22" length="0" type="2"/>
+       <frameMarker frame="24" length="0" type="2"/>
+       <frameMarker frame="26" length="0" type="2"/>
+       <frameMarker frame="28" length="0" type="2"/>
+       <frameMarker frame="30" length="0" type="2"/>
+       <frameMarker frame="32" length="0" type="2"/>
+       <frameMarker frame="34" length="0" type="2"/>
+       <frameMarker frame="36" length="0" type="2"/>
+       <frameMarker frame="38" length="0" type="2"/>
+       <frameMarker frame="40" length="0" type="2"/>
+       <frameMarker frame="42" length="0" type="2"/>
+       <frameMarker frame="44" length="0" type="2"/>
+       <frameMarker frame="46" length="0" type="2"/>
+       <frameMarker frame="48" length="0" type="2"/>
+       <frameMarker frame="50" length="0" type="2"/>
+       <frameMarker frame="52" length="0" type="2"/>
+       <frameMarker frame="54" length="0" type="2"/>
+       <frameMarker frame="56" length="0" type="2"/>
+       <frameMarker frame="58" length="0" type="2"/>
+       <frameMarker frame="60" length="0" type="2"/>
+       <frameMarker frame="62" length="0" type="2"/>
+       <frameMarker frame="64" length="0" type="2"/>
+       <frameMarker frame="66" length="0" type="2"/>
+       <frameMarker frame="68" length="0" type="2"/>
+       <frameMarker frame="70" length="0" type="2"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-0C3BDFC424395904A8F35CB3">
+         <layer val=""/>
+        </element>
+        <customName>
+         <name val=""/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <colorSpace val="sRGB"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="zoomIndependent"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+      </attrs>
+     </module>
+     <module type="PEG" name="bee5-P" pos="0,0,3" publishUnderTab="bee5-P">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <position>
+        <separate val="false"/>
+        <attr3dpath col="ATV-0C27DFD8307F90A626D0D4C4"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </position>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1" col="ATV-0CC1DF3E30D190B426D0D4C7"/>
+        <y val="1" defaultValue="1" col="ATV-0C98DF6730EB902E26D0D4C8"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0" col="ATV-0CD9DF263052903926D0D4C6"/>
+       </rotation>
+       <angle val="0" defaultValue="0" col="ATV-0CD9DF263052903926D0D4C6"/>
+       <skew val="0" defaultValue="0" col="ATV-0CCADF35305C906926D0D4C9"/>
+       <pivot>
+        <x val="-1.7991028239641462" defaultValue="0"/>
+        <y val="-2.1311698088780728" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <groupAtNetworkBuilding val="false"/>
+       <addCompositeToGroup val="true"/>
+      </attrs>
+     </module>
+     <module type="READ" name="bee5" pos="0,0,10" publishUnderTab="bee5">
+      <options>
+       <collapsed val="false"/>
+       <frameMarker frame="60" length="0" type="2"/>
+       <frameMarker frame="62" length="0" type="2"/>
+       <frameMarker frame="64" length="0" type="2"/>
+       <frameMarker frame="66" length="0" type="2"/>
+       <frameMarker frame="68" length="0" type="2"/>
+       <frameMarker frame="70" length="0" type="2"/>
+       <frameMarker frame="7" length="0" type="2"/>
+       <frameMarker frame="9" length="0" type="2"/>
+       <frameMarker frame="11" length="0" type="2"/>
+       <frameMarker frame="13" length="0" type="2"/>
+       <frameMarker frame="5" length="0" type="2"/>
+       <frameMarker frame="3" length="0" type="2"/>
+       <frameMarker frame="1" length="0" type="2"/>
+       <frameMarker frame="15" length="0" type="2"/>
+       <frameMarker frame="17" length="0" type="2"/>
+       <frameMarker frame="19" length="0" type="2"/>
+       <frameMarker frame="21" length="0" type="2"/>
+       <frameMarker frame="23" length="0" type="2"/>
+       <frameMarker frame="25" length="0" type="2"/>
+       <frameMarker frame="27" length="0" type="2"/>
+       <frameMarker frame="29" length="0" type="2"/>
+       <frameMarker frame="31" length="0" type="2"/>
+       <frameMarker frame="33" length="0" type="2"/>
+       <frameMarker frame="35" length="0" type="2"/>
+       <frameMarker frame="37" length="0" type="2"/>
+       <frameMarker frame="39" length="0" type="2"/>
+       <frameMarker frame="41" length="0" type="2"/>
+       <frameMarker frame="43" length="0" type="2"/>
+       <frameMarker frame="45" length="0" type="2"/>
+       <frameMarker frame="47" length="0" type="2"/>
+       <frameMarker frame="49" length="0" type="2"/>
+       <frameMarker frame="51" length="0" type="2"/>
+       <frameMarker frame="53" length="0" type="2"/>
+       <frameMarker frame="55" length="0" type="2"/>
+       <frameMarker frame="57" length="0" type="2"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="-1.727674424005303" defaultValue="0"/>
+        <y val="-2.4210902840715152" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-0CE0DF1F243E5953A8F4139B">
+         <layer val=""/>
+        </element>
+        <customName>
+         <name val=""/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <colorSpace val="sRGB"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="zoomIndependent"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+      </attrs>
+     </module>
+     <module type="PEG" name="bee6-P" pos="0,0,2" publishUnderTab="bee6-P">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <position>
+        <separate val="false"/>
+        <attr3dpath col="ATV-0C7EDF81303D901026D10854"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </position>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1" col="ATV-0CDADF253026909926D10857"/>
+        <y val="1" defaultValue="1" col="ATV-0CCDDF32308B90DC26D10858"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0" col="ATV-0CC2DF3D30F3903026D10856"/>
+       </rotation>
+       <angle val="0" defaultValue="0" col="ATV-0CC2DF3D30F3903026D10856"/>
+       <skew val="0" defaultValue="0" col="ATV-0CD1DF2E30DC903B26D10859"/>
+       <pivot>
+        <x val="-4.7714171172528363" defaultValue="0"/>
+        <y val="-8.2585627572294893" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <groupAtNetworkBuilding val="false"/>
+       <addCompositeToGroup val="true"/>
+      </attrs>
+     </module>
+     <module type="READ" name="bee6" pos="0,0,9" publishUnderTab="bee6">
+      <options>
+       <collapsed val="false"/>
+       <frameMarker frame="0" length="0" type="2"/>
+       <frameMarker frame="2" length="0" type="2"/>
+       <frameMarker frame="4" length="0" type="2"/>
+       <frameMarker frame="6" length="0" type="2"/>
+       <frameMarker frame="8" length="0" type="2"/>
+       <frameMarker frame="10" length="0" type="2"/>
+       <frameMarker frame="12" length="0" type="2"/>
+       <frameMarker frame="14" length="0" type="2"/>
+       <frameMarker frame="16" length="0" type="2"/>
+       <frameMarker frame="18" length="0" type="2"/>
+       <frameMarker frame="20" length="0" type="2"/>
+       <frameMarker frame="22" length="0" type="2"/>
+       <frameMarker frame="24" length="0" type="2"/>
+       <frameMarker frame="26" length="0" type="2"/>
+       <frameMarker frame="28" length="0" type="2"/>
+       <frameMarker frame="30" length="0" type="2"/>
+       <frameMarker frame="32" length="0" type="2"/>
+       <frameMarker frame="34" length="0" type="2"/>
+       <frameMarker frame="36" length="0" type="2"/>
+       <frameMarker frame="38" length="0" type="2"/>
+       <frameMarker frame="40" length="0" type="2"/>
+       <frameMarker frame="42" length="0" type="2"/>
+       <frameMarker frame="44" length="0" type="2"/>
+       <frameMarker frame="46" length="0" type="2"/>
+       <frameMarker frame="48" length="0" type="2"/>
+       <frameMarker frame="50" length="0" type="2"/>
+       <frameMarker frame="52" length="0" type="2"/>
+       <frameMarker frame="54" length="0" type="2"/>
+       <frameMarker frame="56" length="0" type="2"/>
+       <frameMarker frame="58" length="0" type="2"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-0CC1DF3E241859FFA8F4AD11">
+         <layer val=""/>
+        </element>
+        <customName>
+         <name val=""/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <colorSpace val="sRGB"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="zoomIndependent"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+      </attrs>
+     </module>
+     <module type="PEG" name="bee7-P" pos="0,0,1" publishUnderTab="bee7-P">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <position>
+        <separate val="false"/>
+        <attr3dpath col="ATV-0C6ADF95303390E826D13564"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </position>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1" col="ATV-0C04DFFB3061905026D13567"/>
+        <y val="1" defaultValue="1" col="ATV-0C83DF7C30C990F026D13568"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0" col="ATV-0C30DFCF3022904F26D13566"/>
+       </rotation>
+       <angle val="0" defaultValue="0" col="ATV-0C30DFCF3022904F26D13566"/>
+       <skew val="0" defaultValue="0" col="ATV-0C7CDF8330E8903126D13569"/>
+       <pivot>
+        <x val="-15.514248471067612" defaultValue="0"/>
+        <y val="-15.097837630283943" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <groupAtNetworkBuilding val="false"/>
+       <addCompositeToGroup val="true"/>
+      </attrs>
+     </module>
+     <module type="READ" name="bee7" pos="0,0,8" publishUnderTab="bee7">
+      <options>
+       <collapsed val="false"/>
+       <frameMarker frame="0" length="0" type="2"/>
+       <frameMarker frame="2" length="0" type="2"/>
+       <frameMarker frame="4" length="0" type="2"/>
+       <frameMarker frame="6" length="0" type="2"/>
+       <frameMarker frame="8" length="0" type="2"/>
+       <frameMarker frame="10" length="0" type="2"/>
+       <frameMarker frame="12" length="0" type="2"/>
+       <frameMarker frame="14" length="0" type="2"/>
+       <frameMarker frame="16" length="0" type="2"/>
+       <frameMarker frame="18" length="0" type="2"/>
+       <frameMarker frame="20" length="0" type="2"/>
+       <frameMarker frame="22" length="0" type="2"/>
+       <frameMarker frame="24" length="0" type="2"/>
+       <frameMarker frame="26" length="0" type="2"/>
+       <frameMarker frame="28" length="0" type="2"/>
+       <frameMarker frame="30" length="0" type="2"/>
+       <frameMarker frame="32" length="0" type="2"/>
+       <frameMarker frame="34" length="0" type="2"/>
+       <frameMarker frame="36" length="0" type="2"/>
+       <frameMarker frame="38" length="0" type="2"/>
+       <frameMarker frame="40" length="0" type="2"/>
+       <frameMarker frame="42" length="0" type="2"/>
+       <frameMarker frame="44" length="0" type="2"/>
+       <frameMarker frame="46" length="0" type="2"/>
+       <frameMarker frame="48" length="0" type="2"/>
+       <frameMarker frame="50" length="0" type="2"/>
+       <frameMarker frame="52" length="0" type="2"/>
+       <frameMarker frame="54" length="0" type="2"/>
+       <frameMarker frame="56" length="0" type="2"/>
+       <frameMarker frame="58" length="0" type="2"/>
+       <frameMarker frame="60" length="0" type="2"/>
+       <frameMarker frame="62" length="0" type="2"/>
+       <frameMarker frame="64" length="0" type="2"/>
+       <frameMarker frame="66" length="0" type="2"/>
+       <frameMarker frame="68" length="0" type="2"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-0C29DFD624D859EBA8F55D38">
+         <layer val=""/>
+        </element>
+        <customName>
+         <name val=""/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <colorSpace val="sRGB"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="zoomIndependent"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+      </attrs>
+     </module>
+    </nodeslist>
+    <linkedlist>
+     <link out="Composite" in="Display"/>
+     <link out="Composite" in="Write"/>
+     <link out="Bees" in="Composite" inport="1"/>
+     <link out="fon18_dark" in="Composite" inport="0"/>
+     <link out="bee1-P" in="bee1" inport="0"/>
+     <link out="bee1" in="Composite" inport="2"/>
+     <link out="bee2-P" in="bee2" inport="0"/>
+     <link out="bee2" in="Composite" inport="3"/>
+     <link out="bee3-P" in="bee3" inport="0"/>
+     <link out="bee3" in="Composite" inport="4"/>
+     <link out="bee4-P" in="bee4" inport="0"/>
+     <link out="bee4" in="Composite" inport="5"/>
+     <link out="bee5-P" in="bee5" inport="0"/>
+     <link out="bee5" in="Composite" inport="6"/>
+     <link out="bee6-P" in="bee6" inport="0"/>
+     <link out="bee6" in="Composite" inport="7"/>
+     <link out="bee7-P" in="bee7" inport="0"/>
+     <link out="bee7" in="Composite" inport="8"/>
+    </linkedlist>
+   </rootgroup>
+   <unconnectedComposite>
+    <module type="COMPOSITE" name="Unconnected_Composite" pos="0,0,0" publishUnderTab="Unconnected_Composite">
+     <options>
+      <collapsed val="false"/>
+      <version val="1"/>
+     </options>
+     <attrs>
+      <compositeMode val="compositeBitmap"/>
+      <flattenOutput val="true"/>
+      <flattenVector val="false"/>
+      <composite2d val="false"/>
+      <composite3d val="false"/>
+      <outputZ val="LEFTMOST"/>
+      <outputZInputPort val="1"/>
+      <applyFocus val="true"/>
+      <multiplier val="1" defaultValue="1"/>
+      <tvgPalette val="compositedPalette"/>
+      <mergeVector val="false"/>
+     </attrs>
+    </module>
+   </unconnectedComposite>
+   <metas>
+    <meta type="guideList" name="guideList" creator="Harmony Premium" version="1.0">
+     <guideList selectedGuide="-1"/>
+    </meta>
+    <meta type="symmetryGuideList" name="symmetryGuideList" creator="Harmony Premium" version="1.0">
+     <symmetryGuideList selectedGuide="-1"/>
+    </meta>
+    <meta type="alignmentGuideList" name="alignmentGuideList" creator="Harmony Premium" version="1.0">
+     <alignmentGuideList selectedGuide="-1"/>
+    </meta>
+   </metas>
+   <timelineOrderer/>
+  </scene>
+ </scenes>
+ <symbols>
+  <folder name="Symbols">
+   <scene id="0cdf2459a8f01704"/>
+  </folder>
+ </symbols>
+ <timeline>
+  <scene id="0cdf2459a8f01704"/>
+ </timeline>
+ <metas>
+  <meta type="checksumValidation" name="checksumValidation" creator="Harmony Premium" version="1.0">
+   <value data="D600000000000000030323CD705D949581A46BC16DF1529192DFCC0B3D21DF986D82820E9DA64DD6A7F1D142F38F6EB88679FDBFFAFC9094183EC64567F14DF67EBC46DE94698396595C9F3C885911213C585CCE0722782CED1EE9A399872688DB76012114EF6695997761C1D34EC4189F10D6551A2F44B16166830CEE301A4D61EC20E3308FA3E69B7533A6A01E421765FD42F0CEC6B3688A2FF5AA1446BA6A3B45F2B5AFDA65F5E4BFCF982FF4413A3EC7EAB6A01663F819C85CF74C80A3C70FA849982B953BE2208034CC5D3F9420C280E52DB6E87BED3B7DEADAEC9C6F0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426E7A4343415169674177494241674943424E49774451594A4B6F5A496876634E4151454642514177506A454C4D416B474131554542684D43513045780A447A414E42674E5642416754426C46315A574A6C597A45654D4277474131554541784D5662476C6A5A57357A5A58497564473976626D4A7662323075593239740A4D423458445445314D4467794E4445354D6A517A4E566F58445449314D4467794D6A45354D6A517A4E566F774D44454C4D416B474131554542684D43513045780A4954416642674E5642414D5447474E695A4755744D54646B4D43316B4E3245354C5451794D474D74595463344E5442634D4130474353714753496233445145420A41515541413073414D45674351514464524A686E46324F6853376C594A4A4B4A307A3352704B634639795166715572395A4F5A784363425341547252466163530A656C7A3730506B74656A5875635374547168316E6D3858336A6C6B43516D6D575843595641674D42414145774451594A4B6F5A496876634E41514546425141440A675945414651784235596F307A777679535A4B4677354E6D4B75662B71433075684D6D6D633936734A58386142726D7373757872442F73655A516D7A625532540A6C6C4844417530386C5673686C496D41413063315457356B7964506378546D76524C356D7767377935795341562F4D2F2F686F792F433542412F654665486F510A6264526A463951555636656C4D6270334A75327732726C6C4B4673474A4774387A707A567158356B517844513471303D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A4000000089D115E0C3F2C68C3CBA70B97C9B50258A47C7CE1DF5F819181708FE066905CC95371CEE23E58E358121B7372A93284BFA9C8EFF007813576E4AE53B27FF8044"/>
+  </meta>
+ </metas>
+</project>
