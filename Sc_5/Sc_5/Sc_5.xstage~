@@ -217,7 +217,7 @@
     <column type="0" name="ATV-0CD0D72FAC5765C297802561" displayOrder="9" width="100" anonymous="true" id="5">
      <elementSeq exposures="1-60" val="1" id="5"/>
     </column>
-    <column type="1" name="45_bee" displayOrder="6" width="100" anonymous="false" disabled="true" videoSync="true" soundLocked="false">
+    <column type="1" name="45_bee" displayOrder="6" width="100" anonymous="false" disabled="false" videoSync="true" soundLocked="false">
      <soundSequence startFrame="1" stopFrame="5" name="45_bee.wav" id="0cd7ac6597812eb8" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="0" clippingTimeStop="19.85478401184082">
       <lipSync showSoundForm="0"/>
      </soundSequence>

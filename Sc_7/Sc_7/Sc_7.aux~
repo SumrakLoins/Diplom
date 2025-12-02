@@ -1,24 +1,93 @@
 <!DOCTYPE SceneVersion>
-<SceneVersion VersionName="Sc_7" ID="1" Modified="2025-11-06 01:11:56">
- <Element Folder="Drawing" Name="Drawing" ID="1">
-  <Drawing Name="1" Version="1" Key=""/>
-  <Drawing Name="2" Version="1" Key=""/>
+<SceneVersion ID="1" Modified="2025-12-03 02:50:30" VersionName="Sc_7">
+ <Element ID="1" Folder="Drawing" Name="Drawing">
+  <Drawing Key="" Version="1" Name="1"/>
+  <Drawing Key="" Version="1" Name="2"/>
  </Element>
- <Element Folder="Fon6" Name="Fon6" ID="2">
-  <Drawing Name="1" Version="1" Key=""/>
+ <Element ID="2" Folder="Fon6" Name="Fon6">
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
- <Element Folder="45S" Name="45S" ID="3">
-  <Drawing Name="1" Version="1" Key=""/>
-  <Drawing Name="2" Version="1" Key=""/>
-  <Drawing Name="3" Version="1" Key=""/>
-  <Drawing Name="4" Version="1" Key=""/>
-  <Drawing Name="5" Version="1" Key=""/>
-  <Drawing Name="6" Version="1" Key=""/>
+ <Element ID="3" Folder="45S" Name="45S">
+  <Drawing Key="" Version="1" Name="1"/>
+  <Drawing Key="" Version="1" Name="2"/>
+  <Drawing Key="" Version="1" Name="3"/>
+  <Drawing Key="" Version="1" Name="4"/>
+  <Drawing Key="" Version="1" Name="5"/>
+  <Drawing Key="" Version="1" Name="6"/>
  </Element>
- <Element Folder="characters" Name="characters" ID="4">
-  <Drawing Name="1" Version="1" Key=""/>
+ <Element ID="4" Folder="characters" Name="characters">
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
- <Element Folder="tolpa" Name="tolpa" ID="5">
-  <Drawing Name="1" Version="1" Key=""/>
+ <Element ID="5" Folder="tolpa" Name="tolpa">
+  <Drawing Key="" Version="1" Name="1"/>
+ </Element>
+ <Element ID="6" Folder="tolpa1" Name="tolpa1">
+  <Drawing Key="" Version="1" Name="1"/>
+  <Drawing Key="" Version="1" Name="2"/>
+  <Drawing Key="" Version="1" Name="3"/>
+ </Element>
+ <Element ID="7" Folder="dialog" Name="dialog">
+  <Drawing Key="" Version="1" Name="1"/>
+  <Drawing Key="" Version="1" Name="2"/>
+  <Drawing Key="" Version="1" Name="3"/>
+  <Drawing Key="" Version="1" Name="4"/>
+  <Drawing Key="" Version="1" Name="5"/>
+  <Drawing Key="" Version="1" Name="6"/>
+  <Drawing Key="" Version="1" Name="7"/>
+  <Drawing Key="" Version="1" Name="8"/>
+  <Drawing Key="" Version="1" Name="9"/>
+  <Drawing Key="" Version="1" Name="10"/>
+  <Drawing Key="" Version="1" Name="11"/>
+  <Drawing Key="" Version="1" Name="12"/>
+  <Drawing Key="" Version="1" Name="13"/>
+  <Drawing Key="" Version="1" Name="14"/>
+  <Drawing Key="" Version="1" Name="15"/>
+  <Drawing Key="" Version="1" Name="16"/>
+  <Drawing Key="" Version="1" Name="17"/>
+  <Drawing Key="" Version="1" Name="18"/>
+  <Drawing Key="" Version="1" Name="19"/>
+  <Drawing Key="" Version="1" Name="20"/>
+  <Drawing Key="" Version="1" Name="21"/>
+  <Drawing Key="" Version="1" Name="22"/>
+  <Drawing Key="" Version="1" Name="23"/>
+  <Drawing Key="" Version="1" Name="24"/>
+  <Drawing Key="" Version="1" Name="25"/>
+  <Drawing Key="" Version="1" Name="26"/>
+  <Drawing Key="" Version="1" Name="27"/>
+  <Drawing Key="" Version="1" Name="28"/>
+  <Drawing Key="" Version="1" Name="29"/>
+  <Drawing Key="" Version="1" Name="30"/>
+  <Drawing Key="" Version="1" Name="31"/>
+ </Element>
+ <Element ID="8" Folder="dialog1" Name="dialog1">
+  <Drawing Key="" Version="1" Name="1"/>
+  <Drawing Key="" Version="1" Name="2"/>
+  <Drawing Key="" Version="1" Name="3"/>
+  <Drawing Key="" Version="1" Name="4"/>
+ </Element>
+ <Element ID="9" Folder="ruki" Name="ruki">
+  <Drawing Key="" Version="1" Name="1"/>
+  <Drawing Key="" Version="1" Name="2"/>
+  <Drawing Key="" Version="1" Name="3"/>
+ </Element>
+ <Element ID="10" Folder="tolpa2" Name="tolpa2">
+  <Drawing Key="" Version="1" Name="1"/>
+  <Drawing Key="" Version="1" Name="2"/>
+ </Element>
+ <Element ID="11" Folder="pchela" Name="pchela">
+  <Drawing Key="" Version="1" Name="1"/>
+  <Drawing Key="" Version="1" Name="2"/>
+ </Element>
+ <Element ID="12" Folder="pol" Name="pol">
+  <Drawing Key="" Version="1" Name="1"/>
+  <Drawing Key="" Version="1" Name="2"/>
+  <Drawing Key="" Version="1" Name="3"/>
+ </Element>
+ <Element ID="13" Folder="gruz" Name="gruz">
+  <Drawing Key="" Version="1" Name="1"/>
+  <Drawing Key="" Version="1" Name="2"/>
+ </Element>
+ <Element ID="14" Folder="ver" Name="ver">
+  <Drawing Key="" Version="1" Name="1"/>
  </Element>
 </SceneVersion>
