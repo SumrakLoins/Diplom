@@ -1,0 +1,33 @@
+<!DOCTYPE SceneVersion>
+<SceneVersion VersionName="Sc_24" ID="1" Modified="2025-12-03 23:45:01">
+ <Element Folder="23S" Name="23S" ID="1">
+  <Drawing Name="1" Key="" Version="1"/>
+  <Drawing Name="2" Key="" Version="1"/>
+  <Drawing Name="3" Key="" Version="1"/>
+  <Drawing Name="4" Key="" Version="1"/>
+  <Drawing Name="5" Key="" Version="1"/>
+  <Drawing Name="6" Key="" Version="1"/>
+  <Drawing Name="7" Key="" Version="1"/>
+  <Drawing Name="8" Key="" Version="1"/>
+  <Drawing Name="9" Key="" Version="1"/>
+ </Element>
+ <Element Folder="fon24_2" Name="fon24_2" ID="2">
+  <Drawing Name="1" Key="" Version="1"/>
+ </Element>
+ <Element Folder="fon24_1" Name="fon24_1" ID="3">
+  <Drawing Name="1" Key="" Version="1"/>
+ </Element>
+ <Element Folder="Drawing.4" Name="Drawing" ID="4">
+  <Drawing Name="1" Key="" Version="1"/>
+  <Drawing Name="2" Key="" Version="1"/>
+ </Element>
+ <Element Folder="23L" Name="23L" ID="5">
+  <Drawing Name="1" Key="" Version="1"/>
+  <Drawing Name="2" Key="" Version="1"/>
+  <Drawing Name="3" Key="" Version="1"/>
+  <Drawing Name="4" Key="" Version="1"/>
+  <Drawing Name="5" Key="" Version="1"/>
+  <Drawing Name="6" Key="" Version="1"/>
+  <Drawing Name="7" Key="" Version="1"/>
+ </Element>
+</SceneVersion>
