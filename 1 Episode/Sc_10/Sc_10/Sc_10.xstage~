@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project source="Harmony Premium (HarmonyPremium.exe) version 24.0.1 build 23019 2024-07-20 09:57:32" version="2401" build="23019" creator="harmony">
+<project source="Harmony Premium (HarmonyPremium.exe) version 22.0.3 build 21960 2023-09-13 23:55:53" version="2203" build="21960" creator="harmony">
  <elements>
   <element id="2" elementName="Fon10" elementFolder="Fon10" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
@@ -134,7 +134,6 @@
   <cameraInSymbols val="true"/>
   <scaleFactor val="1"/>
   <colorSpace val="sRGB"/>
-  <textureColorSpace val="sRGB"/>
   <convertPalettesColorSpace val="true"/>
  </options>
  <timelineMarkers/>
@@ -144,7 +143,7 @@
     <column type="0" name="ATV-0C85DB7AB15D17B461D01CF6" displayOrder="5" width="100" anonymous="true" id="2">
      <elementSeq exposures="1-60" val="1" id="2"/>
     </column>
-    <column type="0" name="23_" display="false" displayOrder="4" width="100" anonymous="true" id="3">
+    <column type="0" name="23_" displayOrder="4" width="100" anonymous="true" id="3">
      <elementSeq exposures="1" val="1" id="3"/>
      <elementSeq exposures="2" val="10" id="3"/>
      <elementSeq exposures="3" val="11" id="3"/>
@@ -231,6 +230,57 @@
      <elementSeq exposures="28" val="30" id="6"/>
      <elementSeq exposures="29" val="31" id="6"/>
     </column>
+    <column type="3" name="ATV-0CE24F7D07E04A22" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1" yLocal="0.12499969806539113" y="0.12499969806539113"/>
+      <pt constSeg="false" x="23" yLocal="0.49999879226156274" y="0.49999879226156274"/>
+      <pt constSeg="true" x="3,13,26" yLocal="0.49999879226156274" y="0.49999879226156274"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0CE24F7D07E04A23" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1,23" yLocal="-0.16666626408718899" y="-0.16666626408718899"/>
+      <pt constSeg="true" x="26" yLocal="-0.99999758452312448" y="-0.99999758452312448"/>
+      <pt constSeg="true" x="3,13" yLocal="-0.16666626408718899" y="-0.16666626408718899"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0CE24F7D07E04A24" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1,23" yLocal="0" y="0"/>
+      <pt constSeg="true" x="3,13,26" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0CE24F7D07E04A25" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1,23" yLocal="1" y="1"/>
+      <pt constSeg="true" x="3,13,26" yLocal="1" y="1"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0CE24F7D07E04A26" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1,23" yLocal="1" y="1"/>
+      <pt constSeg="true" x="3,13,26" yLocal="1" y="1"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0CE24F7D07E04A27" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1,23" yLocal="0" y="0"/>
+      <pt constSeg="true" x="3,13,26" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0CE24F7D07E04A28" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="1,23" yLocal="0" y="0"/>
+      <pt constSeg="true" x="3,13,26" yLocal="0" y="0"/>
+     </points>
+    </column>
    </columns>
    <options>
     <defaultDisplay val="Display"/>
@@ -240,7 +290,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="0,0,6" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="0,0,10" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -259,13 +309,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="50,50,7" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="50,50,11" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="-50,50,8" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="-50,50,12" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -275,30 +325,34 @@
        <drawingName val="frames/final-"/>
        <moviePath val="frames/output"/>
        <movieFormat val="com.toonboom.quicktime.legacy"/>
-       <movieAudio val=""/>
-       <movieVideo val=""/>
-       <movieVideoaudio val=""/>
+       <movieAudio/>
+       <movieVideo/>
+       <movieVideoaudio/>
        <leadingZeros val="3"/>
        <start val="1"/>
        <drawingType val="TGA"/>
        <enabling>
         <filter val="ALWAYS"/>
-        <filterName val=""/>
+        <filterName/>
         <filterResX val="720"/>
         <filterResY val="540"/>
        </enabling>
        <scriptMovie val="false"/>
-       <scriptEditor val="// Following code will be called at the end of Write Node rendering
+       <scriptEditor>
+        <val>
+         <![CDATA[// Following code will be called at the end of Write Node rendering
 // operations to create a movie file from rendered images.
 
-// ..."/>
-       <colorSpace val=""/>
+// ...]]>
+        </val>
+       </scriptEditor>
+       <colorSpace/>
        <compositePartitioning val="NoCompositePartitioning"/>
        <zPartitionRange val="1" defaultValue="1"/>
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Fon10" pos="0,0,5" publishUnderTab="Fon10">
+     <module type="READ" name="Fon10" pos="220,21,8" publishUnderTab="Fon10">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -359,10 +413,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="ATV-0C85DB7AB15D17B461D01CF6">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
@@ -410,7 +464,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="23" pos="3,0,4" publishUnderTab="231">
+     <module type="READ" name="23" pos="173,-73,9" publishUnderTab="231">
       <options>
        <disabled val="true"/>
        <collapsed val="false"/>
@@ -472,10 +526,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="23_">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
@@ -523,7 +577,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="23L" pos="0,0,3" publishUnderTab="23L">
+     <module type="READ" name="23L" pos="31,-274,4" publishUnderTab="23L">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -584,10 +638,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="ATV-0C19DBE6DE2ED9C79EC20B68">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
@@ -635,7 +689,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="wing" pos="0,0,2" publishUnderTab="wing">
+     <module type="READ" name="wing" pos="-258,-127,6" publishUnderTab="wing">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -696,10 +750,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="ATV-0C4BDBB4DEFFD9729EC700B2">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
@@ -747,7 +801,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Antenna" pos="0,0,1" publishUnderTab="Antenna">
+     <module type="READ" name="Antenna" pos="-245,-38,7" publishUnderTab="Antenna">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -808,10 +862,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="ATV-0CE8DB17C17A364D6ABE8789">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
@@ -859,15 +913,112 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
+     <module type="PEG_APPLY3_V2" name="Apply-Peg-Transformation" pos="-167,-217,5" publishUnderTab="Apply-Peg-Transformation">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+     </module>
+     <module type="PEG" name="Peg" pos="-122,-285,3" publishUnderTab="Peg">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <position>
+        <separate val="true"/>
+        <x val="0" defaultValue="0" col="ATV-0CE24F7D07E04A22"/>
+        <y val="0" defaultValue="0" col="ATV-0CE24F7D07E04A23"/>
+        <z val="0" defaultValue="0" col="ATV-0CE24F7D07E04A24"/>
+       </position>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1" col="ATV-0CE24F7D07E04A25"/>
+        <y val="1" defaultValue="1" col="ATV-0CE24F7D07E04A26"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0" col="ATV-0CE24F7D07E04A27"/>
+       </rotation>
+       <angle val="0" defaultValue="0" col="ATV-0CE24F7D07E04A27"/>
+       <skew val="0" defaultValue="0" col="ATV-0CE24F7D07E04A28"/>
+       <pivot>
+        <x val="5.8749858090733493" defaultValue="0"/>
+        <y val="-1.4444409554222895" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <groupAtNetworkBuilding val="false"/>
+       <addCompositeToGroup val="true"/>
+      </attrs>
+     </module>
+     <module type="HIGHLIGHT" name="Highlight" pos="11,-108,1" publishUnderTab="Highlight">
+      <options>
+       <collapsed val="false"/>
+       <version val="2"/>
+      </options>
+      <attrs>
+       <truckFactor val="true"/>
+       <blurType val="RADIAL"/>
+       <radius val="2" defaultValue="2"/>
+       <directionalAngle val="0" defaultValue="0"/>
+       <directionalFalloffRate val="1" defaultValue="1"/>
+       <useMatteColor val="false"/>
+       <invertMatte val="false"/>
+       <color>
+        <red val="245"/>
+        <green val="233"/>
+        <blue val="182"/>
+        <alpha val="146"/>
+        <preferredUi val="separate"/>
+       </color>
+       <multiplicative val="false"/>
+       <colourGain val="1" defaultValue="1"/>
+       <invertMattePort val="true"/>
+      </attrs>
+     </module>
     </nodeslist>
     <linkedlist>
      <link out="Composite" in="Display"/>
      <link out="Composite" in="Write"/>
      <link out="Fon10" in="Composite" inport="0"/>
      <link out="23" in="Composite" inport="1"/>
-     <link out="23L" in="Composite" inport="2"/>
+     <link out="23L" in="Highlight" inport="0"/>
+     <link out="23L" in="Apply-Peg-Transformation" inport="0"/>
      <link out="wing" in="Composite" inport="3"/>
      <link out="Antenna" in="Composite" inport="4"/>
+     <link out="Apply-Peg-Transformation" in="Highlight" inport="1"/>
+     <link out="Peg" in="Apply-Peg-Transformation" inport="2"/>
+     <link out="Highlight" in="Composite" inport="2"/>
     </linkedlist>
    </rootgroup>
    <unconnectedComposite>
@@ -915,7 +1066,7 @@
  </timeline>
  <metas>
   <meta type="checksumValidation" name="checksumValidation" creator="Harmony Premium" version="1.0">
-   <value data="D600000000000000030335DB664B828397B27DD77BE7448784C9DA1D2B37C98E7B9494188BB05BC0B1E7C754E59978AE906FEBA9ECEA86820E28D05371E75BE068AA50C8827F95804F4A892A9E4F07372A4E4AD811346E3AFB08FFB58F91309ECD60173702F970838F6177D7C558D20E8906C0430C3952A77770951AF8260C5B77FA36F52699B5F08D6325B0B608540173EB54E6D8D0A57E9C39E3BC0250AC7C2D53E4A3B9CC73E3F2A9D98E39E2572C28D1FCA0B60075EE0FDE4AE15A96B5D119BE5F8E3D832DF4369622DA4B298236D496F33BA0FE6DFB2D6BFCCCFA8A6F0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426E7A4343415169674177494241674943424E49774451594A4B6F5A496876634E4151454642514177506A454C4D416B474131554542684D43513045780A447A414E42674E5642416754426C46315A574A6C597A45654D4277474131554541784D5662476C6A5A57357A5A58497564473976626D4A7662323075593239740A4D423458445445314D4467794E4445354D6A517A4E566F58445449314D4467794D6A45354D6A517A4E566F774D44454C4D416B474131554542684D43513045780A4954416642674E5642414D5447474E695A4755744D54646B4D43316B4E3245354C5451794D474D74595463344E5442634D4130474353714753496233445145420A41515541413073414D45674351514464524A686E46324F6853376C594A4A4B4A307A3352704B634639795166715572395A4F5A784363425341547252466163530A656C7A3730506B74656A5875635374547168316E6D3858336A6C6B43516D6D575843595641674D42414145774451594A4B6F5A496876634E41514546425141440A675945414651784235596F307A777679535A4B4677354E6D4B75662B71433075684D6D6D633936734A58386142726D7373757872442F73655A516D7A625532540A6C6C4844417530386C5673686C496D41413063315457356B7964506378546D76524C356D7767377935795341562F4D2F2F686F792F433542412F654665486F510A6264526A463951555636656C4D6270334A75327732726C6C4B4673474A4774387A707A567158356B517844513471303D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A40000000567B7D6557A4ED79FF92C431E29BB293406EE06AA6A43BB4D1ABE291BC65F8B8E30297BC2C900F9935338C30606D10084E69260D6FC5A2F6006F2052664CECF3"/>
+   <value data="D60000000000000003039B75C8E52C2D391CD379D549EA292A6774B385996720D53A3AB6251EF56E1F4969FA4B37D6003EC145074244282CA0867EFDDF49F54EC604FE662CD13B2EE1E4278430E1A99984E0E476BF9AC09455A6511B213F9E3063CEB999AC57DE2D21CFD9796BF67CA027A86EEDA297FC09D9DE3BB45688A2F5D954985B88371B5E23CD8B1E18A6FAAFDD45FA48767E0BD032974D12ACFE02D283FD4A0D1762DD4D5C077720974CF982867F520E18AEDB40A170E44FF4381B7FB710F120932D835A98388C74E5872C987A385D950E50C35583C5526254246F0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426E7A4343415169674177494241674943424E49774451594A4B6F5A496876634E4151454642514177506A454C4D416B474131554542684D43513045780A447A414E42674E5642416754426C46315A574A6C597A45654D4277474131554541784D5662476C6A5A57357A5A58497564473976626D4A7662323075593239740A4D423458445445314D4467794E4445354D6A517A4E566F58445449314D4467794D6A45354D6A517A4E566F774D44454C4D416B474131554542684D43513045780A4954416642674E5642414D5447474E695A4755744D54646B4D43316B4E3245354C5451794D474D74595463344E5442634D4130474353714753496233445145420A41515541413073414D45674351514464524A686E46324F6853376C594A4A4B4A307A3352704B634639795166715572395A4F5A784363425341547252466163530A656C7A3730506B74656A5875635374547168316E6D3858336A6C6B43516D6D575843595641674D42414145774451594A4B6F5A496876634E41514546425141440A675945414651784235596F307A777679535A4B4677354E6D4B75662B71433075684D6D6D633936734A58386142726D7373757872442F73655A516D7A625532540A6C6C4844417530386C5673686C496D41413063315457356B7964506378546D76524C356D7767377935795341562F4D2F2F686F792F433542412F654665486F510A6264526A463951555636656C4D6270334A75327732726C6C4B4673474A4774387A707A567158356B517844513471303D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A40000000748C8B9D34BF106D66B0BC21432E150B4A178F3AB381EF5C9E648087AE72F308E3417DF6B88ECDE40106EACC648A5F6D92E3BF6C9D66E135ACE60453670A176E"/>
   </meta>
  </metas>
 </project>
