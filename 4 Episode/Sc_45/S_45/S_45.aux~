@@ -1,0 +1,36 @@
+<!DOCTYPE SceneVersion>
+<SceneVersion ID="1" VersionName="S_45" Modified="2025-12-20 23:15:41">
+ <Element ID="1" Name="6" Folder="6">
+  <Drawing Name="1" Version="1" Key=""/>
+  <Drawing Name="2" Version="1" Key=""/>
+  <Drawing Name="3" Version="1" Key=""/>
+  <Drawing Name="4" Version="1" Key=""/>
+  <Drawing Name="5" Version="1" Key=""/>
+  <Drawing Name="6" Version="1" Key=""/>
+  <Drawing Name="7" Version="1" Key=""/>
+  <Drawing Name="8" Version="1" Key=""/>
+  <Drawing Name="9" Version="1" Key=""/>
+  <Drawing Name="10" Version="1" Key=""/>
+  <Drawing Name="11" Version="1" Key=""/>
+  <Drawing Name="12" Version="1" Key=""/>
+  <Drawing Name="13" Version="1" Key=""/>
+  <Drawing Name="14" Version="1" Key=""/>
+  <Drawing Name="15" Version="1" Key=""/>
+  <Drawing Name="16" Version="1" Key=""/>
+  <Drawing Name="17" Version="1" Key=""/>
+  <Drawing Name="18" Version="1" Key=""/>
+  <Drawing Name="19" Version="1" Key=""/>
+ </Element>
+ <Element ID="2" Name="fon45_1" Folder="fon45_1">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element ID="3" Name="fon45_3" Folder="fon45_3">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element ID="4" Name="fon45_2" Folder="fon45_2">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element ID="5" Name="Drawing" Folder="Drawing">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+</SceneVersion>
