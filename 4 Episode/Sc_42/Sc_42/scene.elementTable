@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elements source="Harmony Premium (HarmonyPremium.exe) version 24.0.1 build 23019 2024-07-20 09:57:32" version="2401" build="23019">
+ <element id="1" elementName="Drop" elementFolder="Drop" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="2" elementName="fon_42" elementFolder="fon_42" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="3" elementName="Drop2" elementFolder="Drop2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="4" elementName="Drop3" elementFolder="Drop3" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="5" elementName="Drop4" elementFolder="Drop4" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="6" elementName="Drop5" elementFolder="Drop5" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="7" elementName="Drop6" elementFolder="Drop6" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="8" elementName="Drop7" elementFolder="Drop7" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="9" elementName="Drop8" elementFolder="Drop8" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+</elements>
