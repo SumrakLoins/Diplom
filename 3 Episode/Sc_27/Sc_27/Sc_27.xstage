@@ -265,7 +265,7 @@
      <elementSeq exposures="24" val="19" id="7"/>
      <elementSeq exposures="25-27" val="21" id="7"/>
     </column>
-    <column type="0" name="ATV-0C94E16B7AEC37D904AC92E3" displayOrder="1" width="100" anonymous="true" id="8">
+    <column type="0" name="ATV-0C94E16B7AEC37D904AC92E3" display="false" displayOrder="1" width="100" anonymous="true" id="8">
      <elementSeq exposures="1-27" val="1" id="8"/>
     </column>
     <column type="0" name="ATV-0CEDE112A4E39E2C6AD7F5B9" displayOrder="4" width="100" anonymous="true" id="9">
@@ -1038,6 +1038,8 @@
      </module>
      <module type="READ" name="flower" pos="0,0,2" publishUnderTab="flower">
       <options>
+       <disabled val="true"/>
+       <locked val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>

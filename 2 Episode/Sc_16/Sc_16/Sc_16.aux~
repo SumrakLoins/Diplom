@@ -1,44 +1,129 @@
 <!DOCTYPE SceneVersion>
-<SceneVersion ID="1" VersionName="Sc_16" Modified="2025-11-27 00:08:34">
+<SceneVersion Modified="2025-12-23 19:29:56" VersionName="Sc_16" ID="1">
  <Element Name="23S" Folder="23S" ID="1">
-  <Drawing Name="1" Version="1" Key=""/>
-  <Drawing Name="2" Version="1" Key=""/>
-  <Drawing Name="3" Version="1" Key=""/>
-  <Drawing Name="4" Version="1" Key=""/>
-  <Drawing Name="5" Version="1" Key=""/>
-  <Drawing Name="6" Version="1" Key=""/>
-  <Drawing Name="7" Version="1" Key=""/>
-  <Drawing Name="8" Version="1" Key=""/>
-  <Drawing Name="9" Version="1" Key=""/>
-  <Drawing Name="10" Version="1" Key=""/>
-  <Drawing Name="11" Version="1" Key=""/>
-  <Drawing Name="12" Version="1" Key=""/>
-  <Drawing Name="13" Version="1" Key=""/>
-  <Drawing Name="14" Version="1" Key=""/>
-  <Drawing Name="15" Version="1" Key=""/>
-  <Drawing Name="16" Version="1" Key=""/>
-  <Drawing Name="17" Version="1" Key=""/>
-  <Drawing Name="18" Version="1" Key=""/>
-  <Drawing Name="19" Version="1" Key=""/>
-  <Drawing Name="20" Version="1" Key=""/>
-  <Drawing Name="21" Version="1" Key=""/>
-  <Drawing Name="22" Version="1" Key=""/>
-  <Drawing Name="23" Version="1" Key=""/>
-  <Drawing Name="24" Version="1" Key=""/>
+  <Drawing Name="1" Key="" Version="1"/>
+  <Drawing Name="2" Key="" Version="1"/>
+  <Drawing Name="3" Key="" Version="1"/>
+  <Drawing Name="4" Key="" Version="1"/>
+  <Drawing Name="5" Key="" Version="1"/>
+  <Drawing Name="6" Key="" Version="1"/>
+  <Drawing Name="7" Key="" Version="1"/>
+  <Drawing Name="8" Key="" Version="1"/>
+  <Drawing Name="9" Key="" Version="1"/>
+  <Drawing Name="10" Key="" Version="1"/>
+  <Drawing Name="11" Key="" Version="1"/>
+  <Drawing Name="12" Key="" Version="1"/>
+  <Drawing Name="13" Key="" Version="1"/>
+  <Drawing Name="14" Key="" Version="1"/>
+  <Drawing Name="15" Key="" Version="1"/>
+  <Drawing Name="16" Key="" Version="1"/>
+  <Drawing Name="17" Key="" Version="1"/>
+  <Drawing Name="18" Key="" Version="1"/>
+  <Drawing Name="19" Key="" Version="1"/>
+  <Drawing Name="20" Key="" Version="1"/>
+  <Drawing Name="21" Key="" Version="1"/>
+  <Drawing Name="22" Key="" Version="1"/>
+  <Drawing Name="23" Key="" Version="1"/>
+  <Drawing Name="24" Key="" Version="1"/>
+  <Drawing Name="25" Key="" Version="1"/>
+  <Drawing Name="26" Key="" Version="1"/>
  </Element>
  <Element Name="16" Folder="16" ID="2">
-  <Drawing Name="1" Version="1" Key=""/>
+  <Drawing Name="1" Key="" Version="1"/>
  </Element>
  <Element Name="Drawing" Folder="Drawing" ID="3">
-  <Drawing Name="1" Version="1" Key=""/>
-  <Drawing Name="2" Version="1" Key=""/>
-  <Drawing Name="3" Version="1" Key=""/>
-  <Drawing Name="4" Version="1" Key=""/>
+  <Drawing Name="1" Key="" Version="1"/>
+  <Drawing Name="2" Key="" Version="1"/>
+  <Drawing Name="3" Key="" Version="1"/>
+  <Drawing Name="4" Key="" Version="1"/>
  </Element>
  <Element Name="Drawing_1" Folder="Drawing_1" ID="4">
-  <Drawing Name="1" Version="1" Key=""/>
+  <Drawing Name="1" Key="" Version="1"/>
  </Element>
  <Element Name="23L" Folder="23L" ID="5">
-  <Drawing Name="1" Version="1" Key=""/>
+  <Drawing Name="1" Key="" Version="1"/>
+  <Drawing Name="2" Key="" Version="1"/>
+  <Drawing Name="3" Key="" Version="1"/>
+  <Drawing Name="4" Key="" Version="1"/>
+  <Drawing Name="5" Key="" Version="1"/>
+  <Drawing Name="6" Key="" Version="1"/>
+  <Drawing Name="7" Key="" Version="1"/>
+  <Drawing Name="8" Key="" Version="1"/>
+  <Drawing Name="9" Key="" Version="1"/>
+  <Drawing Name="10" Key="" Version="1"/>
+  <Drawing Name="11" Key="" Version="1"/>
+  <Drawing Name="12" Key="" Version="1"/>
+  <Drawing Name="13" Key="" Version="1"/>
+  <Drawing Name="14" Key="" Version="1"/>
+  <Drawing Name="15" Key="" Version="1"/>
+  <Drawing Name="16" Key="" Version="1"/>
+  <Drawing Name="17" Key="" Version="1"/>
+  <Drawing Name="18" Key="" Version="1"/>
+  <Drawing Name="19" Key="" Version="1"/>
+ </Element>
+ <Element Name="rope" Folder="rope" ID="7">
+  <Drawing Name="1" Key="" Version="1"/>
+  <Drawing Name="2" Key="" Version="1"/>
+  <Drawing Name="3" Key="" Version="1"/>
+  <Drawing Name="4" Key="" Version="1"/>
+  <Drawing Name="5" Key="" Version="1"/>
+  <Drawing Name="6" Key="" Version="1"/>
+  <Drawing Name="7" Key="" Version="1"/>
+  <Drawing Name="8" Key="" Version="1"/>
+  <Drawing Name="9" Key="" Version="1"/>
+  <Drawing Name="10" Key="" Version="1"/>
+  <Drawing Name="11" Key="" Version="1"/>
+  <Drawing Name="12" Key="" Version="1"/>
+  <Drawing Name="13" Key="" Version="1"/>
+  <Drawing Name="14" Key="" Version="1"/>
+  <Drawing Name="15" Key="" Version="1"/>
+  <Drawing Name="16" Key="" Version="1"/>
+  <Drawing Name="17" Key="" Version="1"/>
+  <Drawing Name="18" Key="" Version="1"/>
+  <Drawing Name="19" Key="" Version="1"/>
+  <Drawing Name="20" Key="" Version="1"/>
+  <Drawing Name="21" Key="" Version="1"/>
+  <Drawing Name="22" Key="" Version="1"/>
+  <Drawing Name="23" Key="" Version="1"/>
+ </Element>
+ <Element Name="yzi" Folder="yzi" ID="8">
+  <Drawing Name="1" Key="" Version="1"/>
+  <Drawing Name="2" Key="" Version="1"/>
+  <Drawing Name="3" Key="" Version="1"/>
+  <Drawing Name="4" Key="" Version="1"/>
+  <Drawing Name="5" Key="" Version="1"/>
+  <Drawing Name="6" Key="" Version="1"/>
+  <Drawing Name="7" Key="" Version="1"/>
+  <Drawing Name="8" Key="" Version="1"/>
+  <Drawing Name="9" Key="" Version="1"/>
+  <Drawing Name="10" Key="" Version="1"/>
+  <Drawing Name="11" Key="" Version="1"/>
+  <Drawing Name="12" Key="" Version="1"/>
+  <Drawing Name="13" Key="" Version="1"/>
+  <Drawing Name="14" Key="" Version="1"/>
+  <Drawing Name="15" Key="" Version="1"/>
+  <Drawing Name="16" Key="" Version="1"/>
+  <Drawing Name="17" Key="" Version="1"/>
+  <Drawing Name="18" Key="" Version="1"/>
+  <Drawing Name="19" Key="" Version="1"/>
+ </Element>
+ <Element Name="Rope2" Folder="Rope2" ID="9">
+  <Drawing Name="1" Key="" Version="1"/>
+  <Drawing Name="2" Key="" Version="1"/>
+  <Drawing Name="3" Key="" Version="1"/>
+  <Drawing Name="4" Key="" Version="1"/>
+  <Drawing Name="5" Key="" Version="1"/>
+  <Drawing Name="6" Key="" Version="1"/>
+  <Drawing Name="7" Key="" Version="1"/>
+  <Drawing Name="8" Key="" Version="1"/>
+  <Drawing Name="9" Key="" Version="1"/>
+  <Drawing Name="10" Key="" Version="1"/>
+  <Drawing Name="11" Key="" Version="1"/>
+  <Drawing Name="12" Key="" Version="1"/>
+  <Drawing Name="13" Key="" Version="1"/>
+  <Drawing Name="14" Key="" Version="1"/>
+  <Drawing Name="15" Key="" Version="1"/>
+  <Drawing Name="16" Key="" Version="1"/>
+  <Drawing Name="17" Key="" Version="1"/>
  </Element>
 </SceneVersion>

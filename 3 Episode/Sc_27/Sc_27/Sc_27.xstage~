@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project source="Harmony Premium (HarmonyPremium.exe) version 24.0.1 build 23019 2024-07-20 09:57:32" version="2401" build="23019" creator="harmony">
+<project source="Harmony Premium (HarmonyPremium.exe) version 22.0.3 build 21960 2023-09-13 23:55:53" version="2203" build="21960" creator="harmony">
  <elements>
   <element id="1" elementName="Drawing" elementFolder="Drawing" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
@@ -182,7 +182,6 @@
   <cameraInSymbols val="true"/>
   <scaleFactor val="1"/>
   <colorSpace val="sRGB"/>
-  <textureColorSpace val="sRGB"/>
   <convertPalettesColorSpace val="true"/>
  </options>
  <timelineMarkers/>
@@ -195,7 +194,7 @@
     <column type="0" name="ATV-0C2BE1D47A35379004A01CBC" displayOrder="9" width="100" anonymous="true" id="2">
      <elementSeq exposures="1-60" val="1" id="2"/>
     </column>
-    <column type="0" name="FlowerS" display="false" displayOrder="6" width="100" anonymous="true" id="3">
+    <column type="0" name="FlowerS" displayOrder="6" width="100" anonymous="true" id="3">
      <elementSeq exposures="1-2" val="2" id="3"/>
      <elementSeq exposures="3" val="40" id="3"/>
      <elementSeq exposures="4" val="39" id="3"/>
@@ -217,13 +216,13 @@
      <heldSeq exposures="29-37,47-49,52-57"/>
     </column>
     <column type="1" name="flower" displayOrder="3" width="100" anonymous="false" disabled="false" videoSync="true" soundLocked="false">
-     <soundSequence startFrame="1" stopFrame="3" name="flower.wav" displayName="flower.wav" id="0ce17a3704a029d7" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="2.7916667461395264" clippingTimeStop="89.342857360839844">
+     <soundSequence startFrame="1" stopFrame="3" name="flower.wav" id="0ce17a3704a029d7" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="2.7916667461395264" clippingTimeStop="89.342857360839844">
       <lipSync showSoundForm="0"/>
      </soundSequence>
-     <soundSequence startFrame="4" stopFrame="121" name="flower.wav" displayName="flower.wav" id="0ce17a3704a02a43" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="3.1666667461395264" clippingTimeStop="89.342857360839844">
+     <soundSequence startFrame="4" stopFrame="121" name="flower.wav" id="0ce17a3704a02a43" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="3.1666667461395264" clippingTimeStop="89.342857360839844">
       <lipSync showSoundForm="0"/>
      </soundSequence>
-     <soundSequence startFrame="195" stopFrame="2145" name="flower.wav" displayName="flower.wav" id="0ce17a3704a0296a" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="8.0833330154418945" clippingTimeStop="89.342857360839844">
+     <soundSequence startFrame="195" stopFrame="2145" name="flower.wav" id="0ce17a3704a0296a" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="8.0833330154418945" clippingTimeStop="89.342857360839844">
       <lipSync showSoundForm="0"/>
      </soundSequence>
     </column>
@@ -266,7 +265,7 @@
      <elementSeq exposures="24" val="19" id="7"/>
      <elementSeq exposures="25-27" val="21" id="7"/>
     </column>
-    <column type="0" name="ATV-0C94E16B7AEC37D904AC92E3" displayOrder="1" width="100" anonymous="true" id="8">
+    <column type="0" name="ATV-0C94E16B7AEC37D904AC92E3" display="false" displayOrder="1" width="100" anonymous="true" id="8">
      <elementSeq exposures="1-27" val="1" id="8"/>
     </column>
     <column type="0" name="ATV-0CEDE112A4E39E2C6AD7F5B9" displayOrder="4" width="100" anonymous="true" id="9">
@@ -331,24 +330,28 @@
        <drawingName val="frames/final-"/>
        <moviePath val="frames/output"/>
        <movieFormat val="com.toonboom.quicktime.legacy"/>
-       <movieAudio val=""/>
-       <movieVideo val=""/>
-       <movieVideoaudio val=""/>
+       <movieAudio/>
+       <movieVideo/>
+       <movieVideoaudio/>
        <leadingZeros val="3"/>
        <start val="1"/>
        <drawingType val="TGA"/>
        <enabling>
         <filter val="ALWAYS"/>
-        <filterName val=""/>
+        <filterName/>
         <filterResX val="720"/>
         <filterResY val="540"/>
        </enabling>
        <scriptMovie val="false"/>
-       <scriptEditor val="// Following code will be called at the end of Write Node rendering
+       <scriptEditor>
+        <val>
+         <![CDATA[// Following code will be called at the end of Write Node rendering
 // operations to create a movie file from rendered images.
 
-// ..."/>
-       <colorSpace val=""/>
+// ...]]>
+        </val>
+       </scriptEditor>
+       <colorSpace/>
        <compositePartitioning val="NoCompositePartitioning"/>
        <zPartitionRange val="1" defaultValue="1"/>
        <cleanUpPartitionFolders val="true"/>
@@ -417,10 +420,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="ATV-0C14E1EB7AEE373D04A9C452">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
@@ -531,10 +534,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="Drawing">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
@@ -644,10 +647,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="ATV-0C2BE1D47A35379004A01CBC">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
@@ -757,10 +760,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="FlowerS">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
@@ -869,10 +872,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="ATV-0CEDE112A4E39E2C6AD7F5B9">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
@@ -982,10 +985,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="ATV-0C7CE1837AA4373704AA40B3">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
@@ -1035,6 +1038,8 @@
      </module>
      <module type="READ" name="flower" pos="0,0,2" publishUnderTab="flower">
       <options>
+       <disabled val="true"/>
+       <locked val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -1094,10 +1099,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="ATV-0C94E16B7AEC37D904AC92E3">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
@@ -1206,10 +1211,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="ATV-0C91E16E7ACD37E804AC8995">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
