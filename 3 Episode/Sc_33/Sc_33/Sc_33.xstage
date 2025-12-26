@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project source="Harmony Premium (HarmonyPremium.exe) version 24.0.1 build 23019 2024-07-20 09:57:32" version="2401" build="23019" creator="harmony">
+<project source="Harmony Premium (HarmonyPremium.exe) version 22.0.3 build 21960 2023-09-13 23:55:53" version="2203" build="21960" creator="harmony">
  <elements>
   <element id="1" elementName="spike" elementFolder="spike" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
@@ -50,6 +50,23 @@
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
+    <dwg name="4"/>
+    <dwg name="5"/>
+    <dwg name="6"/>
+    <dwg name="7"/>
+    <dwg name="8"/>
+    <dwg name="9"/>
+    <dwg name="10"/>
+    <dwg name="11"/>
+    <dwg name="12"/>
+    <dwg name="13"/>
+    <dwg name="14"/>
+    <dwg name="15"/>
+    <dwg name="16"/>
+    <dwg name="17"/>
+    <dwg name="18"/>
+    <dwg name="19"/>
    </drawings>
   </element>
   <element id="5" elementName="Spikecolor" elementFolder="Spikecolor" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -71,7 +88,6 @@
   <cameraInSymbols val="true"/>
   <scaleFactor val="1"/>
   <colorSpace val="sRGB"/>
-  <textureColorSpace val="sRGB"/>
   <convertPalettesColorSpace val="true"/>
  </options>
  <timelineMarkers/>
@@ -107,13 +123,30 @@
      <elementSeq exposures="1-16" val="1" id="3"/>
     </column>
     <column type="1" name="23_-_5" displayOrder="4" width="100" anonymous="false" disabled="true" videoSync="true" soundLocked="false">
-     <soundSequence startFrame="1" stopFrame="108" name="23 - 5.wav" displayName="23 - 5.wav" id="0ce2a5927501abe0" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="0" clippingTimeStop="8.9452152252197266">
+     <soundSequence startFrame="1" stopFrame="108" name="23 - 5.wav" id="0ce2a5927501abe0" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="0" clippingTimeStop="8.9452152252197266">
       <lipSync showSoundForm="0"/>
      </soundSequence>
     </column>
     <column type="0" name="ATV-0C16E2E9A5CE92157507A77B" displayOrder="1" width="100" anonymous="true" id="4">
      <elementSeq exposures="1-2" val="1" id="4"/>
      <elementSeq exposures="3" val="2" id="4"/>
+     <elementSeq exposures="4" val="3" id="4"/>
+     <elementSeq exposures="5" val="4" id="4"/>
+     <elementSeq exposures="6" val="5" id="4"/>
+     <elementSeq exposures="7" val="6" id="4"/>
+     <elementSeq exposures="8" val="7" id="4"/>
+     <elementSeq exposures="9-11" val="8" id="4"/>
+     <elementSeq exposures="12" val="9" id="4"/>
+     <elementSeq exposures="13" val="10" id="4"/>
+     <elementSeq exposures="14" val="11" id="4"/>
+     <elementSeq exposures="15" val="12" id="4"/>
+     <elementSeq exposures="16,22,27" val="13" id="4"/>
+     <elementSeq exposures="17,23" val="14" id="4"/>
+     <elementSeq exposures="18,24" val="15" id="4"/>
+     <elementSeq exposures="19,25" val="16" id="4"/>
+     <elementSeq exposures="20,26" val="17" id="4"/>
+     <elementSeq exposures="21" val="18" id="4"/>
+     <elementSeq exposures="28-33" val="19" id="4"/>
     </column>
     <column type="0" name="ATV-0CE5E21AB0514AB43A5C54C2" displayOrder="6" width="100" anonymous="true" id="5">
      <elementSeq exposures="1-34" val="1" id="5"/>
@@ -127,7 +160,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="0,0,5" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="0,0,6" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -146,13 +179,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="50,50,6" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="50,50,7" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="-50,50,7" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="-50,50,8" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -162,30 +195,34 @@
        <drawingName val="frames/final-"/>
        <moviePath val="frames/output"/>
        <movieFormat val="com.toonboom.quicktime.legacy"/>
-       <movieAudio val=""/>
-       <movieVideo val=""/>
-       <movieVideoaudio val=""/>
+       <movieAudio/>
+       <movieVideo/>
+       <movieVideoaudio/>
        <leadingZeros val="3"/>
        <start val="1"/>
        <drawingType val="TGA"/>
        <enabling>
         <filter val="ALWAYS"/>
-        <filterName val=""/>
+        <filterName/>
         <filterResX val="720"/>
         <filterResY val="540"/>
        </enabling>
        <scriptMovie val="false"/>
-       <scriptEditor val="// Following code will be called at the end of Write Node rendering
+       <scriptEditor>
+        <val>
+         <![CDATA[// Following code will be called at the end of Write Node rendering
 // operations to create a movie file from rendered images.
 
-// ..."/>
-       <colorSpace val=""/>
+// ...]]>
+        </val>
+       </scriptEditor>
+       <colorSpace/>
        <compositePartitioning val="NoCompositePartitioning"/>
        <zPartitionRange val="1" defaultValue="1"/>
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="fon33" pos="0,0,4" publishUnderTab="fon33">
+     <module type="READ" name="fon33" pos="0,0,5" publishUnderTab="fon33">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -246,10 +283,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="ATV-0CC2E23DA594928375001ED4">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
@@ -297,7 +334,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Spike2" pos="0,0,2" publishUnderTab="Spike2">
+     <module type="READ" name="Spike2" pos="-87,-102,1" publishUnderTab="Spike2">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -358,10 +395,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="ATV-0C16E2E9A5CE92157507A77B">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
@@ -409,8 +446,9 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="spike" pos="-58,-50,8" publishUnderTab="Drawing">
+     <module type="READ" name="spike" pos="-154,-64,2" publishUnderTab="Drawing">
       <options>
+       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -470,10 +508,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="spike">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
@@ -498,7 +536,7 @@
        <enableLineTexture val="true"/>
        <antialiasingQuality val="HIGH"/>
        <antialiasingExponent val="1" defaultValue="1"/>
-       <opacity val="100" defaultValue="100"/>
+       <opacity val="67" defaultValue="100"/>
        <textureFilter val="NEAREST_FILTERED"/>
        <adjustPencilThickness val="false"/>
        <normalLineArtThickness val="true"/>
@@ -521,7 +559,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Drawing_1" pos="0,0,3" publishUnderTab="Drawing_1">
+     <module type="READ" name="Drawing_1" pos="0,0,4" publishUnderTab="Drawing_1">
       <options>
        <disabled val="true"/>
        <collapsed val="false"/>
@@ -583,10 +621,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="ATV-0C9CE263A54D926675005F2C">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
@@ -634,7 +672,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Spikecolor" pos="0,0,1" publishUnderTab="Spikecolor">
+     <module type="READ" name="Spikecolor" pos="6,-131,3" publishUnderTab="Spikecolor">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -695,10 +733,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="ATV-0CE5E21AB0514AB43A5C54C2">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>

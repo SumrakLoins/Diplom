@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<elements source="Harmony Premium (HarmonyPremium.exe) version 24.0.1 build 23019 2024-07-20 09:57:32" version="2401" build="23019">
+<elements source="Harmony Premium (HarmonyPremium.exe) version 22.0.3 build 21960 2023-09-13 23:55:53" version="2203" build="21960">
  <element id="1" elementName="23S" elementFolder="23S" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="2" elementName="fon34" elementFolder="fon34" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="3" elementName="Drawing" elementFolder="Drawing" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
@@ -8,4 +8,9 @@
  <element id="6" elementName="flower2" elementFolder="flower2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="7" elementName="flower3" elementFolder="flower3" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="8" elementName="Flowers" elementFolder="Flowers" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="9" elementName="F3L" elementFolder="F3L" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="10" elementName="F2L" elementFolder="F2L" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="11" elementName="F1L" elementFolder="F1L" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="12" elementName="23L" elementFolder="23L" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="13" elementName="WinL" elementFolder="WinL" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
