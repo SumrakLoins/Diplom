@@ -1,0 +1,26 @@
+<!DOCTYPE SceneVersion>
+<SceneVersion VersionName="Sc_59" ID="1" Modified="2025-12-29 17:57:45">
+ <Element Name="Drawing" Folder="Drawing" ID="1">
+  <Drawing Name="1" Key="" Version="1"/>
+  <Drawing Name="2" Key="" Version="1"/>
+ </Element>
+ <Element Name="23S" Folder="23S" ID="2">
+  <Drawing Name="1" Key="" Version="1"/>
+  <Drawing Name="2" Key="" Version="1"/>
+  <Drawing Name="3" Key="" Version="1"/>
+  <Drawing Name="4" Key="" Version="1"/>
+  <Drawing Name="5" Key="" Version="1"/>
+  <Drawing Name="6" Key="" Version="1"/>
+  <Drawing Name="7" Key="" Version="1"/>
+  <Drawing Name="8" Key="" Version="1"/>
+  <Drawing Name="9" Key="" Version="1"/>
+  <Drawing Name="10" Key="" Version="1"/>
+  <Drawing Name="11" Key="" Version="1"/>
+  <Drawing Name="12" Key="" Version="1"/>
+  <Drawing Name="13" Key="" Version="1"/>
+  <Drawing Name="14" Key="" Version="1"/>
+  <Drawing Name="15" Key="" Version="1"/>
+  <Drawing Name="16" Key="" Version="1"/>
+  <Drawing Name="17" Key="" Version="1"/>
+ </Element>
+</SceneVersion>
