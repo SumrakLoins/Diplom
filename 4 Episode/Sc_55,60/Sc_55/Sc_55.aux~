@@ -1,0 +1,16 @@
+<!DOCTYPE SceneVersion>
+<SceneVersion VersionName="Sc_55" ID="1" Modified="2026-01-04 12:44:30">
+ <Element Folder="Drawing" ID="1" Name="Drawing"/>
+ <Element Folder="fon55_1" ID="2" Name="fon55_1">
+  <Drawing Version="1" Key="" Name="1"/>
+ </Element>
+ <Element Folder="fon55_2" ID="3" Name="fon55_2">
+  <Drawing Version="1" Key="" Name="1"/>
+ </Element>
+ <Element Folder="fon55_3" ID="4" Name="fon55_3">
+  <Drawing Version="1" Key="" Name="1"/>
+ </Element>
+ <Element Folder="fon55_4" ID="5" Name="fon55_4">
+  <Drawing Version="1" Key="" Name="1"/>
+ </Element>
+</SceneVersion>
