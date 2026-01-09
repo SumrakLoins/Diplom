@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project source="Harmony Premium (HarmonyPremium.exe) version 24.0.1 build 23019 2024-07-20 09:57:32" version="2401" build="23019" creator="harmony">
+<project source="Harmony Premium (HarmonyPremium.exe) version 22.0.3 build 21960 2023-09-13 23:55:53" version="2203" build="21960" creator="harmony">
  <elements>
   <element id="1" elementName="6" elementFolder="6" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
@@ -81,14 +81,13 @@
   <cameraInSymbols val="true"/>
   <scaleFactor val="1"/>
   <colorSpace val="sRGB"/>
-  <textureColorSpace val="sRGB"/>
   <convertPalettesColorSpace val="true"/>
  </options>
  <timelineMarkers/>
  <scenes>
   <scene name="Top" id="0ce54ec858b015fe" nbframes="27" startFrame="1" stopFrame="27">
    <columns>
-    <column type="0" name="6" display="false" displayOrder="1" width="100" anonymous="true" id="1">
+    <column type="0" name="6" displayOrder="1" width="100" anonymous="true" id="1">
      <elementSeq exposures="3" val="2" id="1"/>
      <elementSeq exposures="4" val="4" id="1"/>
      <elementSeq exposures="5" val="20" id="1"/>
@@ -129,13 +128,13 @@
      <elementSeq exposures="1" val="1" id="5"/>
     </column>
     <column type="1" name="6-4" displayOrder="6" width="100" anonymous="false" disabled="true" videoSync="true" soundLocked="false">
-     <soundSequence startFrame="3" stopFrame="9" name="6-4.wav" displayName="6-4.wav" id="0ce54ec858b0add9" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="0" clippingTimeStop="2.8192744255065918">
+     <soundSequence startFrame="3" stopFrame="9" name="6-4.wav" id="0ce54ec858b0add9" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="0" clippingTimeStop="2.8192744255065918">
       <lipSync showSoundForm="0"/>
      </soundSequence>
-     <soundSequence startFrame="11" stopFrame="21" name="6-4.wav" displayName="6-4.wav" id="0ce54ec858b25352" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="0.75" clippingTimeStop="2.8192744255065918">
+     <soundSequence startFrame="11" stopFrame="21" name="6-4.wav" id="0ce54ec858b25352" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="0.75" clippingTimeStop="2.8192744255065918">
       <lipSync showSoundForm="0"/>
      </soundSequence>
-     <soundSequence startFrame="22" stopFrame="34" name="6-4.wav" displayName="6-4.wav" id="0ce54ec858b25353" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="1.75" clippingTimeStop="2.8192744255065918">
+     <soundSequence startFrame="22" stopFrame="34" name="6-4.wav" id="0ce54ec858b25353" soundColorIsValid="false" soundColor="#000000FF" clippingTimeStart="1.75" clippingTimeStop="2.8192744255065918">
       <lipSync showSoundForm="0"/>
      </soundSequence>
     </column>
@@ -154,6 +153,48 @@
      <elementSeq exposures="17" val="12" id="6"/>
      <elementSeq exposures="18,19,20,21,22,23,24,25,26,27" val="13" id="6"/>
     </column>
+    <column type="3" name="ATV-0D0A480083601AC9" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="true" x="19" yLocal="-0.45833222623976244" y="-0.45833222623976244"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0D0A480083601ACA" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="true" x="19" yLocal="-0.30555481749317465" y="-0.30555481749317465"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0D0A480083601ACB" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="true" x="19" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0D0A480083601ACC" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="true" x="19" yLocal="1" y="1"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0D0A480083601ACD" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="true" x="19" yLocal="1" y="1"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0D0A480083601ACE" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="true" x="19" yLocal="0" y="0"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-0D0A480083601ACF" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="true" x="19" yLocal="0" y="0"/>
+     </points>
+    </column>
    </columns>
    <options>
     <defaultDisplay val="Display"/>
@@ -163,7 +204,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="0,0,6" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="0,0,11" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -182,13 +223,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="50,50,7" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="50,50,12" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="-50,50,8" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="-50,50,13" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -198,15 +239,15 @@
        <drawingName val="frames/final-"/>
        <moviePath val="frames/output"/>
        <movieFormat val="com.toonboom.quicktime.legacy"/>
-       <movieAudio val=""/>
-       <movieVideo val=""/>
-       <movieVideoaudio val=""/>
+       <movieAudio/>
+       <movieVideo/>
+       <movieVideoaudio/>
        <leadingZeros val="3"/>
        <start val="1"/>
        <drawingType val="TGA"/>
        <enabling>
         <filter val="ALWAYS"/>
-        <filterName val=""/>
+        <filterName/>
         <filterResX val="720"/>
         <filterResY val="540"/>
        </enabling>
@@ -219,13 +260,13 @@
 // ...]]>
         </val>
        </scriptEditor>
-       <colorSpace val=""/>
+       <colorSpace/>
        <compositePartitioning val="NoCompositePartitioning"/>
        <zPartitionRange val="1" defaultValue="1"/>
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="fon45_3" pos="0,0,4" publishUnderTab="fon45_3">
+     <module type="READ" name="fon45_3" pos="0,0,9" publishUnderTab="fon45_3">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -286,10 +327,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="ATV-0C22E5DD4EDFC8DA58B01E40">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
@@ -337,7 +378,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="fon45_2" pos="0,0,3" publishUnderTab="fon45_2">
+     <module type="READ" name="fon45_2" pos="0,0,8" publishUnderTab="fon45_2">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -398,10 +439,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="ATV-0CB3E54C4E10C8C758B021DD">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
@@ -449,7 +490,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="fon45_1" pos="0,0,5" publishUnderTab="fon45_1">
+     <module type="READ" name="fon45_1" pos="0,0,10" publishUnderTab="fon45_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -510,10 +551,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="ATV-0CCFE5304E7CC8AB58B01DDC">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
@@ -561,7 +602,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="6" pos="-48,-50,9" publishUnderTab="Drawing">
+     <module type="READ" name="6" pos="184,-68,7" publishUnderTab="Drawing">
       <options>
        <disabled val="true"/>
        <collapsed val="false"/>
@@ -623,10 +664,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="6">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
@@ -674,7 +715,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Drawing" pos="0,0,2" publishUnderTab="Drawing">
+     <module type="READ" name="Drawing" pos="214,17,6" publishUnderTab="Drawing">
       <options>
        <disabled val="true"/>
        <collapsed val="false"/>
@@ -736,10 +777,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="ATV-0CE5E51A4EDCC81B58B02B4A">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
@@ -787,7 +828,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="23L" pos="0,0,1" publishUnderTab="23L">
+     <module type="READ" name="23L" pos="-75,-252,4" publishUnderTab="23L">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -848,10 +889,10 @@
        <drawing>
         <elementMode val="true"/>
         <element col="ATV-0CD4E72B73F849B501702085">
-         <layer val=""/>
+         <layer/>
         </element>
         <customName>
-         <name val=""/>
+         <name/>
          <extension val="tga"/>
          <fieldChart val="12" defaultValue="12"/>
         </customName>
@@ -899,6 +940,99 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
+     <module type="HIGHLIGHT" name="Highlight" pos="-59,-85,1" publishUnderTab="Highlight">
+      <options>
+       <collapsed val="false"/>
+       <version val="2"/>
+      </options>
+      <attrs>
+       <truckFactor val="true"/>
+       <blurType val="RADIAL"/>
+       <radius val="2" defaultValue="2"/>
+       <directionalAngle val="0" defaultValue="0"/>
+       <directionalFalloffRate val="1" defaultValue="1"/>
+       <useMatteColor val="false"/>
+       <invertMatte val="false"/>
+       <color>
+        <red val="239"/>
+        <green val="157"/>
+        <blue val="67"/>
+        <alpha val="100"/>
+        <preferredUi val="separate"/>
+       </color>
+       <multiplicative val="false"/>
+       <colourGain val="1" defaultValue="1"/>
+       <invertMattePort val="true"/>
+      </attrs>
+     </module>
+     <module type="PEG_APPLY3_V2" name="Apply-Peg-Transformation" pos="-294,-157,3" publishUnderTab="Apply-Peg-Transformation">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+     </module>
+     <module type="PEG" name="Peg" pos="-225,-222,2" publishUnderTab="Peg">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <position>
+        <separate val="true"/>
+        <x val="0" defaultValue="0" col="ATV-0D0A480083601AC9"/>
+        <y val="0" defaultValue="0" col="ATV-0D0A480083601ACA"/>
+        <z val="0" defaultValue="0" col="ATV-0D0A480083601ACB"/>
+       </position>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1" col="ATV-0D0A480083601ACC"/>
+        <y val="1" defaultValue="1" col="ATV-0D0A480083601ACD"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0" col="ATV-0D0A480083601ACE"/>
+       </rotation>
+       <angle val="0" defaultValue="0" col="ATV-0D0A480083601ACE"/>
+       <skew val="0" defaultValue="0" col="ATV-0D0A480083601ACF"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <groupAtNetworkBuilding val="false"/>
+       <addCompositeToGroup val="true"/>
+      </attrs>
+     </module>
     </nodeslist>
     <linkedlist>
      <link out="Composite" in="Display"/>
@@ -908,7 +1042,11 @@
      <link out="fon45_1" in="Composite" inport="0"/>
      <link out="6" in="Composite" inport="4"/>
      <link out="Drawing" in="Composite" inport="3"/>
-     <link out="23L" in="Composite" inport="5"/>
+     <link out="23L" in="Highlight" inport="0"/>
+     <link out="23L" in="Apply-Peg-Transformation" inport="0"/>
+     <link out="Highlight" in="Composite" inport="5"/>
+     <link out="Apply-Peg-Transformation" in="Highlight" inport="1"/>
+     <link out="Peg" in="Apply-Peg-Transformation" inport="2"/>
     </linkedlist>
    </rootgroup>
    <unconnectedComposite>
