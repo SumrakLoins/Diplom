@@ -1411,7 +1411,6 @@
      </module>
      <module type="HIGHLIGHT" name="Highlight" pos="-68,-289,1" publishUnderTab="Highlight">
       <options>
-       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="2"/>
       </options>
