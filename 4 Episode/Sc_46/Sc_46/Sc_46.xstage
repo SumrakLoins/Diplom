@@ -66,6 +66,19 @@
     <dwg name="23"/>
    </drawings>
   </element>
+  <element id="5" elementName="tone" elementFolder="tone" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+    <dwg name="2"/>
+    <dwg name="3"/>
+    <dwg name="4"/>
+    <dwg name="5"/>
+    <dwg name="6"/>
+    <dwg name="7"/>
+    <dwg name="8"/>
+    <dwg name="9"/>
+   </drawings>
+  </element>
  </elements>
  <options>
   <metrics unitAspectRatioX="4" unitAspectRatioY="3" numberOfUnitsX="24" numberOfUnitsY="24" numberOfUnitsZ="12"/>
@@ -152,7 +165,7 @@
        <pt val="5.0205926100838614,11.838980521201323,0" lockedInTime="23"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0D0A42F7EC50123A" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0D0B4CD6B30012BD" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -224,49 +237,67 @@
     </column>
     <column type="3" name="ATV-0D0A42F7EC501BBF" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
-      <pt constSeg="true" x="1" yLocal="-0.38177855356013346" y="-0.38177855356013346"/>
-      <pt constSeg="true" x="6" yLocal="2.1716802867430296" y="2.1716802867430296"/>
+      <pt constSeg="true" x="6" yLocal="-1.8126927480369166" y="-1.8126927480369166"/>
+      <pt constSeg="true" x="1" yLocal="0.62213484560256571" y="0.62213484560256571"/>
      </points>
     </column>
     <column type="3" name="ATV-0D0A42F7EC501BC0" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
-      <pt constSeg="true" x="6" yLocal="-1.3077090440778374" y="-1.3077090440778374"/>
-      <pt constSeg="true" x="1" yLocal="-0.37020950648255546" y="-0.37020950648255546"/>
+      <pt constSeg="true" x="1" yLocal="-0.65200975887910317" y="-0.65200975887910317"/>
+      <pt constSeg="true" x="6" yLocal="0.87978987697782085" y="0.87978987697782085"/>
      </points>
     </column>
     <column type="3" name="ATV-0D0A42F7EC501BC1" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="true" x="1,6" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-0D0A42F7EC501BC2" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="true" x="1" yLocal="1" y="1"/>
-      <pt constSeg="true" x="6" yLocal="1.1737995564843129" y="1.1737995564843129"/>
+      <pt constSeg="true" x="6" yLocal="1.2831016231477952" y="1.2831016231477952"/>
      </points>
     </column>
     <column type="3" name="ATV-0D0A42F7EC501BC3" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="true" x="1" yLocal="1" y="1"/>
-      <pt constSeg="true" x="6" yLocal="1.1737995564843129" y="1.1737995564843129"/>
+      <pt constSeg="true" x="6" yLocal="1.2831016231477952" y="1.2831016231477952"/>
      </points>
     </column>
     <column type="3" name="ATV-0D0A42F7EC501BC4" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="true" x="1,6" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-0D0A42F7EC501BC5" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="true" x="1,6" yLocal="0" y="0"/>
      </points>
+    </column>
+    <column type="0" name="ATV-0D0B4CD6B30019FC" displayOrder="0" width="100" anonymous="true" id="5">
+     <elementSeq exposures="1-8" val="1" id="5"/>
+     <elementSeq exposures="9" val="2" id="5"/>
+     <elementSeq exposures="10-11" val="4" id="5"/>
+     <elementSeq exposures="12-13" val="5" id="5"/>
+     <elementSeq exposures="14-16" val="6" id="5"/>
+     <elementSeq exposures="17" val="7" id="5"/>
+     <elementSeq exposures="18-20" val="8" id="5"/>
+     <elementSeq exposures="21-22" val="9" id="5"/>
+     <elementSeq exposures="23-33" val="3" id="5"/>
     </column>
    </columns>
    <options>
@@ -278,7 +309,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="0,0,14" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="0,0,7" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -297,13 +328,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="50,50,15" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="50,50,18" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="-50,50,16" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="-50,50,19" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -340,7 +371,7 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Drawing" pos="112,-160,11" publishUnderTab="Drawing">
+     <module type="READ" name="Drawing" pos="112,-160,15" publishUnderTab="Drawing">
       <options>
        <disabled val="true"/>
        <collapsed val="false"/>
@@ -453,7 +484,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="fon46" pos="238,-124,9" publishUnderTab="fon46">
+     <module type="READ" name="fon46" pos="238,-124,13" publishUnderTab="fon46">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -565,7 +596,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="23S" pos="191,-70,10" publishUnderTab="23S">
+     <module type="READ" name="23S" pos="191,-70,14" publishUnderTab="23S">
       <options>
        <disabled val="true"/>
        <collapsed val="false"/>
@@ -678,7 +709,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Camera-P" pos="-208,-7,12" publishUnderTab="Camera-P">
+     <module type="PEG" name="Camera-P" pos="-208,-7,16" publishUnderTab="Camera-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -741,7 +772,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="CAMERA" name="Camera" pos="-196,55,13" publishUnderTab="Camera">
+     <module type="CAMERA" name="Camera" pos="-196,55,17" publishUnderTab="Camera">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -763,7 +794,7 @@
        <farPlane val="1000" defaultValue="1000"/>
       </attrs>
      </module>
-     <module type="READ" name="23L" pos="-252,-233,4" publishUnderTab="23L">
+     <module type="READ" name="23L" pos="-252,-233,2" publishUnderTab="23L">
       <options>
        <collapsed val="false"/>
        <nodeShowThumbnail val="true"/>
@@ -876,13 +907,13 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG_APPLY3_V2" name="Apply-Peg-Transformation" pos="-546,-128,7" publishUnderTab="Apply-Peg-Transformation">
+     <module type="PEG_APPLY3_V2" name="Apply-Peg-Transformation" pos="-546,-128,11" publishUnderTab="Apply-Peg-Transformation">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="HIGHLIGHT" name="Highlight" pos="-457,-62,6" publishUnderTab="Highlight">
+     <module type="HIGHLIGHT" name="Highlight" pos="-457,-62,10" publishUnderTab="Highlight">
       <options>
        <collapsed val="false"/>
        <version val="2"/>
@@ -907,7 +938,7 @@
        <invertMattePort val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Peg" pos="-510,-198,8" publishUnderTab="Peg">
+     <module type="PEG" name="Peg" pos="-510,-198,12" publishUnderTab="Peg">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -969,13 +1000,13 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG_APPLY3_V2" name="Apply-Peg-Transformation_1" pos="-356,-128,5" publishUnderTab="Apply-Peg-Transformation">
+     <module type="PEG_APPLY3_V2" name="Apply-Peg-Transformation_1" pos="-492,-298,5" publishUnderTab="Apply-Peg-Transformation">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="PEG" name="Peg_1" pos="-349,-214,1" publishUnderTab="Peg">
+     <module type="PEG" name="Peg_1" pos="-463,-352,4" publishUnderTab="Peg">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1037,7 +1068,150 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="TONE" name="Tone" pos="-78,-70,3" publishUnderTab="Tone">
+     <module type="TONE" name="Tone" pos="-78,-70,1" publishUnderTab="Tone">
+      <options>
+       <locked val="true"/>
+       <collapsed val="false"/>
+       <version val="2"/>
+      </options>
+      <attrs>
+       <truckFactor val="true"/>
+       <blurType val="RADIAL"/>
+       <radius val="2" defaultValue="2"/>
+       <directionalAngle val="0" defaultValue="0"/>
+       <directionalFalloffRate val="1" defaultValue="1"/>
+       <useMatteColor val="false"/>
+       <invertMatte val="false"/>
+       <color>
+        <red val="-62"/>
+        <green val="-62"/>
+        <blue val="-62"/>
+        <alpha val="255"/>
+        <preferredUi val="separate"/>
+       </color>
+       <multiplicative val="false"/>
+       <colourGain val="1" defaultValue="1"/>
+      </attrs>
+     </module>
+     <module type="PEG_APPLY3" name="Apply-Image-Transformation" pos="-462,-221,9" publishUnderTab="Apply-Image-Transformation">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+     </module>
+     <module type="READ" name="tone" pos="-306,-107,8" publishUnderTab="tone">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-0D0B4CD6B30019FC">
+         <layer/>
+        </element>
+        <customName>
+         <name/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <colorSpace val="sRGB"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="zoomIndependent"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="false"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+      </attrs>
+     </module>
+     <module type="HIGHLIGHT" name="Highlight_1" pos="-321,-153,3" publishUnderTab="Highlight">
       <options>
        <collapsed val="false"/>
        <version val="2"/>
@@ -1051,10 +1225,10 @@
        <useMatteColor val="false"/>
        <invertMatte val="false"/>
        <color>
-        <red val="-100"/>
-        <green val="-100"/>
-        <blue val="-100"/>
-        <alpha val="153"/>
+        <red val="239"/>
+        <green val="157"/>
+        <blue val="67"/>
+        <alpha val="100"/>
         <preferredUi val="separate"/>
        </color>
        <multiplicative val="false"/>
@@ -1070,13 +1244,13 @@
      <link out="fon46" in="Composite" inport="0"/>
      <link out="23S" in="Composite" inport="2"/>
      <link out="Camera-P" in="Camera"/>
-     <link out="23L" in="Tone" inport="0"/>
      <link out="23L" in="Apply-Peg-Transformation_1" inport="0"/>
+     <link out="23L" in="Tone" inport="0"/>
      <link out="Apply-Peg-Transformation" in="Highlight" inport="1"/>
      <link out="Peg" in="Apply-Peg-Transformation" inport="2"/>
-     <link out="Apply-Peg-Transformation_1" in="Tone" inport="1"/>
      <link out="Peg_1" in="Apply-Peg-Transformation_1" inport="2"/>
      <link out="Tone" in="Composite" inport="3"/>
+     <link out="tone" in="Tone" inport="1"/>
     </linkedlist>
    </rootgroup>
    <unconnectedComposite>
