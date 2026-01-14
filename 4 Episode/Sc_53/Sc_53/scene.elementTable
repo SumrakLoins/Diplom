@@ -19,4 +19,6 @@
  <element id="19" elementName="fon53_14" elementFolder="fon53_14" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="20" elementName="fon53_15" elementFolder="fon53_15" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="21" elementName="Wind" elementFolder="Wind" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="22" elementName="l23" elementFolder="l23" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="23" elementName="lili" elementFolder="lili" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
 </elements>
